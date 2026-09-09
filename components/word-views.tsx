@@ -376,7 +376,7 @@ export function WordPractice({
       </div>
     );
   return (
-    <div className="practice-wrap">
+    <div className={'practice-wrap' + (!quiz && !write ? ' vocabulary-practice' : '')}>
       <div className="practice-toolbar">
         <button
           className="text-button"
@@ -423,6 +423,7 @@ export function WordPractice({
         <span style={{ width: `${(index / queue.length) * 100}%` }} />
       </div>
       <section className="flashcard">
+        <div className="word-prompt">
         <span className="eyebrow">
           {quiz
             ? 'CHOOSE THE ENGLISH WORD'
@@ -456,6 +457,7 @@ export function WordPractice({
             )}
           </div>
         )}
+        </div>
         {!quiz && !write && <ParallelVocabulary word={word.english} />}
         {quiz && (
           <div className="answer-grid">

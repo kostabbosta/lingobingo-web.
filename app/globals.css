@@ -71,18 +71,20 @@ p {
 }
 .brand {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 6px;
+  gap: 10px;
   margin: 0 0 32px;
 }
 .brand img {
-  width: 64px;
-  height: 64px;
+  width: 96px;
+  height: 96px;
   flex-shrink: 0;
   object-fit: contain;
   border-radius: 12px;
 }
 .brand > span {
+  text-align: center;
   font-size: 23px;
   letter-spacing: -1px;
   font-weight: 800;
@@ -657,11 +659,12 @@ footer {
     display: block;
   }
   .brand {
+    flex-direction: row;
     margin: 0;
   }
   .brand img {
-    width: 48px;
-    height: 48px;
+    width: 64px;
+    height: 64px;
   }
   .brand > span {
     font-size: 20px;
@@ -1035,7 +1038,8 @@ input {
   font-weight: 700;
   margin: 18px 0;
 }
-.flashcard > p {
+.flashcard > p,
+.word-prompt > p {
   color: #798ba3;
   font-size: 16px;
   margin-bottom: 15px;
@@ -1060,6 +1064,98 @@ input {
 }
 .practice-actions button {
   min-width: 160px;
+}
+/* Keep active vocabulary sessions within a typical laptop viewport. */
+main:has(.vocabulary-practice) {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+main:has(.vocabulary-practice) > .daily-stats,
+main:has(.vocabulary-practice) > .page-heading,
+.main-shell:has(.vocabulary-practice) > footer {
+  display: none;
+}
+.vocabulary-practice {
+  max-width: 1100px;
+  padding: 16px;
+  background: #fff;
+  border: 1px solid #dfe8f4;
+  border-radius: 18px;
+}
+.vocabulary-practice .practice-toolbar {
+  margin-bottom: 10px;
+}
+.vocabulary-practice .flashcard {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  align-items: center;
+  gap: 20px;
+  padding: 16px 0;
+  margin: 0;
+  border: 0;
+}
+.vocabulary-practice .word-prompt {
+  min-width: 0;
+}
+.vocabulary-practice .flashcard h2 {
+  font-size: clamp(30px, 3vw, 44px);
+  margin: 8px 0;
+}
+.vocabulary-practice .word-prompt > p {
+  margin-bottom: 8px;
+}
+.vocabulary-practice .meaning {
+  min-height: 52px;
+  margin-top: 12px;
+  padding-top: 12px;
+  overflow-wrap: anywhere;
+}
+.vocabulary-practice .parallel-vocabulary {
+  min-width: 0;
+  max-height: clamp(180px, 36dvh, 340px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+  margin-top: 0;
+  padding: 0 12px 0 20px;
+  border-left: 1px solid #edf1f7;
+}
+.vocabulary-practice .parallel-controls {
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.vocabulary-practice .parallel-controls label {
+  font-size: 14px;
+}
+.vocabulary-practice .parallel-pair {
+  gap: 12px;
+  padding: 8px 0;
+}
+.vocabulary-practice .parallel-pair p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.vocabulary-practice .flashcard > .notice {
+  grid-column: 1 / -1;
+  margin: 0;
+}
+.vocabulary-practice .practice-actions {
+  padding-top: 12px;
+  border-top: 1px solid #edf1f7;
+  flex-wrap: wrap;
+}
+@media (max-width: 700px) {
+  .vocabulary-practice .flashcard {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 12px 0;
+    gap: 16px;
+  }
+  .vocabulary-practice .parallel-vocabulary {
+    max-height: 180px;
+    padding: 12px 0 0;
+    border-left: 0;
+    border-top: 1px solid #edf1f7;
+  }
 }
 .answer-grid {
   display: grid;
