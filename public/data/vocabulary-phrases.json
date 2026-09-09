@@ -1,0 +1,38 @@
+[
+  {
+    "english_word": "pest control",
+    "language": "ru",
+    "translation": "борьба с вредителями",
+    "examples": [
+      {
+        "english": "Pest control helps protect the house from insects.",
+        "translation": "Борьба с вредителями помогает защитить дом от насекомых."
+      }
+    ],
+    "status": "draft"
+  },
+  {
+    "english_word": "sour",
+    "language": "ru",
+    "translation": "кислый",
+    "examples": [
+      {
+        "english": "This lemon tastes sour.",
+        "translation": "Этот лимон кислый на вкус."
+      }
+    ],
+    "status": "draft"
+  },
+  {
+    "english_word": "slightly",
+    "language": "hi",
+    "translation": "थोड़ा",
+    "examples": [
+      {
+        "english": "The door is slightly open.",
+        "translation": "दरवाज़ा थोड़ा खुला है।"
+      }
+    ],
+    "status": "draft"
+  }
+]

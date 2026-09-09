@@ -1,0 +1,2945 @@
+﻿# B1 - Intermediate Level Words (CEFR B1)
+# Format: english|category|partOfSpeech
+# Intermediate vocabulary for confident everyday communication
+# Abstract Concepts & General
+ability|General|noun
+absence|General|noun
+access|General|noun
+achievement|General|noun
+advantage|General|noun
+alternative|General|noun
+amount|General|noun
+analysis|General|noun
+appearance|General|noun
+approach|General|noun
+aspect|General|noun
+assessment|General|noun
+association|General|noun
+attempt|General|noun
+attitude|General|noun
+authority|General|noun
+awareness|General|noun
+background|General|noun
+barrier|General|noun
+basis|General|noun
+behavior|General|noun
+boundary|General|noun
+capacity|General|noun
+category|General|noun
+challenge|General|noun
+characteristic|General|noun
+circumstance|General|noun
+combination|General|noun
+commitment|General|noun
+community|General|noun
+comparison|General|noun
+complaint|General|noun
+component|General|noun
+concept|General|noun
+conclusion|General|noun
+condition|General|noun
+conflict|General|noun
+connection|General|noun
+consequence|General|noun
+consideration|General|noun
+construction|General|noun
+consumer|General|noun
+contact|General|noun
+contribution|General|noun
+convention|General|noun
+cooperation|General|noun
+creation|General|noun
+crisis|General|noun
+criticism|General|noun
+culture|General|noun
+decline|General|noun
+definition|General|noun
+demand|General|noun
+demonstration|General|noun
+detail|General|noun
+development|General|noun
+difference|General|noun
+dimension|General|noun
+direction|General|noun
+disadvantage|General|noun
+disorder|General|noun
+distribution|General|noun
+document|General|noun
+effect|General|noun
+element|General|noun
+emphasis|General|noun
+environment|General|noun
+era|General|noun
+error|General|noun
+essence|General|noun
+establishment|General|noun
+evaluation|General|noun
+evidence|General|noun
+evolution|General|noun
+exception|General|noun
+existence|General|noun
+expansion|General|noun
+experience|General|noun
+explanation|General|noun
+expression|General|noun
+extent|General|noun
+factor|General|noun
+feature|General|noun
+focus|General|noun
+function|General|noun
+generation|General|noun
+growth|General|noun
+identity|General|noun
+impact|General|noun
+importance|General|noun
+impression|General|noun
+improvement|General|noun
+incident|General|noun
+independence|General|noun
+individual|General|noun
+influence|General|noun
+initiative|General|noun
+instance|General|noun
+institution|General|noun
+interaction|General|noun
+issue|General|noun
+knowledge|General|noun
+lack|General|noun
+layer|General|noun
+limit|General|noun
+link|General|noun
+location|General|noun
+majority|General|noun
+manner|General|noun
+measurement|General|noun
+mechanism|General|noun
+method|General|noun
+minority|General|noun
+model|General|noun
+movement|General|noun
+notion|General|noun
+objective|General|noun
+observation|General|noun
+opportunity|General|noun
+option|General|noun
+origin|General|noun
+outcome|General|noun
+participation|General|noun
+pattern|General|noun
+percentage|General|noun
+perception|General|noun
+period|General|noun
+perspective|General|noun
+phase|General|noun
+phenomenon|General|noun
+policy|General|noun
+position|General|noun
+possibility|General|noun
+potential|General|noun
+practice|General|noun
+preference|General|noun
+presence|General|noun
+principle|General|noun
+priority|General|noun
+procedure|General|noun
+process|General|noun
+profession|General|noun
+proportion|General|noun
+proposal|General|noun
+purpose|General|noun
+range|General|noun
+reality|General|noun
+recommendation|General|noun
+reduction|General|noun
+reference|General|noun
+region|General|noun
+relation|General|noun
+requirement|General|noun
+resource|General|noun
+response|General|noun
+restriction|General|noun
+result|General|noun
+role|General|noun
+security|General|noun
+selection|General|noun
+sequence|General|noun
+series|General|noun
+significance|General|noun
+similarity|General|noun
+situation|General|noun
+solution|General|noun
+source|General|noun
+standard|General|noun
+statement|General|noun
+status|General|noun
+strategy|General|noun
+structure|General|noun
+substance|General|noun
+success|General|noun
+supply|General|noun
+support|General|noun
+surface|General|noun
+survey|General|noun
+symbol|General|noun
+system|General|noun
+technique|General|noun
+tendency|General|noun
+tension|General|noun
+theory|General|noun
+threat|General|noun
+tradition|General|noun
+transition|General|noun
+trend|General|noun
+value|General|noun
+variation|General|noun
+variety|General|noun
+version|General|noun
+volume|General|noun
+welfare|General|noun
+# B1 Adjectives
+absolute|Adjectives|adjective
+accurate|Adjectives|adjective
+actual|Adjectives|adjective
+additional|Adjectives|adjective
+adequate|Adjectives|adjective
+aggressive|Adjectives|adjective
+annual|Adjectives|adjective
+apparent|Adjectives|adjective
+appropriate|Adjectives|adjective
+artificial|Adjectives|adjective
+automatic|Adjectives|adjective
+aware|Adjectives|adjective
+basic|Adjectives|adjective
+brilliant|Adjectives|adjective
+capable|Adjectives|adjective
+central|Adjectives|adjective
+chemical|Adjectives|adjective
+civil|Adjectives|adjective
+classical|Adjectives|adjective
+clinical|Adjectives|adjective
+commercial|Adjectives|adjective
+complex|Adjectives|adjective
+comprehensive|Adjectives|adjective
+confident|Adjectives|adjective
+conscious|Adjectives|adjective
+considerable|Adjectives|adjective
+consistent|Adjectives|adjective
+constant|Adjectives|adjective
+contemporary|Adjectives|adjective
+controversial|Adjectives|adjective
+conventional|Adjectives|adjective
+convincing|Adjectives|adjective
+corporate|Adjectives|adjective
+crucial|Adjectives|adjective
+cultural|Adjectives|adjective
+current|Adjectives|adjective
+democratic|Adjectives|adjective
+dependent|Adjectives|adjective
+desperate|Adjectives|adjective
+digital|Adjectives|adjective
+domestic|Adjectives|adjective
+dramatic|Adjectives|adjective
+efficient|Adjectives|adjective
+electronic|Adjectives|adjective
+emotional|Adjectives|adjective
+enormous|Adjectives|adjective
+environmental|Adjectives|adjective
+equivalent|Adjectives|adjective
+essential|Adjectives|adjective
+ethnic|Adjectives|adjective
+eventual|Adjectives|adjective
+evident|Adjectives|adjective
+exact|Adjectives|adjective
+excessive|Adjectives|adjective
+exclusive|Adjectives|adjective
+executive|Adjectives|adjective
+existing|Adjectives|adjective
+extraordinary|Adjectives|adjective
+extreme|Adjectives|adjective
+familiar|Adjectives|adjective
+fatal|Adjectives|adjective
+federal|Adjectives|adjective
+fierce|Adjectives|adjective
+financial|Adjectives|adjective
+flexible|Adjectives|adjective
+formal|Adjectives|adjective
+former|Adjectives|adjective
+frequent|Adjectives|adjective
+fundamental|Adjectives|adjective
+generous|Adjectives|adjective
+genuine|Adjectives|adjective
+global|Adjectives|adjective
+gradual|Adjectives|adjective
+guilty|Adjectives|adjective
+harsh|Adjectives|adjective
+historic|Adjectives|adjective
+hostile|Adjectives|adjective
+ideal|Adjectives|adjective
+illegal|Adjectives|adjective
+immediate|Adjectives|adjective
+impressive|Adjectives|adjective
+incredible|Adjectives|adjective
+independent|Adjectives|adjective
+inevitable|Adjectives|adjective
+informal|Adjectives|adjective
+initial|Adjectives|adjective
+inner|Adjectives|adjective
+innovative|Adjectives|adjective
+intellectual|Adjectives|adjective
+intense|Adjectives|adjective
+internal|Adjectives|adjective
+invisible|Adjectives|adjective
+involved|Adjectives|adjective
+isolated|Adjectives|adjective
+keen|Adjectives|adjective
+latter|Adjectives|adjective
+leading|Adjectives|adjective
+legal|Adjectives|adjective
+liberal|Adjectives|adjective
+limited|Adjectives|adjective
+logical|Adjectives|adjective
+magnificent|Adjectives|adjective
+manual|Adjectives|adjective
+maximum|Adjectives|adjective
+mental|Adjectives|adjective
+military|Adjectives|adjective
+minimum|Adjectives|adjective
+minor|Adjectives|adjective
+moderate|Adjectives|adjective
+moral|Adjectives|adjective
+mutual|Adjectives|adjective
+narrow|Adjectives|adjective
+nationwide|Adjectives|adjective
+native|Adjectives|adjective
+negative|Adjectives|adjective
+neutral|Adjectives|adjective
+noble|Adjectives|adjective
+numerous|Adjectives|adjective
+obvious|Adjectives|adjective
+official|Adjectives|adjective
+ongoing|Adjectives|adjective
+operational|Adjectives|adjective
+opposed|Adjectives|adjective
+ordinary|Adjectives|adjective
+original|Adjectives|adjective
+outstanding|Adjectives|adjective
+overall|Adjectives|adjective
+overwhelming|Adjectives|adjective
+partial|Adjectives|adjective
+particular|Adjectives|adjective
+passive|Adjectives|adjective
+permanent|Adjectives|adjective
+physical|Adjectives|adjective
+pleasant|Adjectives|adjective
+political|Adjectives|adjective
+positive|Adjectives|adjective
+powerful|Adjectives|adjective
+practical|Adjectives|adjective
+precise|Adjectives|adjective
+primary|Adjectives|adjective
+primitive|Adjectives|adjective
+principal|Adjectives|adjective
+productive|Adjectives|adjective
+professional|Adjectives|adjective
+progressive|Adjectives|adjective
+prominent|Adjectives|adjective
+psychological|Adjectives|adjective
+pure|Adjectives|adjective
+racial|Adjectives|adjective
+radical|Adjectives|adjective
+random|Adjectives|adjective
+rapid|Adjectives|adjective
+rational|Adjectives|adjective
+realistic|Adjectives|adjective
+reasonable|Adjectives|adjective
+relevant|Adjectives|adjective
+reluctant|Adjectives|adjective
+remarkable|Adjectives|adjective
+remote|Adjectives|adjective
+representative|Adjectives|adjective
+respective|Adjectives|adjective
+reverse|Adjectives|adjective
+revolutionary|Adjectives|adjective
+rival|Adjectives|adjective
+rural|Adjectives|adjective
+sacred|Adjectives|adjective
+sensitive|Adjectives|adjective
+separate|Adjectives|adjective
+severe|Adjectives|adjective
+shallow|Adjectives|adjective
+sharp|Adjectives|adjective
+significant|Adjectives|adjective
+slight|Adjectives|adjective
+smooth|Adjectives|adjective
+social|Adjectives|adjective
+solar|Adjectives|adjective
+solid|Adjectives|adjective
+sophisticated|Adjectives|adjective
+spare|Adjectives|adjective
+specific|Adjectives|adjective
+stable|Adjectives|adjective
+steady|Adjectives|adjective
+strategic|Adjectives|adjective
+strict|Adjectives|adjective
+subsequent|Adjectives|adjective
+substantial|Adjectives|adjective
+subtle|Adjectives|adjective
+sufficient|Adjectives|adjective
+suitable|Adjectives|adjective
+superior|Adjectives|adjective
+supreme|Adjectives|adjective
+temporary|Adjectives|adjective
+theoretical|Adjectives|adjective
+tiny|Adjectives|adjective
+tough|Adjectives|adjective
+tropical|Adjectives|adjective
+typical|Adjectives|adjective
+ultimate|Adjectives|adjective
+unexpected|Adjectives|adjective
+uniform|Adjectives|adjective
+unique|Adjectives|adjective
+universal|Adjectives|adjective
+unlikely|Adjectives|adjective
+unusual|Adjectives|adjective
+upper|Adjectives|adjective
+urban|Adjectives|adjective
+urgent|Adjectives|adjective
+vast|Adjectives|adjective
+virtual|Adjectives|adjective
+visible|Adjectives|adjective
+vital|Adjectives|adjective
+voluntary|Adjectives|adjective
+vulnerable|Adjectives|adjective
+widespread|Adjectives|adjective
+worthy|Adjectives|adjective
+# B1 Verbs
+abandon|Actions|verb
+absorb|Actions|verb
+accompany|Actions|verb
+accomplish|Actions|verb
+accumulate|Actions|verb
+acquire|Actions|verb
+adapt|Actions|verb
+adjust|Actions|verb
+admire|Actions|verb
+adopt|Actions|verb
+afford|Actions|verb
+aim|Actions|verb
+alter|Actions|verb
+amuse|Actions|verb
+analyze|Actions|verb
+anticipate|Actions|verb
+appeal|Actions|verb
+arise|Actions|verb
+assign|Actions|verb
+associate|Actions|verb
+assume|Actions|verb
+assure|Actions|verb
+ban|Actions|verb
+bargain|Actions|verb
+bear|Actions|verb
+bind|Actions|verb
+bet|Actions|verb
+boost|Actions|verb
+borrow|Actions|verb
+capture|Actions|verb
+celebrate|Actions|verb
+circulate|Actions|verb
+classify|Actions|verb
+coach|Actions|verb
+collapse|Actions|verb
+commit|Actions|verb
+communicate|Actions|verb
+compare|Actions|verb
+compete|Actions|verb
+compose|Actions|verb
+concentrate|Actions|verb
+conduct|Actions|verb
+confess|Actions|verb
+confront|Actions|verb
+confuse|Actions|verb
+connect|Actions|verb
+conquer|Actions|verb
+consult|Actions|verb
+consume|Actions|verb
+convert|Actions|verb
+cooperate|Actions|verb
+cope|Actions|verb
+declare|Actions|verb
+defeat|Actions|verb
+define|Actions|verb
+defend|Actions|verb
+deliver|Actions|verb
+demonstrate|Actions|verb
+derive|Actions|verb
+detect|Actions|verb
+determine|Actions|verb
+devote|Actions|verb
+display|Actions|verb
+distinguish|Actions|verb
+distribute|Actions|verb
+dominate|Actions|verb
+draft|Actions|verb
+edit|Actions|verb
+elect|Actions|verb
+eliminate|Actions|verb
+embrace|Actions|verb
+emerge|Actions|verb
+emphasize|Actions|verb
+enable|Actions|verb
+encounter|Actions|verb
+engage|Actions|verb
+enhance|Actions|verb
+ensure|Actions|verb
+exhibit|Actions|verb
+expand|Actions|verb
+exploit|Actions|verb
+expose|Actions|verb
+extend|Actions|verb
+extract|Actions|verb
+facilitate|Actions|verb
+finance|Actions|verb
+flee|Actions|verb
+flourish|Actions|verb
+forbid|Actions|verb
+forecast|Actions|verb
+found|Actions|verb
+frustrate|Actions|verb
+fulfill|Actions|verb
+generate|Actions|verb
+govern|Actions|verb
+grasp|Actions|verb
+illustrate|Actions|verb
+implement|Actions|verb
+imply|Actions|verb
+impose|Actions|verb
+incorporate|Actions|verb
+indicate|Actions|verb
+inherit|Actions|verb
+inspect|Actions|verb
+install|Actions|verb
+integrate|Actions|verb
+interpret|Actions|verb
+intervene|Actions|verb
+isolate|Actions|verb
+justify|Actions|verb
+label|Actions|verb
+liberate|Actions|verb
+modify|Actions|verb
+monitor|Actions|verb
+neglect|Actions|verb
+negotiate|Actions|verb
+nominate|Actions|verb
+obey|Actions|verb
+observe|Actions|verb
+overcome|Actions|verb
+overlook|Actions|verb
+perceive|Actions|verb
+persist|Actions|verb
+please|Actions|verb
+portray|Actions|verb
+possess|Actions|verb
+poverty|Actions|noun
+praise|Actions|verb
+precede|Actions|verb
+preserve|Actions|verb
+prevail|Actions|verb
+promote|Actions|verb
+pursue|Actions|verb
+qualify|Actions|verb
+quote|Actions|verb
+rate|Actions|verb
+reckon|Actions|verb
+recruit|Actions|verb
+reduce|Actions|verb
+reform|Actions|verb
+refuse|Actions|verb
+regulate|Actions|verb
+reinforce|Actions|verb
+reject|Actions|verb
+render|Actions|verb
+renew|Actions|verb
+replace|Actions|verb
+reproduce|Actions|verb
+rescue|Actions|verb
+reserve|Actions|verb
+resign|Actions|verb
+resolve|Actions|verb
+retain|Actions|verb
+retreat|Actions|verb
+reunite|Actions|verb
+sacrifice|Actions|verb
+secure|Actions|verb
+seize|Actions|verb
+shift|Actions|verb
+specify|Actions|verb
+sponsor|Actions|verb
+stimulate|Actions|verb
+strike|Actions|verb
+submit|Actions|verb
+substitute|Actions|verb
+summarize|Actions|verb
+suspend|Actions|verb
+sustain|Actions|verb
+tackle|Actions|verb
+target|Actions|verb
+terminate|Actions|verb
+trigger|Actions|verb
+undergo|Actions|verb
+undertake|Actions|verb
+unite|Actions|verb
+urge|Actions|verb
+utilize|Actions|verb
+violate|Actions|verb
+withdraw|Actions|verb
+witness|Actions|verb
+yield|Actions|verb
+# B1 Common Phrases
+as a matter of fact|Common Phrases|phrase
+as far as I know|Common Phrases|phrase
+by the way|Common Phrases|phrase
+first of all|Common Phrases|phrase
+for instance|Common Phrases|phrase
+in addition|Common Phrases|phrase
+in case|Common Phrases|phrase
+in fact|Common Phrases|phrase
+in general|Common Phrases|phrase
+in order to|Common Phrases|phrase
+in particular|Common Phrases|phrase
+in spite of|Common Phrases|phrase
+in terms of|Common Phrases|phrase
+instead of|Common Phrases|phrase
+it depends|Common Phrases|phrase
+more or less|Common Phrases|phrase
+no wonder|Common Phrases|phrase
+not only but also|Common Phrases|phrase
+on behalf of|Common Phrases|phrase
+on the one hand|Common Phrases|phrase
+on the other hand|Common Phrases|phrase
+sooner or later|Common Phrases|phrase
+to be honest|Common Phrases|phrase
+to some extent|Common Phrases|phrase
+what is more|Common Phrases|phrase
+as a result|Common Phrases|phrase
+at least|Common Phrases|phrase
+due to|Common Phrases|phrase
+for the sake of|Common Phrases|phrase
+however|Common Phrases|phrase
+in contrast|Common Phrases|phrase
+in other words|Common Phrases|phrase
+meanwhile|Common Phrases|phrase
+nevertheless|Common Phrases|phrase
+on the contrary|Common Phrases|phrase
+otherwise|Common Phrases|phrase
+provided that|Common Phrases|phrase
+regardless of|Common Phrases|phrase
+therefore|Common Phrases|phrase
+whereas|Common Phrases|phrase
+whether or not|Common Phrases|phrase
+# Environment & Ecology
+pollution|Nature|noun
+recycling|Nature|noun
+waste|Nature|noun
+renewable|Nature|adjective
+sustainable|Nature|adjective
+conservation|Nature|noun
+deforestation|Nature|noun
+carbon footprint|Nature|noun
+greenhouse effect|Nature|noun
+global warming|Nature|noun
+ozone layer|Nature|noun
+biodiversity|Nature|noun
+emission|Nature|noun
+organic|Nature|adjective
+pesticide|Nature|noun
+fertilizer|Nature|noun
+irrigation|Nature|noun
+harvest|Nature|noun
+crop|Nature|noun
+livestock|Nature|noun
+agriculture|Nature|noun
+soil|Nature|noun
+erosion|Nature|noun
+flood|Nature|noun
+earthquake|Nature|noun
+volcanic eruption|Nature|noun
+# Media & Information
+journalist|Communication|noun
+editor|Communication|noun
+publisher|Communication|noun
+broadcast|Communication|noun
+channel|Communication|noun
+press|Communication|noun
+media|Communication|noun
+advertising|Communication|noun
+propaganda|Communication|noun
+censorship|Communication|noun
+correspondent|Communication|noun
+headline|Communication|noun
+column|Communication|noun
+editorial|Communication|noun
+subscription|Communication|noun
+circulation|Communication|noun
+tabloid|Communication|noun
+podcast|Communication|noun
+streaming|Communication|noun
+content|Communication|noun
+# Transportation extended
+commute|Travel|noun
+congestion|Travel|noun
+intersection|Travel|noun
+roundabout|Travel|noun
+overpass|Travel|noun
+underpass|Travel|noun
+highway|Travel|noun
+freeway|Travel|noun
+toll|Travel|noun
+speed limit|Travel|noun
+parking lot|Travel|noun
+garage|Travel|noun
+fuel|Travel|noun
+engine|Travel|noun
+steering wheel|Travel|noun
+brake|Travel|noun
+accelerator|Travel|noun
+clutch|Travel|noun
+gear|Travel|noun
+mirror|Travel|noun
+trunk|Travel|noun
+hood|Travel|noun
+tire|Travel|noun
+windshield|Travel|noun
+seatbelt|Travel|noun
+airbag|Travel|noun
+navigation|Travel|noun
+traffic jam|Travel|noun
+detour|Travel|noun
+shortcut|Travel|noun
+pedestrian crossing|Travel|noun
+# Housing & Real Estate
+apartment|Home|noun
+condominium|Home|noun
+penthouse|Home|noun
+cottage|Home|noun
+mansion|Home|noun
+villa|Home|noun
+cabin|Home|noun
+bungalow|Home|noun
+studio|Home|noun
+landlord|Home|noun
+tenant|Home|noun
+lease|Home|noun
+mortgage|Home|noun
+renovation|Home|noun
+foundation|Home|noun
+plumbing|Home|noun
+electricity|Home|noun
+insulation|Home|noun
+ventilation|Home|noun
+# IT & Development (Intermediate)
+algorithm|IT & Development|noun
+framework|IT & Development|noun
+frontend|IT & Development|noun
+backend|IT & Development|noun
+deployment|IT & Development|noun
+repository|IT & Development|noun
+branch|IT & Development|noun
+merge|IT & Development|verb
+compile|IT & Development|verb
+debug|IT & Development|verb
+API|IT & Development|noun
+endpoint|IT & Development|noun
+authentication|IT & Development|noun
+encryption|IT & Development|noun
+firewall|IT & Development|noun
+bandwidth|IT & Development|noun
+latency|IT & Development|noun
+scalability|IT & Development|noun
+infrastructure|IT & Development|noun
+microservice|IT & Development|noun
+container|IT & Development|noun
+virtual machine|IT & Development|noun
+open source|IT & Development|adjective
+full stack|IT & Development|adjective
+# Business Analysis (Intermediate)
+use case|Business Analysis|noun
+user story|Business Analysis|noun
+acceptance criteria|Business Analysis|noun
+backlog|Business Analysis|noun
+feasibility|Business Analysis|noun
+gap analysis|Business Analysis|noun
+benchmark|Business Analysis|noun
+KPI|Business Analysis|noun
+ROI|Business Analysis|noun
+swot analysis|Business Analysis|noun
+business rule|Business Analysis|noun
+data flow|Business Analysis|noun
+prototype|Business Analysis|noun
+mockup|Business Analysis|noun
+validation|Business Analysis|noun
+# Project Management (Intermediate)
+agile|Project Management|adjective
+scrum|Project Management|noun
+sprint|Project Management|noun
+kanban|Project Management|noun
+waterfall|Project Management|noun
+retrospective|Project Management|noun
+standup|Project Management|noun
+blocking issue|Project Management|noun
+dependency|Project Management|noun
+critical path|Project Management|noun
+project charter|Project Management|noun
+stakeholder management|Project Management|noun
+change request|Project Management|noun
+quality assurance|Project Management|noun
+risk assessment|Project Management|noun
+
+active duty|Work & Career|noun
+advance|General|verb
+advocate|General|noun
+affect|General|verb
+agency|Work & Career|noun
+allocate|Business & Finance|verb
+amateur|General|noun
+ambitious|General|adjective
+amend|General|verb
+analyse|General|verb
+announce|General|verb
+appetite|Health|noun
+apply for|Work & Career|phrase
+appreciate|General|verb
+approve|General|verb
+apt|General|adjective
+arise from|General|phrase
+arrangement|General|noun
+arrogant|General|adjective
+assess|General|verb
+asset|Business & Finance|noun
+assist|General|verb
+atmosphere|Science|noun
+audience|General|noun
+available|General|adjective
+average|General|adjective
+basically|General|adverb
+behaviour|General|noun
+benefit|General|noun
+biological|Science|adjective
+budget|Business & Finance|noun
+career|Work & Career|noun
+certain|General|adjective
+character|General|noun
+claim|General|verb
+colleague|Work & Career|noun
+collect|General|verb
+conclude|General|verb
+confirm|General|verb
+consider|General|verb
+construct|General|verb
+contribute|General|verb
+convince|General|verb
+coordinate|General|verb
+court|General|noun
+criticize|General|verb
+deadline|Work & Career|noun
+deal with|General|phrase
+debate|General|noun
+delay|General|noun
+deny|General|verb
+describe|General|verb
+deserve|General|verb
+despite|General|preposition
+differ|General|verb
+difficulty|General|noun
+distinct|General|adjective
+diversity|General|noun
+earn|Business & Finance|verb
+economic|Business & Finance|adjective
+educate|Education|verb
+effective|General|adjective
+employ|Work & Career|verb
+encourage|General|verb
+enforce|General|verb
+entire|General|adjective
+establish|General|verb
+estimate|General|verb
+evaluate|General|verb
+examine|General|verb
+exchange|General|verb
+experiment|Science|noun
+explicit|General|adjective
+extensive|General|adjective
+external|General|adjective
+facility|General|noun
+feedback|Work & Career|noun
+gradually|General|adverb
+guarantee|General|verb
+guidance|General|noun
+handle|General|verb
+highlight|General|verb
+hypothesis|Science|noun
+identify|General|verb
+improve|General|verb
+initially|General|adverb
+insight|General|noun
+inspire|General|verb
+interact|General|verb
+invest|Business & Finance|verb
+involve|General|verb
+lifestyle|General|noun
+likelihood|General|noun
+maintain|General|verb
+manage|General|verb
+mention|General|verb
+moreover|General|adverb
+motivation|General|noun
+obtain|General|verb
+obviously|General|adverb
+occur|General|verb
+oppose|General|verb
+organize|General|verb
+overlap|General|verb
+participant|General|noun
+partner|General|noun
+pension|Business & Finance|noun
+perform|General|verb
+prevent|Health|verb
+previously|General|adverb
+propose|General|verb
+provide|General|verb
+publish|General|verb
+qualified|Work & Career|adjective
+quality|General|noun
+raise|General|verb
+recognize|General|verb
+refer|General|verb
+reflect|General|verb
+regardless|General|adverb
+reliable|General|adjective
+research|Education|noun
+respond|General|verb
+responsible|General|adjective
+restrict|General|verb
+reveal|General|verb
+revenue|Business & Finance|noun
+review|General|verb
+routine|General|noun
+scale|General|noun
+scenario|General|noun
+schedule|Work & Career|noun
+sector|Work & Career|noun
+similar|General|adjective
+statistics|General|noun
+struggle|General|verb
+suggest|General|verb
+summary|General|noun
+throughout|General|preposition
+transform|General|verb
+treatment|Health|noun
+ultimately|General|adverb
+update|General|verb
+willing|General|adjective
+workforce|Work & Career|noun
+academic|Education|adjective
+accountability|General|noun
+acute|Health|adjective
+administration|General|noun
+affordable|Business & Finance|adjective
+anxiety|Health|noun
+approximately|General|adverb
+arbitration|General|noun
+assignment|Education|noun
+assumption|General|noun
+balance|General|noun
+capability|General|noun
+chronic|Health|adjective
+clarify|General|verb
+cognitive|General|adjective
+collaboration|Work & Career|noun
+commence|General|verb
+competition|General|noun
+compliance|General|noun
+correlation|Science|noun
+criteria|General|noun
+curriculum|Education|noun
+dedication|General|noun
+deficiency|Health|noun
+deliberate|General|adjective
+destination|Travel|noun
+discipline|Education|noun
+discrimination|General|noun
+domain|General|noun
+eligibility|General|noun
+enterprise|Business & Finance|noun
+ethical|General|adjective
+exceed|General|verb
+expertise|Work & Career|noun
+frequency|General|noun
+furthermore|General|adverb
+heritage|General|noun
+humanitarian|General|adjective
+ideology|General|noun
+implication|General|noun
+income|Business & Finance|noun
+inequality|General|noun
+integration|General|noun
+integrity|General|noun
+intervention|Health|noun
+investigation|General|noun
+labor|Work & Career|noun
+legislation|General|noun
+loyalty|General|noun
+migration|General|noun
+obligation|General|noun
+portfolio|Business & Finance|noun
+proficiency|Education|noun
+psychology|Health|noun
+recognition|General|noun
+regulation|General|noun
+relationship|General|noun
+reputation|General|noun
+resolution|General|noun
+shortage|General|noun
+simulation|Science|noun
+specification|General|noun
+sustainability|Science|noun
+transparency|General|noun
+uncertainty|General|noun
+variable|Science|noun
+violation|General|noun
+
+abolish|General|verb
+accommodation|Travel|noun
+acknowledgment|General|noun
+adaptation|General|noun
+addiction|Health|noun
+aftermath|General|noun
+aggression|General|noun
+alleviate|Health|verb
+allocation|Business & Finance|noun
+ambiguity|General|noun
+anonymous|General|adjective
+anticipation|General|noun
+arbitrary|General|adjective
+architecture|General|noun
+aspiration|General|noun
+autonomous|General|adjective
+bias|General|noun
+breakdown|General|noun
+broadband|Technology|noun
+bureaucracy|General|noun
+campaign|General|noun
+census|General|noun
+circular|General|adjective
+civic|General|adjective
+climate|Science|noun
+coalition|General|noun
+coherence|General|noun
+coincidence|General|noun
+collaborative|Work & Career|adjective
+commodity|Business & Finance|noun
+compensation|Business & Finance|noun
+compilation|General|noun
+complexity|General|noun
+conception|General|noun
+confrontation|General|noun
+consolidation|Business & Finance|noun
+context|General|noun
+contradiction|General|noun
+conviction|General|noun
+corruption|General|noun
+counseling|Health|noun
+credibility|General|noun
+critical thinking|Education|noun
+curiosity|Education|noun
+cutting-edge|Technology|adjective
+deliberation|General|noun
+democracy|General|noun
+deprivation|General|noun
+disposal|General|noun
+drought|Science|noun
+duplication|General|noun
+earnings|Business & Finance|noun
+ecosystem|Science|noun
+elimination|General|noun
+empathy|General|noun
+empowerment|General|noun
+enforcement|General|noun
+epidemic|Health|noun
+equality|General|noun
+exclusion|General|noun
+exhibition|General|noun
+expectation|General|noun
+exploitation|General|noun
+extension|General|noun
+extinction|Science|noun
+flexibility|General|noun
+fossil|Science|noun
+fragile|General|adjective
+freelance|Work & Career|adjective
+frustration|General|noun
+fulfillment|General|noun
+funding|Business & Finance|noun
+generosity|General|noun
+globalization|General|noun
+governance|General|noun
+graphic|Technology|noun
+greenhouse gas|Science|noun
+groundbreaking|General|adjective
+hardship|General|noun
+harassment|Work & Career|noun
+hierarchy|Work & Career|noun
+honesty|General|noun
+housing|General|noun
+identification|General|noun
+incentive|Business & Finance|noun
+inflation|Business & Finance|noun
+interpretation|General|noun
+isolation|Health|noun
+landfill|Science|noun
+leadership|Work & Career|noun
+limitation|General|noun
+living standard|General|noun
+local government|General|noun
+loneliness|Health|noun
+long-term|General|adjective
+mainstream|General|adjective
+manipulation|General|noun
+mindset|General|noun
+misunderstanding|General|noun
+multicultural|General|adjective
+narrative|General|noun
+negotiation|Business & Finance|noun
+neutrality|General|noun
+occupation|Work & Career|noun
+opposition|General|noun
+partnership|Business & Finance|noun
+persecution|General|noun
+persuasion|General|noun
+prejudice|General|noun
+pressure|General|noun
+privatization|Business & Finance|noun
+productivity|Work & Career|noun
+prosperity|Business & Finance|noun
+protection|General|noun
+publication|Education|noun
+race|General|noun
+recession|Business & Finance|noun
+reforming|General|verb
+rejection|General|noun
+representation|General|noun
+resilience|General|noun
+revolution|General|noun
+rights|General|noun
+sanitation|Health|noun
+satisfaction|General|noun
+segregation|General|noun
+simultaneously|General|adverb
+skepticism|General|noun
+social media|Technology|noun
+solidarity|General|noun
+sovereignty|General|noun
+species|Science|noun
+standard of living|General|noun
+stereotype|General|noun
+stimulus|General|noun
+subsidy|Business & Finance|noun
+taxation|Business & Finance|noun
+technology|Technology|noun
+territory|General|noun
+transformation|General|noun
+transport infrastructure|Travel|noun
+unemployment|Work & Career|noun
+urban planning|General|noun
+vaccination|Health|noun
+vulnerability|General|noun
+acknowledgement|General|noun
+alienation|General|noun
+ambivalence|General|noun
+amplification|General|noun
+appraisal|Work & Career|noun
+artificial intelligence|Technology|noun
+automation|Technology|noun
+behavioral|Health|adjective
+benchmarking|Work & Career|noun
+certification|Work & Career|noun
+civic engagement|General|noun
+co-operation|General|noun
+competence|General|noun
+conflict resolution|Work & Career|noun
+consumption|General|noun
+continuous improvement|Work & Career|noun
+contractual|Work & Career|adjective
+cross-cultural|General|adjective
+demographic|General|noun
+differentiation|Business & Finance|noun
+digital literacy|Education|noun
+diversity training|Work & Career|noun
+e-commerce|Technology|noun
+entrepreneurship|Business & Finance|noun
+evidence-based|Education|adjective
+first aid|Health|noun
+food security|General|noun
+foreign policy|General|noun
+gig economy|Work & Career|noun
+grassroots|General|adjective
+gross income|Business & Finance|noun
+growth rate|Business & Finance|noun
+habitat|Science|noun
+impact assessment|General|noun
+income gap|Business & Finance|noun
+inflation rate|Business & Finance|noun
+innovation|Technology|noun
+integrated|General|adjective
+interdependence|General|noun
+labor market|Work & Career|noun
+lobbying|General|noun
+market forces|Business & Finance|noun
+media literacy|Education|noun
+mental health|Health|noun
+microeconomics|Business & Finance|noun
+monetary|Business & Finance|adjective
+multilingual|Education|adjective
+natural resources|Science|noun
+non-governmental|General|adjective
+occupational|Work & Career|adjective
+online learning|Education|noun
+outreach|General|noun
+peer pressure|General|noun
+pension fund|Business & Finance|noun
+political asylum|General|noun
+power dynamics|General|noun
+public health|Health|noun
+quotation|Business & Finance|noun
+redistribution|Business & Finance|noun
+regional development|General|noun
+remote work|Work & Career|noun
+renewable energy|Science|noun
+rigorous|Education|adjective
+risk management|Business & Finance|noun
+self-employment|Work & Career|noun
+service sector|Business & Finance|noun
+shared economy|Business & Finance|noun
+skills gap|Work & Career|noun
+social capital|General|noun
+supply and demand|Business & Finance|noun
+sustainable development|Science|noun
+systemic|General|adjective
+tax reform|Business & Finance|noun
+trade agreement|Business & Finance|noun
+urban development|General|noun
+urbanization|General|noun
+user experience|Technology|noun
+value chain|Business & Finance|noun
+vocational training|Education|noun
+waste management|Science|noun
+work-life balance|Work & Career|noun
+
+abstract reasoning|Education|noun
+academic integrity|Education|noun
+adequacy|General|noun
+adjudication|General|noun
+advanced degree|Education|noun
+affirmative action|General|noun
+aggregate|Business & Finance|noun
+agility|Work & Career|noun
+algorithmic|Technology|adjective
+alternative energy|Science|noun
+ameliorate|General|verb
+amnesty|General|noun
+ample|General|adjective
+analogy|General|noun
+anarchism|General|noun
+annual leave|Work & Career|noun
+antagonism|General|noun
+anticorruption|General|noun
+antidote|Health|noun
+antiquated|General|adjective
+apparatus|General|noun
+arid|Science|adjective
+assertion|General|noun
+asymmetrical|Science|adjective
+atypical|General|adjective
+audit trail|Business & Finance|noun
+balanced budget|Business & Finance|noun
+behavioral change|General|noun
+benchmark analysis|Business Analysis|noun
+bilateral|General|adjective
+biosecurity|Science|noun
+board of directors|Business & Finance|noun
+bottom-up|General|adjective
+brain drain|Work & Career|noun
+brand awareness|Business & Finance|noun
+bridging|General|noun
+bureaucratic|General|adjective
+business cycle|Business & Finance|noun
+buyer's market|Business & Finance|noun
+capacity building|General|noun
+cash flow statement|Business & Finance|noun
+catching up|General|phrase
+causal|General|adjective
+centralized|General|adjective
+change management|Work & Career|noun
+chronological|General|adjective
+civic duty|General|noun
+civil rights|General|noun
+clearance|General|noun
+climate action|Science|noun
+coalition building|General|noun
+code of conduct|Work & Career|noun
+cognitive load|Education|noun
+cold war|General|noun
+collective|General|adjective
+colonialism|General|noun
+commercial bank|Business & Finance|noun
+common good|General|noun
+community outreach|General|noun
+compulsory education|Education|noun
+conceptual framework|Education|noun
+conciliatory|General|adjective
+conditional|General|adjective
+conflict of interest|Work & Career|noun
+conformity|General|noun
+consensus|General|noun
+consumer confidence|Business & Finance|noun
+contentious|General|adjective
+contingency plan|Work & Career|noun
+convergence|General|noun
+corporate strategy|Business & Finance|noun
+counterargument|General|noun
+counterclaim|General|noun
+credit rating|Business & Finance|noun
+critical analysis|Education|noun
+cross-border|General|adjective
+current account|Business & Finance|noun
+cyclical|Business & Finance|adjective
+data-driven|Technology|adjective
+debt ceiling|Business & Finance|noun
+decision making|Work & Career|noun
+decolonization|General|noun
+default|Business & Finance|noun
+democratic values|General|noun
+developing world|General|noun
+differentiated|Education|adjective
+digital economy|Technology|noun
+disability rights|General|noun
+discourse|General|noun
+displacement|General|noun
+diverge|General|verb
+dominant|General|adjective
+downward trend|Business & Finance|noun
+due process|General|noun
+economic forecasting|Business & Finance|noun
+emitting|Science|verb
+empirical data|Science|noun
+entrepreneurial|Business & Finance|adjective
+environmental impact|Science|noun
+escalation|General|noun
+essential service|General|noun
+ethical framework|General|noun
+evolutionary|Science|adjective
+exchange rate|Business & Finance|noun
+execution|Work & Career|noun
+exit strategy|Business & Finance|noun
+experimental|Science|adjective
+financial inclusion|Business & Finance|noun
+fiscal deficit|Business & Finance|noun
+fixed income|Business & Finance|noun
+flight of capital|Business & Finance|noun
+food chain|Science|noun
+forced migration|General|noun
+foreclosure|Business & Finance|noun
+formative|Education|adjective
+fossil fuel|Science|noun
+free trade|Business & Finance|noun
+freedom of speech|General|noun
+funding gap|Business & Finance|noun
+general equilibrium|Business & Finance|noun
+glass ceiling|Work & Career|noun
+global supply chain|Business & Finance|noun
+governance gap|General|noun
+green economy|Science|noun
+gross national product|Business & Finance|noun
+growth strategy|Business & Finance|noun
+guided|Education|adjective
+habitual|General|adjective
+hard power|General|noun
+harm reduction|Health|noun
+hate crime|General|noun
+health disparity|Health|noun
+heightened|General|adjective
+holistic approach|General|noun
+humanitarian aid|General|noun
+hybrid work|Work & Career|noun
+ideological|General|adjective
+inclusive economy|Business & Finance|noun
+income distribution|Business & Finance|noun
+independent variable|Science|noun
+indigenous|General|adjective
+inductive|General|adjective
+inequality index|Business & Finance|noun
+informed consent|Health|noun
+input-output|General|noun
+institutional|General|adjective
+intellectual freedom|Education|noun
+intergenerational|General|adjective
+intergovernmental|General|adjective
+internal audit|Business & Finance|noun
+interpretive|Education|adjective
+intersectionality|General|noun
+interventionist|General|adjective
+job market|Work & Career|noun
+job security|Work & Career|noun
+key performance|Work & Career|noun
+knowledge economy|Business & Finance|noun
+layoff|Work & Career|noun
+lean production|Work & Career|noun
+legal aid|General|noun
+legitimacy|General|noun
+living wage|Work & Career|noun
+local authority|General|noun
+long-run|Business & Finance|adjective
+macro-economic|Business & Finance|adjective
+marginalized group|General|noun
+market failure|Business & Finance|noun
+maternity leave|Work & Career|noun
+measurable|General|adjective
+media bias|General|noun
+mediator|General|noun
+mental resilience|Health|noun
+migration policy|General|noun
+modelling|General|noun
+monetary union|Business & Finance|noun
+multilateral|General|adjective
+national debt|Business & Finance|noun
+natural capital|Science|noun
+neoliberal|Business & Finance|adjective
+net zero|Science|noun
+non-profit|General|adjective
+normalization|General|noun
+novel approach|General|noun
+objective criteria|General|noun
+open economy|Business & Finance|noun
+operational risk|Business & Finance|noun
+oversight body|General|noun
+paradigm shift|General|noun
+participatory|General|adjective
+partnership agreement|Business & Finance|noun
+paternity leave|Work & Career|noun
+peer review|Education|noun
+performance indicator|Work & Career|noun
+policy reform|General|noun
+political economy|Business & Finance|noun
+population growth|Science|noun
+positive discrimination|Work & Career|noun
+post-industrial|General|adjective
+power sharing|General|noun
+predatory pricing|Business & Finance|noun
+premium|Business & Finance|noun
+proactive approach|Work & Career|noun
+productivity gap|Work & Career|noun
+proportional representation|General|noun
+protectionist|Business & Finance|adjective
+public deficit|Business & Finance|noun
+quantitative easing|Business & Finance|noun
+reparation|General|noun
+republican|General|adjective
+retraining|Work & Career|noun
+revenue stream|Business & Finance|noun
+rights-based|General|adjective
+risk-sharing|Business & Finance|noun
+role model|General|noun
+safe haven|General|noun
+self-governance|General|noun
+self-regulation|General|noun
+sense of belonging|General|noun
+social cohesion|General|noun
+social contract|General|noun
+social enterprise|Business & Finance|noun
+social inequality|General|noun
+soft power|General|noun
+sovereign debt|Business & Finance|noun
+speculative bubble|Business & Finance|noun
+stakeholder engagement|Business & Finance|noun
+state-owned|General|adjective
+strategic partnership|Business & Finance|noun
+structural adjustment|Business & Finance|noun
+student loan|Education|noun
+subjective|General|adjective
+subsistence|General|noun
+summit|General|noun
+sustainable finance|Business & Finance|noun
+systemic change|General|noun
+tax haven|Business & Finance|noun
+theoretical framework|Education|noun
+think tank|General|noun
+trade surplus|Business & Finance|noun
+trickle-down|Business & Finance|adjective
+unilateral action|General|noun
+universal basic income|General|noun
+unregulated|General|adjective
+upward mobility|General|noun
+urban sprawl|General|noun
+vertical integration|Business & Finance|noun
+virtual learning|Education|noun
+waste reduction|Science|noun
+welfare state|General|noun
+whistle-blower|Work & Career|noun
+white-collar|Work & Career|adjective
+working class|General|noun
+workload|Work & Career|noun
+world bank|Business & Finance|noun
+
+abstain|General|verb
+acceleration|Science|noun
+accessibility|General|noun
+accumulation|Business & Finance|noun
+achievement gap|Education|noun
+acne|Health|noun
+acute care|Health|noun
+administrative|Work & Career|adjective
+affiliated|General|adjective
+aggregate demand|Business & Finance|noun
+agri-business|Business & Finance|noun
+aid worker|Work & Career|noun
+algorithmic bias|Technology|noun
+anemia|Health|noun
+animal welfare|Science|noun
+annexation|General|noun
+anti-competitive|Business & Finance|adjective
+anti-discrimination|Work & Career|adjective
+antibiotics|Health|noun
+antitrust|Business & Finance|noun
+appetite suppression|Health|noun
+applied research|Science|noun
+appropriate technology|Technology|noun
+arbitrage|Business & Finance|noun
+assetization|Business & Finance|noun
+assistive technology|Technology|noun
+asylum seeker|General|noun
+authority figure|General|noun
+basic income|General|noun
+behavioral therapy|Health|noun
+biodegradable|Science|adjective
+biomass|Science|noun
+biomedical|Health|adjective
+blended learning|Education|noun
+blue-chip|Business & Finance|adjective
+border control|Travel|noun
+brain plasticity|Health|noun
+brand loyalty|Business & Finance|noun
+bribery|General|noun
+bureaucratic inefficiency|General|noun
+byproduct|General|noun
+cap and trade|Science|noun
+capital formation|Business & Finance|noun
+carbon neutral|Science|adjective
+cash reserve|Business & Finance|noun
+centrally planned|Business & Finance|adjective
+child labor|Work & Career|noun
+chronic disease|Health|noun
+circular economy|Science|noun
+civil servant|Work & Career|noun
+class mobility|General|noun
+clean technology|Science|noun
+climate change|Science|noun
+clinical trial|Health|noun
+coercive|General|adjective
+cohabitation|General|noun
+collaborative learning|Education|noun
+collective action|General|noun
+colonized|General|adjective
+commercial law|Business & Finance|noun
+committed|General|adjective
+commodities market|Business & Finance|noun
+community college|Education|noun
+comparative advantage|Business & Finance|noun
+compromise|General|noun
+concentration of power|General|noun
+conditional cash transfer|Business & Finance|noun
+consumer rights|Business & Finance|noun
+contested|General|adjective
+contract law|Business & Finance|noun
+contraception|Health|noun
+corporate scandal|Business & Finance|noun
+corporate tax|Business & Finance|noun
+counterterrorism|General|noun
+cronyism|General|noun
+cross-subsidization|Business & Finance|noun
+crowdfunding|Business & Finance|noun
+cultural appropriation|General|noun
+currency devaluation|Business & Finance|noun
+debt forgiveness|Business & Finance|noun
+debt-to-income ratio|Business & Finance|noun
+decarbonization|Science|noun
+defamation|General|noun
+demographic dividend|General|noun
+desertification|Science|noun
+differentiated instruction|Education|noun
+diplomatic relations|General|noun
+disruptive startup|Business & Finance|noun
+diversification|Business & Finance|noun
+domestic violence|Health|noun
+drone technology|Technology|noun
+drug resistance|Health|noun
+ecological footprint|Science|noun
+economic integration|Business & Finance|noun
+economic zone|Business & Finance|noun
+educational attainment|Education|noun
+efficiency wage|Work & Career|noun
+electronic health record|Health|noun
+embodied carbon|Science|noun
+emergency fund|Business & Finance|noun
+emotional labor|Work & Career|noun
+employer mandate|Work & Career|noun
+employment contract|Work & Career|noun
+empowerment zone|General|noun
+endowment fund|Business & Finance|noun
+energy poverty|Science|noun
+enforcement mechanism|General|noun
+environmental degradation|Science|noun
+epidemiology|Health|noun
+equitable access|General|noun
+ethical investment|Business & Finance|noun
+evaluative|Education|adjective
+exchange program|Education|noun
+exclusive rights|Business & Finance|noun
+extremism|General|noun
+fact-checking|General|noun
+fair wage|Work & Career|noun
+family planning|Health|noun
+famine|General|noun
+financial crisis|Business & Finance|noun
+fiscal responsibility|Business & Finance|noun
+food desert|Health|noun
+forced labor|Work & Career|noun
+foreign direct investment|Business & Finance|noun
+fossil record|Science|noun
+fragmented|General|adjective
+free market|Business & Finance|noun
+freedom of assembly|General|noun
+friction costs|Business & Finance|noun
+functional literacy|Education|noun
+GDP per capita|Business & Finance|noun
+global citizen|General|noun
+good governance|General|noun
+grassroots movement|General|noun
+harm reduction policy|Health|noun
+health equity|Health|noun
+health insurance|Health|noun
+high-value|Business & Finance|adjective
+host country|Travel|noun
+housing policy|General|noun
+human development index|General|noun
+human trafficking|General|noun
+humanitarian crisis|General|noun
+immigration reform|General|noun
+imported inflation|Business & Finance|noun
+inclusive education|Education|noun
+income tax|Business & Finance|noun
+information overload|General|noun
+institutional racism|General|noun
+insurance premium|Business & Finance|noun
+intellectual disability|Health|noun
+interest group|General|noun
+intergenerational poverty|General|noun
+international law|General|noun
+international trade|Business & Finance|noun
+intersecting|General|adjective
+job creation|Work & Career|noun
+judicial review|General|noun
+just transition|Science|noun
+knowledge transfer|Education|noun
+labor rights|Work & Career|noun
+land reform|General|noun
+labor union|Work & Career|noun
+laissez-faire|Business & Finance|adjective
+land use|Science|noun
+latent infection|Health|noun
+law enforcement|General|noun
+legal framework|General|noun
+limited liability|Business & Finance|noun
+logistical bottleneck|Work & Career|noun
+loss and damage|Science|noun
+low-carbon|Science|adjective
+low-income|General|adjective
+macro-level|General|adjective
+managed care|Health|noun
+market access|Business & Finance|noun
+maternal health|Health|noun
+media ownership|General|noun
+mental health policy|Health|noun
+microaggression|General|noun
+microgrid|Science|noun
+migrant worker|Work & Career|noun
+minimum wage|Work & Career|noun
+misinformation|General|noun
+mixed economy|Business & Finance|noun
+mobile payment|Technology|noun
+moral hazard|Business & Finance|noun
+multinational corporation|Business & Finance|noun
+mutual recognition|General|noun
+nationalization|Business & Finance|noun
+natural monopoly|Business & Finance|noun
+non-communicable disease|Health|noun
+non-refoulement|General|noun
+normative standard|General|noun
+nuclear deterrence|Science|noun
+occupational hazard|Work & Career|noun
+offshoring|Business & Finance|noun
+open government|General|noun
+patent protection|Business & Finance|noun
+path dependency|General|noun
+payroll tax|Business & Finance|noun
+peace dividend|General|noun
+per capita income|Business & Finance|noun
+pharmaceutical|Health|noun
+political instability|General|noun
+population aging|General|noun
+poverty trap|General|noun
+power asymmetry|General|noun
+precautionary principle|Science|noun
+primary education|Education|noun
+prison reform|General|noun
+private sector|Business & Finance|noun
+progressive education|Education|noun
+proportionality|General|noun
+protectionism|Business & Finance|noun
+proxy war|General|noun
+public health campaign|Health|noun
+racial profiling|General|noun
+rational choice theory|General|noun
+reforestation|Science|noun
+refugee camp|General|noun
+regional inequality|General|noun
+regulation gap|General|noun
+rehabilitation|Health|noun
+religious freedom|General|noun
+renewable portfolio|Science|noun
+reparations|General|noun
+resilient community|General|noun
+restorative justice|General|noun
+rule of law|General|noun
+safe water|Health|noun
+sanctions|Business & Finance|noun
+sanitation access|Health|noun
+security sector|General|noun
+self-determination|General|noun
+separation of powers|General|noun
+sexual harassment|Work & Career|noun
+shareholder value|Business & Finance|noun
+smart city|Technology|noun
+social entrepreneur|Business & Finance|noun
+social insurance|Business & Finance|noun
+social mobility|General|noun
+social protection|General|noun
+soft skills|Work & Career|noun
+solar energy|Science|noun
+state capacity|General|noun
+statutory|General|adjective
+structural racism|General|noun
+student performance|Education|noun
+subsidized housing|General|noun
+supply-side reform|Business & Finance|noun
+surveillance capitalism|Technology|noun
+tariff reform|Business & Finance|noun
+tax compliance|Business & Finance|noun
+technology transfer|Technology|noun
+transaction tax|Business & Finance|noun
+transparency index|General|noun
+treaty|General|noun
+unemployment benefit|Work & Career|noun
+universal healthcare|Health|noun
+urban resilience|General|noun
+value added tax|Business & Finance|noun
+vertical mobility|General|noun
+wage theft|Work & Career|noun
+water scarcity|Science|noun
+wealth gap|Business & Finance|noun
+wind energy|Science|noun
+women's rights|General|noun
+work permit|Work & Career|noun
+youth unemployment|Work & Career|noun
+
+abatement|Business & Finance|noun
+accountability framework|General|noun
+acute poverty|General|noun
+agricultural subsidy|Business & Finance|noun
+arable land|Science|noun
+asset stripping|Business & Finance|noun
+baseline funding|Business & Finance|noun
+behavioral economics|Business & Finance|noun
+biodiversity loss|Science|noun
+border tax|Business & Finance|noun
+carbon pricing|Science|noun
+child poverty|General|noun
+clean water access|Health|noun
+climate refugee|General|noun
+coastal erosion|Science|noun
+community policing|General|noun
+conflict mediation|General|noun
+consumer debt|Business & Finance|noun
+criminal justice|General|noun
+cross-border trade|Business & Finance|noun
+debt relief|Business & Finance|noun
+decentralization|General|noun
+demand management|Business & Finance|noun
+digital divide|Technology|noun
+drug decriminalization|Health|noun
+early childhood education|Education|noun
+economic stimulus|Business & Finance|noun
+environmental audit|Science|noun
+fair elections|General|noun
+fiscal policy|Business & Finance|noun
+flood management|Science|noun
+food sovereignty|General|noun
+gender equality|General|noun
+green infrastructure|Science|noun
+housing shortage|General|noun
+institutional reform|General|noun
+journalism|General|noun
+land degradation|Science|noun
+livable wage|Work & Career|noun
+local governance|General|noun
+marine ecosystem|Science|noun
+mass incarceration|General|noun
+migrant integration|General|noun
+municipal debt|Business & Finance|noun
+noise pollution|Science|noun
+occupational therapy|Health|noun
+pension reform|Business & Finance|noun
+periodic review|General|noun
+poverty alleviation|General|noun
+preventive medicine|Health|noun
+prison overcrowding|General|noun
+proxy indicator|Business Analysis|noun
+public accountability|General|noun
+racial equity|General|noun
+regulatory reform|Business & Finance|noun
+renewable transition|Science|noun
+resettlement|General|noun
+rural poverty|General|noun
+safe housing|General|noun
+school funding|Education|noun
+scientific literacy|Education|noun
+tax evasion|Business & Finance|noun
+trade deficit|Business & Finance|noun
+traffic congestion|General|noun
+victim support|Health|noun
+voluntary sector|General|noun
+wage growth|Work & Career|noun
+working poverty|Work & Career|noun
+
+# New words added from CEFR list
+kid|General|noun
+sale|General|noun
+tour|General|noun
+welcome|General|noun
+drop|General|noun
+fair|General|noun
+feet|General|noun
+jesus|General|noun
+absolutely|General|noun
+immediately|General|noun
+minute|General|noun
+nature|General|noun
+quick|General|noun
+unless|General|noun
+sell|General|noun
+beyond|General|noun
+extra|General|noun
+leaving|General|noun
+numbers|General|noun
+winning|General|noun
+agree|General|noun
+clean|General|noun
+computer|General|noun
+manager|General|noun
+photo|General|noun
+scene|General|noun
+spend|General|noun
+sun|General|noun
+canada|General|noun
+safety|General|noun
+sold|General|noun
+episode|General|noun
+justice|General|noun
+collection|General|noun
+gun|General|noun
+heavy|General|noun
+search|General|noun
+subject|General|noun
+train|General|noun
+wide|General|noun
+asking|General|noun
+calling|General|noun
+continued|General|noun
+definitely|General|noun
+designed|General|noun
+expected|General|noun
+friday|General|noun
+particularly|General|noun
+fit|General|noun
+hotel|General|noun
+interested|General|noun
+judge|General|noun
+lady|General|noun
+leader|General|noun
+letter|General|noun
+material|General|noun
+nobody|General|noun
+plus|General|noun
+product|General|noun
+regular|General|noun
+secretary|General|noun
+sister|General|noun
+unit|General|noun
+centre|General|noun
+author|General|noun
+dad|General|noun
+developed|General|noun
+fear|General|noun
+generally|General|noun
+german|General|noun
+gotta|General|noun
+named|General|noun
+floor|General|noun
+hurt|General|noun
+opening|General|noun
+opinion|General|noun
+reach|General|noun
+rule|General|noun
+seriously|General|noun
+stupid|General|noun
+successful|General|noun
+contract|General|noun
+degree|General|noun
+pro|General|noun
+bar|General|noun
+battle|General|noun
+brain|General|noun
+finished|General|noun
+growing|General|noun
+image|General|noun
+insurance|General|noun
+meant|General|noun
+active|General|noun
+dance|General|noun
+none|General|noun
+weekend|General|noun
+wonder|General|noun
+worst|General|noun
+russia|General|noun
+stock|General|noun
+australian|General|noun
+cancer|General|noun
+africa|General|noun
+band|General|noun
+fan|General|noun
+imagine|General|noun
+latest|General|noun
+older|General|noun
+operation|General|noun
+protect|General|noun
+secret|General|noun
+beach|General|noun
+cash|General|noun
+senior|General|noun
+spring|General|noun
+sunday|General|noun
+awesome|General|noun
+clearly|General|noun
+effort|General|noun
+ended|General|noun
+fighting|General|noun
+learning|General|noun
+multiple|General|noun
+organization|General|noun
+telling|General|noun
+wear|General|noun
+address|General|noun
+luck|General|noun
+marriage|General|noun
+necessary|General|noun
+rich|General|noun
+skin|General|noun
+sweet|General|noun
+touch|General|noun
+yesterday|General|noun
+choose|General|noun
+anyway|General|noun
+bought|General|noun
+christmas|General|noun
+commission|General|noun
+direct|General|noun
+dream|General|noun
+easily|General|noun
+finish|General|noun
+grand|General|noun
+indian|General|noun
+literally|General|noun
+supposed|General|noun
+thus|General|noun
+grow|General|noun
+machine|General|noun
+notice|General|noun
+professor|General|noun
+sit|General|noun
+trip|General|noun
+closed|General|noun
+damage|General|noun
+directly|General|noun
+doctor|General|noun
+drink|General|noun
+driving|General|noun
+planning|General|noun
+shown|General|noun
+caught|General|noun
+congress|General|noun
+disease|General|noun
+doubt|General|noun
+established|General|noun
+gay|General|noun
+greater|General|noun
+male|General|noun
+plant|General|noun
+spot|General|noun
+worse|General|noun
+captain|General|noun
+smith|General|noun
+associated|General|noun
+carry|General|noun
+crime|General|noun
+effects|General|noun
+explain|General|noun
+fully|General|noun
+highly|General|noun
+holding|General|noun
+japan|General|noun
+mrs|General|noun
+winter|General|noun
+advice|General|noun
+agreement|General|noun
+block|General|noun
+shop|General|noun
+sick|General|noun
+teacher|General|noun
+peter|General|noun
+rates|General|noun
+showing|General|noun
+award|General|noun
+broken|General|noun
+christian|General|noun
+comment|General|noun
+equipment|General|noun
+eventually|General|noun
+holy|General|noun
+killing|General|noun
+nation|General|noun
+camera|General|noun
+foot|General|noun
+hall|General|noun
+meaning|General|noun
+politics|General|noun
+weather|General|noun
+catch|General|noun
+coast|General|noun
+ran|General|noun
+saturday|General|noun
+avoid|General|noun
+cell|General|noun
+economy|General|noun
+mission|General|noun
+nine|General|noun
+trial|General|noun
+truly|General|noun
+activity|General|noun
+coffee|General|noun
+heat|General|noun
+interview|General|noun
+library|General|noun
+queen|General|noun
+sitting|General|noun
+walking|General|noun
+application|General|noun
+putting|General|noun
+standing|General|noun
+division|General|noun
+evening|General|noun
+flight|General|noun
+freedom|General|noun
+murder|General|noun
+accept|General|noun
+glass|General|noun
+northern|General|noun
+receive|General|noun
+ride|General|noun
+screen|General|noun
+serve|General|noun
+speech|General|noun
+traffic|General|noun
+tree|General|noun
+wonderful|General|noun
+placed|General|noun
+prior|General|noun
+religious|General|noun
+royal|General|noun
+slow|General|noun
+appear|General|noun
+broke|General|noun
+distance|General|noun
+eating|General|noun
+fat|General|noun
+fell|General|noun
+finding|General|noun
+learned|General|noun
+losing|General|noun
+mobile|General|noun
+wearing|General|noun
+whom|General|noun
+agreed|General|noun
+airport|General|noun
+lie|General|noun
+sad|General|noun
+square|General|noun
+traditional|General|noun
+twice|General|noun
+wind|General|noun
+worry|General|noun
+raised|General|noun
+begin|General|noun
+bottom|General|noun
+everybody|General|noun
+famous|General|noun
+investment|General|noun
+keeping|General|noun
+fresh|General|noun
+lake|General|noun
+mouth|General|noun
+owner|General|noun
+remain|General|noun
+score|General|noun
+smart|General|noun
+throw|General|noun
+totally|General|noun
+wedding|General|noun
+cent|General|noun
+realize|General|noun
+brand|General|noun
+count|General|noun
+covered|General|noun
+critical|General|noun
+forced|General|noun
+fourth|General|noun
+mostly|General|noun
+tom|General|noun
+acting|General|noun
+african|General|noun
+hill|General|noun
+metal|General|noun
+pull|General|noun
+push|General|noun
+rose|General|noun
+seat|General|noun
+village|General|noun
+click|General|noun
+profile|General|noun
+sexual|General|noun
+arms|General|noun
+estate|General|noun
+failed|General|noun
+faith|General|noun
+fashion|General|noun
+fund|General|noun
+hearing|General|noun
+louis|General|noun
+paris|General|noun
+understanding|General|noun
+agent|General|noun
+draw|General|noun
+memory|General|noun
+ring|General|noun
+rise|General|noun
+silver|General|noun
+soul|General|noun
+animal|General|noun
+apply|General|noun
+prime|General|noun
+spread|General|noun
+becoming|General|noun
+dude|General|noun
+enter|General|noun
+ex|General|noun
+japanese|General|noun
+weird|General|noun
+adult|General|noun
+healthy|General|noun
+prison|General|noun
+somebody|General|noun
+stone|General|noun
+wild|General|noun
+window|General|noun
+winner|General|noun
+artist|General|noun
+remains|General|noun
+senate|General|noun
+strength|General|noun
+apparently|General|noun
+chairman|General|noun
+edition|General|noun
+engineering|General|noun
+grade|General|noun
+happening|General|noun
+institute|General|noun
+mike|General|noun
+monday|General|noun
+bag|General|noun
+camp|General|noun
+dangerous|General|noun
+indeed|General|noun
+television|General|noun
+till|General|noun
+trouble|General|noun
+correct|General|noun
+removed|General|noun
+spirit|General|noun
+cast|General|noun
+christ|General|noun
+extremely|General|noun
+firm|General|noun
+leaves|General|noun
+usa|General|noun
+dinner|General|noun
+impossible|General|noun
+produce|General|noun
+progress|General|noun
+proud|General|noun
+require|General|noun
+shut|General|noun
+van|General|noun
+wood|General|noun
+shooting|General|noun
+apart|General|noun
+cat|General|noun
+decide|General|noun
+eastern|General|noun
+fifth|General|noun
+gift|General|noun
+helping|General|noun
+herself|General|noun
+joe|General|noun
+marketing|General|noun
+mary|General|noun
+nor|General|noun
+garden|General|noun
+length|General|noun
+lucky|General|noun
+patient|General|noun
+possibly|General|noun
+prove|General|noun
+rare|General|noun
+software|General|noun
+bridge|General|noun
+dear|General|noun
+setting|General|noun
+birth|General|noun
+copy|General|noun
+host|General|noun
+israel|General|noun
+journal|General|noun
+neither|General|noun
+horse|General|noun
+magic|General|noun
+map|General|noun
+net|General|noun
+request|General|noun
+stick|General|noun
+vehicle|General|noun
+wake|General|noun
+birthday|General|noun
+boss|General|noun
+dress|General|noun
+alive|General|noun
+apple|General|noun
+bitch|General|noun
+fellow|General|noun
+florida|General|noun
+knowing|General|noun
+aid|General|noun
+guide|General|noun
+roll|General|noun
+surprise|General|noun
+yours|General|noun
+youth|General|noun
+busy|General|noun
+corner|General|noun
+driver|General|noun
+responsibility|General|noun
+slightly|General|noun
+beauty|General|noun
+billion|General|noun
+concerned|General|noun
+conversation|General|noun
+criminal|General|noun
+develop|General|noun
+fix|General|noun
+fly|General|noun
+frank|General|noun
+operating|General|noun
+technical|General|noun
+treat|General|noun
+violence|General|noun
+iron|General|noun
+lovely|General|noun
+mad|General|noun
+magazine|General|noun
+religion|General|noun
+somewhere|General|noun
+web|General|noun
+dry|General|noun
+prepared|General|noun
+breaking|General|noun
+edge|General|noun
+evil|General|noun
+excited|General|noun
+forever|General|noun
+henry|General|noun
+injury|General|noun
+martin|General|noun
+ordered|General|noun
+parliament|General|noun
+wine|General|noun
+guard|General|noun
+honest|General|noun
+medicine|General|noun
+mountain|General|noun
+port|General|noun
+shoot|General|noun
+sport|General|noun
+stress|General|noun
+taste|General|noun
+tea|General|noun
+arm|General|noun
+bay|General|noun
+blog|General|noun
+reaction|General|noun
+spanish|General|noun
+closer|General|noun
+core|General|noun
+description|General|noun
+excellent|General|noun
+exist|General|noun
+lee|General|noun
+likes|General|noun
+victory|General|noun
+afternoon|General|noun
+clothes|General|noun
+festival|General|noun
+flat|General|noun
+ill|General|noun
+kick|General|noun
+mail|General|noun
+pair|General|noun
+plane|General|noun
+plenty|General|noun
+prince|General|noun
+proper|General|noun
+quarter|General|noun
+session|General|noun
+shape|General|noun
+sky|General|noun
+teaching|General|noun
+transfer|General|noun
+useful|General|noun
+valley|General|noun
+zone|General|noun
+assistant|General|noun
+emergency|General|noun
+picked|General|noun
+providing|General|noun
+regional|General|noun
+britain|General|noun
+classic|General|noun
+electric|General|noun
+entirely|General|noun
+failure|General|noun
+harry|General|noun
+hello|General|noun
+links|General|noun
+massive|General|noun
+toward|General|noun
+windows|General|noun
+accident|General|noun
+advanced|General|noun
+mix|General|noun
+museum|General|noun
+promise|General|noun
+rain|General|noun
+remove|General|noun
+terrible|General|noun
+tired|General|noun
+turning|General|noun
+warm|General|noun
+boat|General|noun
+cheap|General|noun
+discussion|General|noun
+duty|General|noun
+purchase|General|noun
+steel|General|noun
+anywhere|General|noun
+drinking|General|noun
+fantastic|General|noun
+flying|General|noun
+governor|General|noun
+hundred|General|noun
+industrial|General|noun
+joint|General|noun
+supporting|General|noun
+vice|General|noun
+afraid|General|noun
+moon|General|noun
+ocean|General|noun
+suit|General|noun
+border|General|noun
+canadian|General|noun
+crew|General|noun
+profit|General|noun
+proof|General|noun
+beer|General|noun
+command|General|noun
+crowd|General|noun
+dick|General|noun
+fixed|General|noun
+forest|General|noun
+intelligence|General|noun
+intended|General|noun
+labour|General|noun
+chair|General|noun
+historical|General|noun
+honestly|General|noun
+jump|General|noun
+suddenly|General|noun
+user|General|noun
+writer|General|noun
+yellow|General|noun
+ray|General|noun
+asian|General|noun
+attorney|General|noun
+ben|General|noun
+debt|General|noun
+expensive|General|noun
+grew|General|noun
+noted|General|noun
+originally|General|noun
+tech|General|noun
+download|General|noun
+hero|General|noun
+joke|General|noun
+loan|General|noun
+planet|General|noun
+restaurant|General|noun
+shopping|General|noun
+soft|General|noun
+sugar|General|noun
+surprised|General|noun
+transport|General|noun
+communication|General|noun
+selected|General|noun
+stuck|General|noun
+ancient|General|noun
+combined|General|noun
+connected|General|noun
+ending|General|noun
+exercise|General|noun
+express|General|noun
+formed|General|noun
+increasing|General|noun
+taught|General|noun
+accepted|General|noun
+drama|General|noun
+lawyer|General|noun
+mistake|General|noun
+platform|General|noun
+pool|General|noun
+regarding|General|noun
+route|General|noun
+scientific|General|noun
+smoke|General|noun
+teach|General|noun
+squad|General|noun
+applied|General|noun
+boston|General|noun
+confirmed|General|noun
+device|General|noun
+entry|General|noun
+golden|General|noun
+grant|General|noun
+grown|General|noun
+muslim|General|noun
+testing|General|noun
+abuse|General|noun
+comfortable|General|noun
+hole|General|noun
+holiday|General|noun
+laugh|General|noun
+leg|General|noun
+lunch|General|noun
+milk|General|noun
+pack|General|noun
+snow|General|noun
+storm|General|noun
+weak|General|noun
+angry|General|noun
+candidate|General|noun
+relatively|General|noun
+sub|General|noun
+concern|General|noun
+developing|General|noun
+discuss|General|noun
+everywhere|General|noun
+falling|General|noun
+fox|General|noun
+italian|General|noun
+jersey|General|noun
+letters|General|noun
+listening|General|noun
+ll|General|noun
+max|General|noun
+payment|General|noun
+actor|General|noun
+journey|General|noun
+kitchen|General|noun
+quiet|General|noun
+asia|General|noun
+chain|General|noun
+cook|General|noun
+cute|General|noun
+specifically|General|noun
+split|General|noun
+chapter|General|noun
+confidence|General|noun
+equal|General|noun
+measure|General|noun
+task|General|noun
+taxes|General|noun
+twenty|General|noun
+affected|General|noun
+aircraft|General|noun
+lay|General|noun
+smile|General|noun
+strange|General|noun
+talent|General|noun
+temperature|General|noun
+properly|General|noun
+reduced|General|noun
+sam|General|noun
+sat|General|noun
+approved|General|noun
+argument|General|noun
+considering|General|noun
+determined|General|noun
+extended|General|noun
+faster|General|noun
+fault|General|noun
+friendly|General|noun
+ladies|General|noun
+lights|General|noun
+mixed|General|noun
+thousand|General|noun
+tony|General|noun
+troops|General|noun
+bowl|General|noun
+chicken|General|noun
+meat|General|noun
+neck|General|noun
+novel|General|noun
+shirt|General|noun
+slowly|General|noun
+stadium|General|noun
+whenever|General|noun
+worried|General|noun
+zero|General|noun
+bird|General|noun
+remaining|General|noun
+besides|General|noun
+blame|General|noun
+bob|General|noun
+collected|General|noun
+coverage|General|noun
+dying|General|noun
+experienced|General|noun
+fired|General|noun
+forgot|General|noun
+inspired|General|noun
+ma|General|noun
+ministry|General|noun
+mode|General|noun
+passing|General|noun
+surgery|General|noun
+trading|General|noun
+tuesday|General|noun
+vision|General|noun
+literature|General|noun
+orange|General|noun
+ourselves|General|noun
+signal|General|noun
+stream|General|noun
+typically|General|noun
+unfortunately|General|noun
+usual|General|noun
+wave|General|noun
+champion|General|noun
+cream|General|noun
+serving|General|noun
+suicide|General|noun
+daniel|General|noun
+estimated|General|noun
+giant|General|noun
+jail|General|noun
+kingdom|General|noun
+mayor|General|noun
+opposite|General|noun
+theme|General|noun
+thursday|General|noun
+medium|General|noun
+recommend|General|noun
+ticket|General|noun
+unable|General|noun
+upset|General|noun
+wing|General|noun
+breakfast|General|noun
+customer|General|noun
+perfectly|General|noun
+seek|General|noun
+solo|General|noun
+spoke|General|noun
+alcohol|General|noun
+assembly|General|noun
+bright|General|noun
+carrying|General|noun
+chosen|General|noun
+conservative|General|noun
+cutting|General|noun
+desire|General|noun
+drunk|General|noun
+fail|General|noun
+granted|General|noun
+id|General|noun
+improved|General|noun
+jewish|General|noun
+largely|General|noun
+laughing|General|noun
+hang|General|noun
+newspaper|General|noun
+painting|General|noun
+row|General|noun
+salt|General|noun
+scared|General|noun
+switch|General|noun
+cycle|General|noun
+republic|General|noun
+scottish|General|noun
+bomb|General|noun
+creative|General|noun
+dealing|General|noun
+don|General|noun
+educational|General|noun
+entertainment|General|noun
+goods|General|noun
+info|General|noun
+mainly|General|noun
+offering|General|noun
+wales|General|noun
+bell|General|noun
+danger|General|noun
+mile|General|noun
+prize|General|noun
+register|General|noun
+singing|General|noun
+universe|General|noun
+warning|General|noun
+blow|General|noun
+boyfriend|General|noun
+careful|General|noun
+dollar|General|noun
+receiving|General|noun
+saving|General|noun
+appointed|General|noun
+armed|General|noun
+aside|General|noun
+assistance|General|noun
+bond|General|noun
+controlled|General|noun
+corporation|General|noun
+cry|General|noun
+delivery|General|noun
+empty|General|noun
+gender|General|noun
+kinda|General|noun
+motion|General|noun
+nick|General|noun
+pacific|General|noun
+wednesday|General|noun
+admit|General|noun
+drawing|General|noun
+guest|General|noun
+kiss|General|noun
+load|General|noun
+rent|General|noun
+sentence|General|noun
+brazil|General|noun
+plot|General|noun
+recovery|General|noun
+represent|General|noun
+senator|General|noun
+dedicated|General|noun
+frame|General|noun
+ha|General|noun
+heaven|General|noun
+teeth|General|noun
+understood|General|noun
+academy|General|noun
+achieve|General|noun
+adam|General|noun
+cheese|General|noun
+item|General|noun
+mess|General|noun
+parent|General|noun
+personally|General|noun
+pleasure|General|noun
+prefer|General|noun
+programme|General|noun
+tight|General|noun
+weekly|General|noun
+yard|General|noun
+bottle|General|noun
+bunch|General|noun
+chat|General|noun
+diet|General|noun
+scheme|General|noun
+stood|General|noun
+storage|General|noun
+andrew|General|noun
+bbc|General|noun
+competitive|General|noun
+em|General|noun
+favourite|General|noun
+fruit|General|noun
+index|General|noun
+lane|General|noun
+navy|General|noun
+tank|General|noun
+tend|General|noun
+transportation|General|noun
+unlike|General|noun
+hopefully|General|noun
+object|General|noun
+pregnant|General|noun
+suppose|General|noun
+tournament|General|noun
+turkey|General|noun
+basketball|General|noun
+button|General|noun
+employment|General|noun
+performing|General|noun
+personnel|General|noun
+premier|General|noun
+anybody|General|noun
+combat|General|noun
+constitution|General|noun
+counter|General|noun
+crown|General|noun
+crying|General|noun
+depression|General|noun
+el|General|noun
+excuse|General|noun
+expert|General|noun
+frequently|General|noun
+golf|General|noun
+grace|General|noun
+laid|General|noun
+manufacturing|General|noun
+mining|General|noun
+tool|General|noun
+victim|General|noun
+concert|General|noun
+mate|General|noun
+noise|General|noun
+plate|General|noun
+rice|General|noun
+roof|General|noun
+shame|General|noun
+tip|General|noun
+personality|General|noun
+prepare|General|noun
+relief|General|noun
+resistance|General|noun
+retail|General|noun
+somewhat|General|noun
+amazon|General|noun
+arrest|General|noun
+attend|General|noun
+carbon|General|noun
+catholic|General|noun
+chose|General|noun
+circle|General|noun
+crash|General|noun
+declared|General|noun
+depth|General|noun
+deputy|General|noun
+dirty|General|noun
+factory|General|noun
+headed|General|noun
+interior|General|noun
+joy|General|noun
+maintenance|General|noun
+panel|General|noun
+surely|General|noun
+bathroom|General|noun
+hide|General|noun
+print|General|noun
+quit|General|noun
+sight|General|noun
+sing|General|noun
+wet|General|noun
+baseball|General|noun
+calm|General|noun
+championship|General|noun
+reporting|General|noun
+significantly|General|noun
+soviet|General|noun
+bible|General|noun
+cable|General|noun
+checked|General|noun
+client|General|noun
+driven|General|noun
+dumb|General|noun
+empire|General|noun
+exciting|General|noun
+heavily|General|noun
+irish|General|noun
+linked|General|noun
+weapon|General|noun
+widely|General|noun
+worldwide|General|noun
+bike|General|noun
+cake|General|noun
+hardly|General|noun
+hat|General|noun
+height|General|noun
+hidden|General|noun
+loud|General|noun
+manchester|General|noun
+peak|General|noun
+princess|General|noun
+raw|General|noun
+secondary|General|noun
+somehow|General|noun
+unknown|General|noun
+contest|General|noun
+portion|General|noun
+protein|General|noun
+retirement|General|noun
+sample|General|noun
+suffering|General|noun
+anniversary|General|noun
+attractive|General|noun
+broad|General|noun
+burn|General|noun
+closely|General|noun
+constantly|General|noun
+hong|General|noun
+marine|General|noun
+motor|General|noun
+officially|General|noun
+pc|General|noun
+blind|General|noun
+breath|General|noun
+chest|General|noun
+introduction|General|noun
+paint|General|noun
+pilot|General|noun
+pink|General|noun
+singer|General|noun
+smoking|General|noun
+tall|General|noun
+presidential|General|noun
+recognized|General|noun
+registered|General|noun
+regularly|General|noun
+rising|General|noun
+shipping|General|noun
+steam|General|noun
+attached|General|noun
+automatically|General|noun
+battery|General|noun
+brief|General|noun
+decade|General|noun
+destroy|General|noun
+edward|General|noun
+engaged|General|noun
+fantasy|General|noun
+grab|General|noun
+hollywood|General|noun
+joseph|General|noun
+license|General|noun
+survive|General|noun
+theatre|General|noun
+therapy|General|noun
+adopted|General|noun
+comedy|General|noun
+musical|General|noun
+nose|General|noun
+plastic|General|noun
+recording|General|noun
+tie|General|noun
+valuable|General|noun
+cap|General|noun
+protected|General|noun
+semi|General|noun
+campus|General|noun
+childhood|General|noun
+commander|General|noun
+dan|General|noun
+defence|General|noun
+detailed|General|noun
+exposed|General|noun
+fed|General|noun
+fee|General|noun
+injured|General|noun
+jordan|General|noun
+organized|General|noun
+suspect|General|noun
+swear|General|noun
+wealth|General|noun
+aged|General|noun
+lift|General|noun
+operate|General|noun
+permission|General|noun
+reply|General|noun
+shoulder|General|noun
+shower|General|noun
+tower|General|noun
+wheel|General|noun
+bread|General|noun
+dancing|General|noun
+porn|General|noun
+racing|General|noun
+recommended|General|noun
+rid|General|noun
+roman|General|noun
+approval|General|noun
+burning|General|noun
+contain|General|noun
+employee|General|noun
+en|General|noun
+engineer|General|noun
+facing|General|noun
+fairly|General|noun
+ford|General|noun
+graduate|General|noun
+greek|General|noun
+hanging|General|noun
+marked|General|noun
+miller|General|noun
+monthly|General|noun
+visual|General|noun

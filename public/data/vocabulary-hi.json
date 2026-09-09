@@ -1,0 +1,10 @@
+[
+  {"english_word":"apple","language":"hi","translation":"सेब","examples":[{"english":"She eats an apple every day.","translation":"वह हर दिन एक सेब खाती है।"}],"status":"draft"},
+  {"english_word":"water","language":"hi","translation":"पानी","examples":[{"english":"Please drink some water.","translation":"कृपया थोड़ा पानी पिएँ।"}],"status":"draft"},
+  {"english_word":"book","language":"hi","translation":"किताब","examples":[{"english":"This book is very interesting.","translation":"यह किताब बहुत दिलचस्प है।"}],"status":"draft"},
+  {"english_word":"learn","language":"hi","translation":"सीखना","examples":[{"english":"I want to learn English.","translation":"मैं अंग्रेज़ी सीखना चाहता हूँ।"}],"status":"draft"},
+  {"english_word":"school","language":"hi","translation":"स्कूल","examples":[{"english":"The children are at school.","translation":"बच्चे स्कूल में हैं।"}],"status":"draft"},
+  {"english_word":"friend","language":"hi","translation":"दोस्त","examples":[{"english":"She is my friend.","translation":"वह मेरी दोस्त है।"}],"status":"draft"},
+  {"english_word":"beautiful","language":"hi","translation":"सुंदर","examples":[{"english":"This is a beautiful garden.","translation":"यह एक सुंदर बगीचा है।"}],"status":"draft"},
+  {"english_word":"read","language":"hi","translation":"पढ़ना","examples":[{"english":"The children read books.","translation":"बच्चे किताबें पढ़ते हैं।"}],"status":"draft"}
+]

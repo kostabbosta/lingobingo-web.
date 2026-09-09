@@ -1,0 +1,5748 @@
+{
+  "agree": [
+    "I agree with you.",
+    "Generally speaking, people tend to agree."
+  ],
+  "allow": [
+    "Allow me to elaborate on that point."
+  ],
+  "answer": [
+    "The judge demanded that the witness answer the question."
+  ],
+  "ask": [
+    "Speaking of which, I wanted to ask you something."
+  ],
+  "be": [
+    "Poverty must be understood in its social and historical context.",
+    "Individual rights must be balanced against the needs of society."
+  ],
+  "born": [
+    "I was born in 1995."
+  ],
+  "borrow": [
+    "Can I borrow your pen?"
+  ],
+  "break": [
+    "Let's discuss this after the break."
+  ],
+  "bring": [
+    "I've been meaning to bring this up for a while."
+  ],
+  "build": [
+    "It takes time to build good habits.",
+    "I'd like to build on what my colleague said earlier."
+  ],
+  "buy": [
+    "I will buy it if it is on sale.",
+    "If I were rich, I would buy a yacht."
+  ],
+  "call": [
+    "Can you call a taxi for me?",
+    "I've been meaning to call you."
+  ],
+  "catch": [
+    "\"Put on some music and catch a vibe.\""
+  ],
+  "change": [
+    "Climate change has a profound impact on agricultural output.",
+    "Solving climate change involves cooperation at a global level."
+  ],
+  "check": [
+    "I'd like to check in.",
+    "\"Check out his drip — fresh sneakers and all.\""
+  ],
+  "choose": [
+    "We find ourselves at a crossroads, and the path we choose will define our future."
+  ],
+  "clean": [
+    "A considerable proportion of the population lacks access to clean water.",
+    "Access to clean water is a fundamental human right."
+  ],
+  "collect": [
+    "Researchers used a variety of methods to collect their data."
+  ],
+  "come": [
+    "I've come to realize that balance is key.",
+    "\"Come on, spill! What happened?\""
+  ],
+  "complete": [
+    "To put it another way, we need a complete overhaul of the system."
+  ],
+  "continue": [
+    "Scientists continue to challenge the conventional model of the solar system.",
+    "Increasing production costs continue to erode our profit margin."
+  ],
+  "cross": [
+    "We can leverage our existing client base to cross-sell new products."
+  ],
+  "cut": [
+    "The bottom line is that we need to cut costs."
+  ],
+  "dance": [
+    "\"His dance moves were so cringe.\""
+  ],
+  "decide": [
+    "I need to think it over before I decide."
+  ],
+  "describe": [
+    "Candidates must analyse the graph and describe its key features."
+  ],
+  "develop": [
+    "Young children exposed to multiple languages develop stronger cognitive skills."
+  ],
+  "die": [
+    "\"She's my ride or die — always has my back.\""
+  ],
+  "do": [
+    "Do you speak English?",
+    "What do you do?"
+  ],
+  "draw": [
+    "I'd like to draw your attention to an important matter."
+  ],
+  "drink": [
+    "I drink water.",
+    "I drink coffee."
+  ],
+  "drive": [
+    "I can't drive."
+  ],
+  "eat": [
+    "I eat breakfast.",
+    "I eat lunch."
+  ],
+  "enjoy": [
+    "I enjoy cooking.",
+    "I enjoy reading books."
+  ],
+  "experience": [
+    "Digital tools can significantly enhance the learning experience.",
+    "A master's degree is equivalent to approximately five years of professional experience."
+  ],
+  "explain": [
+    "Could you explain that in more detail?"
+  ],
+  "feed": [
+    "\"Don't feed the trolls in the comments.\""
+  ],
+  "feel": [
+    "I don't feel well.",
+    "\"I'm so tired of homework.\" \"I feel you.\""
+  ],
+  "find": [
+    "Let's try to find a solution.",
+    "Please find attached the document."
+  ],
+  "finish": [
+    "I'll do my best to finish it on time.",
+    "They didn't finish the project."
+  ],
+  "get": [
+    "It's worth visiting if you get the chance.",
+    "I'll get back to you as soon as possible."
+  ],
+  "give": [
+    "Our lower operating costs give us a clear competitive advantage.",
+    "Don't give up, you're almost there."
+  ],
+  "go": [
+    "I go to school.",
+    "I go to work."
+  ],
+  "grow": [
+    "Mistakes help us grow."
+  ],
+  "have": [
+    "Resources available to students have increased with online learning.",
+    "In contrast to rural areas, urban populations have grown rapidly."
+  ],
+  "help": [
+    "Urban tree planting can help mitigate the effects of the urban heat island.",
+    "Can you help me?"
+  ],
+  "hope": [
+    "I sincerely hope that we can find common ground."
+  ],
+  "hurry": [
+    "Hurry up!"
+  ],
+  "improve": [
+    "The findings suggest that urban green spaces improve mental health.",
+    "We need to improve our gross margin from 28% to at least 35%."
+  ],
+  "increase": [
+    "The graph indicates a steady increase in global temperatures.",
+    "There has been a significant increase in the cost of living."
+  ],
+  "join": [
+    "\"Plug me in — I want to join the project.\""
+  ],
+  "jump": [
+    "I don't want to jump to conclusions."
+  ],
+  "know": [
+    "Effective managers know how to delegate tasks without micromanaging.",
+    "I don't know."
+  ],
+  "laugh": [
+    "\"Live Laugh Love signs are so cheugy.\""
+  ],
+  "learn": [
+    "I would learn Japanese if I had more time.",
+    "The reason I'm here is to learn."
+  ],
+  "leave": [
+    "When does the bus leave?",
+    "It's incumbent upon us to leave the world better than we found it."
+  ],
+  "lend": [
+    "The findings lend credence to the theory that early intervention is key."
+  ],
+  "like": [
+    "I like tea.",
+    "I would like a coffee, please."
+  ],
+  "live": [
+    "\"Live Laugh Love signs are so cheugy.\""
+  ],
+  "look": [
+    "I look forward to it.",
+    "Let's look at the bright side."
+  ],
+  "lose": [
+    "Let us not lose sight of what truly matters."
+  ],
+  "love": [
+    "I love my family.",
+    "\"I lowkey love that show.\" \"I highkey need a vacation.\""
+  ],
+  "make": [
+    "Sorry, I can't make it.",
+    "I'd like to make a complaint."
+  ],
+  "meet": [
+    "We need to increase our manufacturing capacity to meet seasonal demand.",
+    "Nice to meet you."
+  ],
+  "mix": [
+    "If you mix red and blue, you get purple."
+  ],
+  "need": [
+    "We need to increase our manufacturing capacity to meet seasonal demand.",
+    "We need to improve our gross margin from 28% to at least 35%."
+  ],
+  "open": [
+    "Could you open the window?",
+    "It's important to keep an open mind."
+  ],
+  "pass": [
+    "Not only did she pass the exam, but she also got the highest score.",
+    "\"Want to eat snails?\" \"Hard pass.\""
+  ],
+  "pay": [
+    "I'll pay by card.",
+    "Can I pay in cash?"
+  ],
+  "play": [
+    "I play football.",
+    "Do you play football?"
+  ],
+  "practice": [
+    "Practice makes perfect.",
+    "The more you practice, the more confident you become."
+  ],
+  "press": [
+    "The role of the internet today is analogous to that of the printing press in the 15th century."
+  ],
+  "pull": [
+    "Despite the setbacks, we managed to pull through.",
+    "\"Pull up to my house later.\""
+  ],
+  "put": [
+    "To put it another way, we need a complete overhaul of the system.",
+    "Let's put our heads together and brainstorm."
+  ],
+  "reach": [
+    "We need to reach a compromise."
+  ],
+  "read": [
+    "I read books.",
+    "\"I texted her an hour ago and got left on read.\""
+  ],
+  "reduce": [
+    "Renewable energy has enormous potential to reduce global emissions.",
+    "Scientists modified the gene sequence to reduce the risk of the disease."
+  ],
+  "relax": [
+    "\"Why are you so pressed about it? Relax.\""
+  ],
+  "rent": [
+    "\"That song is living rent-free in my head.\""
+  ],
+  "repeat": [
+    "Can you repeat that, please?"
+  ],
+  "return": [
+    "I'd like to return this.",
+    "I'd like a return ticket, please."
+  ],
+  "ride": [
+    "\"She's my ride or die — always has my back.\""
+  ],
+  "say": [
+    "It's bittersweet, to say the least.",
+    "I'd venture to say that the current policy is fundamentally flawed."
+  ],
+  "see": [
+    "See you later.",
+    "See you tomorrow."
+  ],
+  "sell": [
+    "We can leverage our existing client base to cross-sell new products."
+  ],
+  "send": [
+    "Please send me your full proposal by end of business Friday.",
+    "I'd appreciate it if you could send me the details."
+  ],
+  "show": [
+    "Both countries show similar trends in educational attainment.",
+    "\"I lowkey love that show.\" \"I highkey need a vacation.\""
+  ],
+  "sit": [
+    "Can I sit here?"
+  ],
+  "sleep": [
+    "\"Don't sleep on that new restaurant — it's fire.\"",
+    "\"Sleep is important.\" \"Big facts.\""
+  ],
+  "speak": [
+    "I speak English.",
+    "Do you speak English?"
+  ],
+  "start": [
+    "\"Time to boss up and start that business.\""
+  ],
+  "stay": [
+    "I'd rather stay home tonight, if you don't mind.",
+    "How long are you planning to stay?"
+  ],
+  "stop": [
+    "If only it would stop raining!"
+  ],
+  "study": [
+    "The study sought to establish a link between diet and mental health.",
+    "The study did not provide adequate evidence to support the hypothesis."
+  ],
+  "support": [
+    "Students can obtain additional support from the university library.",
+    "The study did not provide adequate evidence to support the hypothesis."
+  ],
+  "swim": [
+    "I can swim.",
+    "She could swim when she was five."
+  ],
+  "take": [
+    "The process of adapting to a new culture can take several years.",
+    "Policymakers must take a pragmatic approach to immigration reform."
+  ],
+  "talk": [
+    "\"Real talk, you need to study harder.\""
+  ],
+  "tell": [
+    "Could you tell me the way to the station?",
+    "Only time will tell."
+  ],
+  "think": [
+    "Let me think about it.",
+    "I think so too."
+  ],
+  "touch": [
+    "Let's keep in touch.",
+    "\"You've been gaming for 12 hours. Go touch grass.\""
+  ],
+  "translate": [
+    "Economic growth does not always translate to social equality."
+  ],
+  "try": [
+    "Can I try this on?",
+    "Let's try to find a solution."
+  ],
+  "turn": [
+    "Turn left at the traffic lights.",
+    "Turn right at the corner."
+  ],
+  "understand": [
+    "I don't understand.",
+    "I completely understand your point of view."
+  ],
+  "use": [
+    "Government endorsement helped legitimise the use of telemedicine."
+  ],
+  "visit": [
+    "I'm going to visit my grandparents."
+  ],
+  "wait": [
+    "Wait a moment, please."
+  ],
+  "wake up": [
+    "I usually wake up at seven."
+  ],
+  "want": [
+    "I don't want to jump to conclusions.",
+    "\"I'm tired of the 9 to 5 — I want to freelance.\""
+  ],
+  "wonder": [
+    "I can't help but wonder what might have been."
+  ],
+  "work": [
+    "Aid organisations work to distribute food evenly across affected regions.",
+    "Academic integrity requires that all work submitted be original."
+  ],
+  "all": [
+    "Governments should provide access to affordable healthcare for all.",
+    "Academic integrity requires that all work submitted be original."
+  ],
+  "amazing": [
+    "\"She looks amazing. Period.\""
+  ],
+  "any": [
+    "There are inherent risks in any experimental methodology.",
+    "I would urge caution before making any sweeping generalizations."
+  ],
+  "available": [
+    "Resources available to students have increased with online learning.",
+    "The thing is, I'm not available that day."
+  ],
+  "bad": [
+    "This is bad."
+  ],
+  "basic": [
+    "The concept of universal basic income is gaining academic attention.",
+    "\"Pumpkin spice latte and UGG boots — so basic.\""
+  ],
+  "beautiful": [
+    "It's beautiful.",
+    "Beautiful though the city was, we didn't stay."
+  ],
+  "big": [
+    "\"Eating pizza at 3 AM — big mood.\"",
+    "\"Sleep is important.\" \"Big facts.\""
+  ],
+  "boring": [
+    "\"This party's boring — let's bounce.\"",
+    "\"This class is so boring.\" \"True that.\""
+  ],
+  "clear": [
+    "Our lower operating costs give us a clear competitive advantage.",
+    "There is a clear dichotomy between economic growth and environmental sustainability."
+  ],
+  "cold": [
+    "It's cold today.",
+    "\"She only drinks organic cold-pressed juice — so bougie.\""
+  ],
+  "common": [
+    "I sincerely hope that we can find common ground."
+  ],
+  "dead": [
+    "\"He slipped on a banana peel — I'm dead 💀\"",
+    "\"If you think she'll forgive you, you're dead wrong.\""
+  ],
+  "different": [
+    "Different cultures may interpret the same data differently.",
+    "Do you have this in a different size?"
+  ],
+  "difficult": [
+    "It is difficult to justify cutting education spending in a recession.",
+    "It is difficult to ascertain the exact cause of the population decline."
+  ],
+  "easy": [
+    "It remains a contentious issue with no easy answers."
+  ],
+  "every": [
+    "Technological innovation has transformed every sector of the global economy.",
+    "The committee scrutinised every line of the proposed budget."
+  ],
+  "expensive": [
+    "It's too expensive.",
+    "This is more expensive than I thought."
+  ],
+  "far": [
+    "How far is it from here?",
+    "As far as I know, the office opens at nine."
+  ],
+  "final": [
+    "The final chapter elucidates the practical implications of the theory.",
+    "Success is not final, failure is not fatal."
+  ],
+  "free": [
+    "\"He finessed a free upgrade at the hotel.\"",
+    "\"That song is living rent-free in my head.\""
+  ],
+  "fresh": [
+    "I need some fresh air.",
+    "\"Check out his drip — fresh sneakers and all.\""
+  ],
+  "full": [
+    "Please send me your full proposal by end of business Friday.",
+    "I'm full, thank you."
+  ],
+  "good": [
+    "Good morning.",
+    "Good afternoon."
+  ],
+  "great": [
+    "We had a great time.",
+    "It was great catching up with you."
+  ],
+  "happy": [
+    "I am happy.",
+    "Happy birthday!"
+  ],
+  "hard": [
+    "I find it hard to reconcile these two conflicting viewpoints.",
+    "I'd be hard-pressed to find a more compelling example."
+  ],
+  "healthy": [
+    "Exercise is an essential component of a healthy lifestyle."
+  ],
+  "heavy": [
+    "The boxes are heavy."
+  ],
+  "high": [
+    "A well-structured essay is essential for a high IELTS Writing score.",
+    "It's high time we addressed this issue seriously."
+  ],
+  "honest": [
+    "To be honest, I didn't expect that."
+  ],
+  "hot": [
+    "It's hot today."
+  ],
+  "hungry": [
+    "I am hungry."
+  ],
+  "important": [
+    "It is important to clearly define what is meant by 'sustainable development'.",
+    "It's important to keep an open mind."
+  ],
+  "interested": [
+    "I'm interested in history."
+  ],
+  "interesting": [
+    "An analysis of the data reveals interesting patterns."
+  ],
+  "international": [
+    "Sustainable development requires international cooperation.",
+    "International cooperation is crucial for addressing the climate crisis."
+  ],
+  "kind": [
+    "What kind of music do you like?",
+    "He's the kind of person who always sees the glass half full."
+  ],
+  "local": [
+    "Local authorities are responsible for managing public transport.",
+    "I'd recommend trying the local food."
+  ],
+  "long": [
+    "Pollutants accumulate in the ocean, posing long-term ecological risks.",
+    "Recent findings refute the long-held assumption that the universe is static."
+  ],
+  "low": [
+    "This case study illuminates the challenges facing healthcare systems in low-income countries."
+  ],
+  "main": [
+    "\"That outfit is giving main character energy.\"",
+    "\"She walked in and gave main character energy.\""
+  ],
+  "many": [
+    "Many cultural traditions are being lost due to globalisation.",
+    "Many scientists advocate for stricter controls on carbon emissions."
+  ],
+  "modern": [
+    "Many modern medicines are derived from natural plant compounds.",
+    "Social media has a pervasive influence on modern political discourse."
+  ],
+  "much": [
+    "Thank you very much.",
+    "How much is this?"
+  ],
+  "natural": [
+    "Natural resources such as oil and water are limited and must be managed carefully.",
+    "Many modern medicines are derived from natural plant compounds."
+  ],
+  "new": [
+    "The government adopted a new approach to reducing carbon emissions.",
+    "Technology has created new opportunities but also new challenges."
+  ],
+  "next": [
+    "The proposal must be submitted by the client deadline of next Thursday.",
+    "Maybe next time."
+  ],
+  "nice": [
+    "Nice to meet you.",
+    "The weather is nice today."
+  ],
+  "old": [
+    "How old are you?"
+  ],
+  "only": [
+    "Not only did she pass the exam, but she also got the highest score.",
+    "Only time will tell."
+  ],
+  "original": [
+    "Academic integrity requires that all work submitted be original."
+  ],
+  "other": [
+    "On the other hand, there are some disadvantages."
+  ],
+  "own": [
+    "If I had saved money, I would own a house now."
+  ],
+  "patient": [
+    "Experience has taught me to be more patient."
+  ],
+  "perfect": [
+    "Practice makes perfect.",
+    "\"I totally ship them — they'd be perfect together.\""
+  ],
+  "poor": [
+    "Previous research suggests a link between poverty and poor health outcomes."
+  ],
+  "popular": [
+    "Contrary to popular belief, this method is more effective."
+  ],
+  "possible": [
+    "I'll get back to you as soon as possible.",
+    "We've barely scratched the surface of what's possible."
+  ],
+  "present": [
+    "It is essential that everyone be present."
+  ],
+  "public": [
+    "Local authorities are responsible for managing public transport."
+  ],
+  "ready": [
+    "The model proved successful at pilot stage and is now ready to scale."
+  ],
+  "real": [
+    "The new software facilitates real-time collaboration between remote teams.",
+    "\"Real talk, you need to study harder.\""
+  ],
+  "recent": [
+    "Recent findings refute the long-held assumption that the universe is static.",
+    "According to recent studies, the trend is changing."
+  ],
+  "responsible": [
+    "Local authorities are responsible for managing public transport.",
+    "The procurement team is responsible for negotiating contracts with suppliers."
+  ],
+  "rich": [
+    "If I were rich, I would buy a yacht."
+  ],
+  "right": [
+    "Access to clean water is a fundamental human right.",
+    "Turn right at the corner."
+  ],
+  "rough": [
+    "\"I failed the test.\" \"Oof, that's rough.\""
+  ],
+  "sad": [
+    "I am sad.",
+    "\"Listening to sad songs — I'm in my feels tonight.\""
+  ],
+  "salty": [
+    "\"She's still salty about losing the game.\""
+  ],
+  "same": [
+    "Different cultures may interpret the same data differently.",
+    "Revenue increased by 18% in Q3 compared to the same quarter last year."
+  ],
+  "serious": [
+    "Deforestation has serious consequences for biodiversity.",
+    "The ethical implications of artificial intelligence warrant serious discussion."
+  ],
+  "similar": [
+    "Both countries show similar trends in educational attainment."
+  ],
+  "simple": [
+    "The complexity of the issue defies simple solutions."
+  ],
+  "single": [
+    "The government moved to consolidate its legislative reforms into a single bill."
+  ],
+  "small": [
+    "The results are promising, with the caveat that sample sizes remain small."
+  ],
+  "some": [
+    "Some economists contend that inequality is an inevitable result of capitalism.",
+    "Some corporations attempt to circumvent environmental regulations through legal loopholes."
+  ],
+  "straight": [
+    "Go straight ahead.",
+    "\"Straight up, that was the best pizza ever.\""
+  ],
+  "strong": [
+    "The data suggests a strong correlation between education and income.",
+    "There is strong evidence to suggest that exercise reduces anxiety."
+  ],
+  "sure": [
+    "I'm not sure what to do about this situation.",
+    "\"Are you sure?\" \"A hunnid percent.\""
+  ],
+  "terrible": [
+    "The traffic is terrible during rush hour.",
+    "\"The weather has been terrible.\" \"Facts.\""
+  ],
+  "thirsty": [
+    "I am thirsty."
+  ],
+  "tight": [
+    "The team was able to execute the strategy flawlessly under tight deadlines."
+  ],
+  "tired": [
+    "I am tired.",
+    "\"I'm tired of the 9 to 5 — I want to freelance.\""
+  ],
+  "together": [
+    "Let's put our heads together and brainstorm.",
+    "We're all in this together."
+  ],
+  "total": [
+    "\"She only hangs out with celebs — total clout chaser.\"",
+    "\"He just follows trends — total NPC energy.\""
+  ],
+  "true": [
+    "Researchers debate the true motive behind early human migration patterns.",
+    "\"This class is so boring.\" \"True that.\""
+  ],
+  "whole": [
+    "I have mixed feelings about the whole thing.",
+    "\"She was throwing shade at him the whole party.\""
+  ],
+  "wonderful": [
+    "That smells wonderful."
+  ],
+  "wrong": [
+    "One could argue that we've been approaching this problem from the wrong angle.",
+    "\"If you think she'll forgive you, you're dead wrong.\""
+  ],
+  "young": [
+    "Social media has a growing influence on young people's self-image.",
+    "Young children exposed to multiple languages develop stronger cognitive skills."
+  ],
+  "bird": [
+    "Scientists investigated the effects of light pollution on bird migration."
+  ],
+  "dog": [
+    "I have a dog."
+  ],
+  "goat": [
+    "\"LeBron is the GOAT, no debate.\""
+  ],
+  "back": [
+    "I'll get back to you as soon as possible.",
+    "Looking back, I wouldn't change a thing."
+  ],
+  "face": [
+    "Species that cannot adapt to environmental changes face extinction.",
+    "\"Sunday is my self-care day — face masks and tea.\""
+  ],
+  "foot": [
+    "It's about ten minutes on foot."
+  ],
+  "hand": [
+    "On the other hand, there are some disadvantages."
+  ],
+  "head": [
+    "\"That song is living rent-free in my head.\""
+  ],
+  "cost": [
+    "There has been a significant increase in the cost of living."
+  ],
+  "deal": [
+    "\"After the deal, we're cashing out.\""
+  ],
+  "assumption": [
+    "The conclusion rests on an erroneous assumption about population growth.",
+    "Recent findings refute the long-held assumption that the universe is static."
+  ],
+  "data": [
+    "The data suggests a strong correlation between education and income.",
+    "Different cultures may interpret the same data differently."
+  ],
+  "efficiency": [
+    "Process automation has dramatically improved operational efficiency."
+  ],
+  "performance": [
+    "\"She ate that performance and left no crumbs.\""
+  ],
+  "productivity": [
+    "The company offered financial incentives to improve employee productivity.",
+    "Remote work tools have improved employee productivity significantly."
+  ],
+  "report": [
+    "The report provides a comprehensive analysis of market conditions.",
+    "The key deliverables for this quarter are the product launch and the sales report."
+  ],
+  "bag": [
+    "\"Gotta secure the bag before vacation.\""
+  ],
+  "boots": [
+    "\"Pumpkin spice latte and UGG boots — so basic.\""
+  ],
+  "shoes": [
+    "\"Sheesh, look at those new shoes!\""
+  ],
+  "watch": [
+    "I watch TV."
+  ],
+  "blue": [
+    "If you mix red and blue, you get purple."
+  ],
+  "bright": [
+    "Let's look at the bright side.",
+    "The sun is bright today."
+  ],
+  "color": [
+    "What color is this?"
+  ],
+  "green": [
+    "The findings suggest that urban green spaces improve mental health."
+  ],
+  "light": [
+    "Scientists investigated the effects of light pollution on bird migration."
+  ],
+  "orange": [
+    "She ate an orange."
+  ],
+  "purple": [
+    "If you mix red and blue, you get purple."
+  ],
+  "red": [
+    "If you mix red and blue, you get purple."
+  ],
+  "silver": [
+    "Every cloud has a silver lining."
+  ],
+  "i agree": [
+    "I agree with you."
+  ],
+  "i am fine": [
+    "I am fine."
+  ],
+  "i am happy": [
+    "I am happy."
+  ],
+  "i am hungry": [
+    "I am hungry."
+  ],
+  "i am learning english": [
+    "I am learning English."
+  ],
+  "i am sad": [
+    "I am sad."
+  ],
+  "i am thirsty": [
+    "I am thirsty."
+  ],
+  "i am tired": [
+    "I am tired."
+  ],
+  "i don't know": [
+    "I don't know."
+  ],
+  "i don't understand": [
+    "I don't understand."
+  ],
+  "i forgot": [
+    "I forgot my password."
+  ],
+  "i need": [
+    "I need to see a doctor.",
+    "I need some fresh air."
+  ],
+  "i think so": [
+    "I think so too."
+  ],
+  "i want": [
+    "\"I'm tired of the 9 to 5 — I want to freelance.\"",
+    "\"Plug me in — I want to join the project.\""
+  ],
+  "i would like": [
+    "I would like a coffee, please."
+  ],
+  "i'm sorry": [
+    "I'm sorry."
+  ],
+  "are you sure": [
+    "\"Are you sure?\" \"A hunnid percent.\""
+  ],
+  "as soon as possible": [
+    "I'll get back to you as soon as possible."
+  ],
+  "can i have": [
+    "Can I have the menu, please?",
+    "Can I have some water?"
+  ],
+  "can you help me": [
+    "Can you help me?"
+  ],
+  "can you repeat": [
+    "Can you repeat that, please?"
+  ],
+  "do you have": [
+    "Do you have brothers or sisters?",
+    "Do you have this in a different size?"
+  ],
+  "do you speak english": [
+    "Do you speak English?"
+  ],
+  "don't give up": [
+    "Don't give up, you're almost there."
+  ],
+  "go straight": [
+    "Go straight ahead."
+  ],
+  "have a good weekend": [
+    "Have a good weekend!"
+  ],
+  "help me": [
+    "Can you help me?"
+  ],
+  "how are you": [
+    "Hello, how are you?"
+  ],
+  "how far": [
+    "How far is it from here?"
+  ],
+  "how much": [
+    "How much is this?"
+  ],
+  "how old are you": [
+    "How old are you?"
+  ],
+  "hurry up": [
+    "Hurry up!"
+  ],
+  "in the end": [
+    "Things will work out in the end."
+  ],
+  "let me think about it": [
+    "Let me think about it."
+  ],
+  "let's go": [
+    "Let's go."
+  ],
+  "nice to meet you": [
+    "Nice to meet you."
+  ],
+  "no problem": [
+    "No problem."
+  ],
+  "no worries": [
+    "No worries, it happens to everyone."
+  ],
+  "on time": [
+    "I'll do my best to finish it on time."
+  ],
+  "right now": [
+    "I'm under a lot of pressure at work right now.",
+    "I am studying English right now."
+  ],
+  "see you later": [
+    "See you later."
+  ],
+  "see you tomorrow": [
+    "See you tomorrow."
+  ],
+  "take care": [
+    "Take care!"
+  ],
+  "take your time": [
+    "Take your time."
+  ],
+  "tell me": [
+    "Could you tell me the way to the station?"
+  ],
+  "turn left": [
+    "Turn left at the traffic lights."
+  ],
+  "turn right": [
+    "Turn right at the corner."
+  ],
+  "wait a moment": [
+    "Wait a moment, please."
+  ],
+  "what do you do": [
+    "What do you do?"
+  ],
+  "what happened": [
+    "What happened?",
+    "\"Bro, you won't believe what happened.\""
+  ],
+  "what is this": [
+    "What is this?"
+  ],
+  "what is your name": [
+    "What is your name?"
+  ],
+  "what time": [
+    "What time is it?",
+    "What time is checkout?"
+  ],
+  "where are you from": [
+    "Where are you from?"
+  ],
+  "where is": [
+    "Where is the bathroom?",
+    "Where is the nearest pharmacy?"
+  ],
+  "wish you all the best": [
+    "I wish you all the best."
+  ],
+  "address": [
+    "This problem, we must address immediately."
+  ],
+  "information": [
+    "I'd encourage you to think critically about the sources of information."
+  ],
+  "name": [
+    "What is your name?"
+  ],
+  "news": [
+    "\"I was shook when I heard the news.\""
+  ],
+  "speech": [
+    "The speech relied on emotional rhetoric rather than factual evidence.",
+    "\"That speech was iconic.\""
+  ],
+  "english": [
+    "English has become the dominant language of international commerce.",
+    "I speak English."
+  ],
+  "art": [
+    "\"My side hustle is selling art online.\""
+  ],
+  "biology": [
+    "Darwin's theory of natural selection revolutionised biology."
+  ],
+  "book": [
+    "I'd like to book a table for two.",
+    "You can't judge a book by its cover."
+  ],
+  "cite": [
+    "Students should cite credible sources in academic essays."
+  ],
+  "class": [
+    "\"This class is so boring.\" \"True that.\"",
+    "She is the smartest student in class."
+  ],
+  "education": [
+    "Children benefit significantly from bilingual education.",
+    "The data suggests a strong correlation between education and income."
+  ],
+  "exam": [
+    "I should have studied harder for the exam.",
+    "Not only did she pass the exam, but she also got the highest score."
+  ],
+  "high school": [
+    "\"She had a serious glow up since high school.\""
+  ],
+  "history": [
+    "I'm interested in history."
+  ],
+  "homework": [
+    "\"I'm so tired of homework.\" \"I feel you.\"",
+    "She has already finished her homework."
+  ],
+  "intelligence": [
+    "The ethical implications of artificial intelligence warrant serious discussion."
+  ],
+  "internet": [
+    "The role of the internet today is analogous to that of the printing press in the 15th century."
+  ],
+  "language": [
+    "The treaty's language was deliberately ambiguous to satisfy both parties.",
+    "The human brain has a remarkable capacity for language acquisition."
+  ],
+  "lesson": [
+    "Every experience is a lesson learned."
+  ],
+  "listening": [
+    "\"Listening to sad songs — I'm in my feels tonight.\""
+  ],
+  "major": [
+    "The new pricing strategy had a major impact on customer retention.",
+    "Reaching 10,000 subscribers was a major milestone for the startup."
+  ],
+  "music": [
+    "I like music.",
+    "What kind of music do you like?"
+  ],
+  "paper": [
+    "The paper outlines the research methodology in detail in Chapter 2."
+  ],
+  "pen": [
+    "Can I borrow your pen?"
+  ],
+  "phone": [
+    "My phone is broken.",
+    "The phone which I lost was expensive."
+  ],
+  "physics": [
+    "The lecture introduced abstract concepts in theoretical physics."
+  ],
+  "professor": [
+    "The professor acknowledged that the theory had significant limitations."
+  ],
+  "question": [
+    "The jury is still out on that question.",
+    "It begs the question of whether we're truly addressing the root cause."
+  ],
+  "student": [
+    "I am a student.",
+    "She is the smartest student in class."
+  ],
+  "study abroad": [
+    "She decided to study abroad."
+  ],
+  "teacher": [
+    "I am a teacher."
+  ],
+  "term": [
+    "Pollutants accumulate in the ocean, posing long-term ecological risks.",
+    "The long-term consequences of inaction could be catastrophic."
+  ],
+  "test": [
+    "The results demonstrate a significant improvement in test scores.",
+    "\"I failed the test.\" \"Oof, that's rough.\""
+  ],
+  "tutoring": [
+    "\"My side gig is tutoring English online.\""
+  ],
+  "university": [
+    "Students can obtain additional support from the university library."
+  ],
+  "afraid": [
+    "I'm afraid I won't be able to attend.",
+    "I'm afraid there's been a misunderstanding."
+  ],
+  "pleasure": [
+    "It was a pleasure meeting you.",
+    "It's been an absolute pleasure working with you."
+  ],
+  "stress": [
+    "The researchers concluded that stress directly impacts memory retention."
+  ],
+  "surprised": [
+    "Never have I been so surprised."
+  ],
+  "brother": [
+    "I have one brother.",
+    "Is he your brother?"
+  ],
+  "children": [
+    "Children benefit significantly from bilingual education.",
+    "Young children exposed to multiple languages develop stronger cognitive skills."
+  ],
+  "family": [
+    "The two cultures have distinct approaches to family structure.",
+    "This is my family."
+  ],
+  "friend": [
+    "This is my friend."
+  ],
+  "man": [
+    "\"What's good, bro?\" \"All good, man.\"",
+    "The man who called you is my boss."
+  ],
+  "people": [
+    "Online education has made learning accessible to people worldwide.",
+    "Generally speaking, people tend to agree."
+  ],
+  "person": [
+    "He's the kind of person who always sees the glass half full.",
+    "I've grown so much as a person over the past year."
+  ],
+  "banana": [
+    "\"He slipped on a banana peel — I'm dead 💀\""
+  ],
+  "coffee": [
+    "I drink coffee.",
+    "I would like a coffee, please."
+  ],
+  "juice": [
+    "\"She only drinks organic cold-pressed juice — so bougie.\""
+  ],
+  "oil": [
+    "Natural resources such as oil and water are limited and must be managed carefully."
+  ],
+  "pineapple": [
+    "\"He said pineapple on pizza is great. Based.\""
+  ],
+  "pizza": [
+    "Let's order pizza.",
+    "\"That pizza was the best I've ever had, no cap.\""
+  ],
+  "salt": [
+    "Could you pass the salt, please?"
+  ],
+  "sugar": [
+    "No sugar, please."
+  ],
+  "tea": [
+    "I like tea.",
+    "\"Spill the tea! What happened at the party?\""
+  ],
+  "water": [
+    "Natural resources such as oil and water are limited and must be managed carefully.",
+    "A considerable proportion of the population lacks access to clean water."
+  ],
+  "i": [
+    "I speak English.",
+    "I don't understand."
+  ],
+  "about": [
+    "At the end of the day, the bottom line is what investors care about.",
+    "The conclusion rests on an erroneous assumption about population growth."
+  ],
+  "above": [
+    "He went above and beyond to help us."
+  ],
+  "across": [
+    "Aid organisations work to distribute food evenly across affected regions.",
+    "How individuals perceive risk varies greatly across cultures."
+  ],
+  "admire": [
+    "I admire his dedication and work ethic."
+  ],
+  "advice": [
+    "It would be presumptuous of me to offer advice without knowing the full context."
+  ],
+  "against": [
+    "Individual rights must be balanced against the needs of society.",
+    "We must guard against complacency in times of apparent stability."
+  ],
+  "again": [
+    "\"Bruh, you really forgot your keys again?\"",
+    "\"I was doomscrolling Twitter at 2 AM again.\""
+  ],
+  "age": [
+    "The duration of the ice age spanned approximately 2.6 million years."
+  ],
+  "ahead": [
+    "Go straight ahead.",
+    "Looking ahead, we expect steady growth."
+  ],
+  "album": [
+    "\"When is that new album dropping?\""
+  ],
+  "almost": [
+    "Don't give up, you're almost there.",
+    "\"They almost threw hands at the game.\""
+  ],
+  "also": [
+    "Technology has created new opportunities but also new challenges.",
+    "Not only did she pass the exam, but she also got the highest score."
+  ],
+  "and": [
+    "Candidates must analyse the graph and describe its key features.",
+    "Poverty must be understood in its social and historical context."
+  ],
+  "another": [
+    "To put it another way, we need a complete overhaul of the system."
+  ],
+  "anything": [
+    "Please let me know if there's anything I can do."
+  ],
+  "are": [
+    "Local authorities are responsible for managing public transport.",
+    "Students are asked to evaluate the effectiveness of current policies."
+  ],
+  "around": [
+    "Let's not beat around the bush.",
+    "The discourse around this topic has become increasingly polarized."
+  ],
+  "as": [
+    "Unemployment is perceived as the greatest threat to social stability.",
+    "Natural resources such as oil and water are limited and must be managed carefully."
+  ],
+  "attention": [
+    "The concept of universal basic income is gaining academic attention.",
+    "I'd like to draw your attention to an important matter."
+  ],
+  "at": [
+    "Solving climate change involves cooperation at a global level.",
+    "At the end of the day, the bottom line is what investors care about."
+  ],
+  "barely": [
+    "We've barely scratched the surface of what's possible."
+  ],
+  "beat": [
+    "Let's not beat around the bush.",
+    "\"This burrito slaps!\" \"That beat slaps.\""
+  ],
+  "become": [
+    "English has become the dominant language of international commerce.",
+    "Smartphones have become ubiquitous in both developed and developing nations."
+  ],
+  "been": [
+    "There has been a significant increase in the cost of living.",
+    "Customer service has always been our company's core competency."
+  ],
+  "behind": [
+    "Researchers debate the true motive behind early human migration patterns."
+  ],
+  "being": [
+    "Many cultural traditions are being lost due to globalisation."
+  ],
+  "believe": [
+    "I believe in you.",
+    "\"Bro, you won't believe what happened.\""
+  ],
+  "best": [
+    "I wish you all the best.",
+    "I'll do my best to finish it on time."
+  ],
+  "better": [
+    "Better late than never.",
+    "I'm gradually getting better at it."
+  ],
+  "between": [
+    "The data suggests a strong correlation between education and income.",
+    "The study sought to establish a link between diet and mental health."
+  ],
+  "bold": [
+    "Fortune favors the bold."
+  ],
+  "both": [
+    "Globalisation has accelerated the spread of both culture and disease.",
+    "Both countries show similar trends in educational attainment."
+  ],
+  "bottom": [
+    "At the end of the day, the bottom line is what investors care about.",
+    "The bottom line is that we need to cut costs."
+  ],
+  "bounce": [
+    "\"This party's boring — let's bounce.\""
+  ],
+  "broken": [
+    "My phone is broken."
+  ],
+  "burrito": [
+    "\"This burrito slaps!\" \"That beat slaps.\""
+  ],
+  "but": [
+    "Technology has created new opportunities but also new challenges.",
+    "I respect your opinion, but I see it differently."
+  ],
+  "calm": [
+    "She has a remarkable ability to stay calm under pressure."
+  ],
+  "can": [
+    "Students can obtain additional support from the university library.",
+    "The process of adapting to a new culture can take several years."
+  ],
+  "cap": [
+    "\"That pizza was the best I've ever had, no cap.\"",
+    "\"He said he can dunk? That's cap.\""
+  ],
+  "carefully": [
+    "Natural resources such as oil and water are limited and must be managed carefully.",
+    "We need to weigh the pros and cons carefully."
+  ],
+  "care": [
+    "At the end of the day, the bottom line is what investors care about.",
+    "Take care!"
+  ],
+  "case": [
+    "This case study illuminates the challenges facing healthcare systems in low-income countries."
+  ],
+  "chain": [
+    "The startup proposed an innovative solution to supply chain inefficiency."
+  ],
+  "chance": [
+    "It's worth visiting if you get the chance.",
+    "I wish I had taken that opportunity when I had the chance."
+  ],
+  "choice": [
+    "The author's bias is implicit in the choice of language throughout the text."
+  ],
+  "cinema": [
+    "I went to the cinema last night.",
+    "She went to the cinema yesterday."
+  ],
+  "clouds": [
+    "Look at those clouds — it is going to rain."
+  ],
+  "complain": [
+    "He wanted to complain but decided not to."
+  ],
+  "completely": [
+    "I completely understand your point of view."
+  ],
+  "concert": [
+    "\"The whole squad is going to the concert.\"",
+    "\"I stan that artist — I've been to every concert.\""
+  ],
+  "cooler": [
+    "\"She's even cooler IRL than on social media.\""
+  ],
+  "core": [
+    "Customer service has always been our company's core competency."
+  ],
+  "could": [
+    "Rising sea levels could fundamentally alter coastal ecosystems.",
+    "Could you tell me the way to the station?"
+  ],
+  "cover": [
+    "You can't judge a book by its cover."
+  ],
+  "cozy": [
+    "\"Her room has that cozy autumn aesthetic.\""
+  ],
+  "crash": [
+    "\"Can I crash at your place tonight?\""
+  ],
+  "culture": [
+    "Globalisation has accelerated the spread of both culture and disease.",
+    "The process of adapting to a new culture can take several years."
+  ],
+  "deeply": [
+    "I'm deeply grateful for everything you've done."
+  ],
+  "delicious": [
+    "The food is delicious."
+  ],
+  "detail": [
+    "The paper outlines the research methodology in detail in Chapter 2.",
+    "Could you explain that in more detail?"
+  ],
+  "did": [
+    "The study did not provide adequate evidence to support the hypothesis.",
+    "What did you do yesterday?"
+  ],
+  "dip": [
+    "\"I gotta dip before it gets late.\""
+  ],
+  "direction": [
+    "I'm cautiously hopeful that we're heading in the right direction."
+  ],
+  "directly": [
+    "The researchers concluded that stress directly impacts memory retention.",
+    "Government policies on immigration directly affect economic output."
+  ],
+  "does": [
+    "Economic growth does not always translate to social equality.",
+    "The fossil record does not always correspond to current evolutionary theory."
+  ],
+  "doing": [
+    "What are you doing this weekend?",
+    "I'm doing my best under the circumstances."
+  ],
+  "done": [
+    "In hindsight, we should have done things differently.",
+    "What's done is done."
+  ],
+  "down": [
+    "The pace of innovation shows no signs of slowing down."
+  ],
+  "drip": [
+    "\"Check out his drip — fresh sneakers and all.\""
+  ],
+  "end": [
+    "At the end of the day, the bottom line is what investors care about.",
+    "Please send me your full proposal by end of business Friday."
+  ],
+  "energy": [
+    "Renewable energy has enormous potential to reduce global emissions.",
+    "From the passage, we can infer that the author supports renewable energy."
+  ],
+  "environment": [
+    "Protecting the environment is one of the greatest challenges of our time.",
+    "A stable political environment is essential for economic investment."
+  ],
+  "event": [
+    "All things considered, it was a successful event.",
+    "The narrative surrounding this event has been highly misleading."
+  ],
+  "even": [
+    "\"She's even cooler IRL than on social media.\"",
+    "\"She has the receipts — don't even try to deny it.\""
+  ],
+  "every day": [
+    "I study every day.",
+    "\"He bought her flowers every day — what a simp.\""
+  ],
+  "everything": [
+    "I'm deeply grateful for everything you've done."
+  ],
+  "ever": [
+    "Have you ever tried sushi?",
+    "May the odds be ever in your favor."
+  ],
+  "exactly": [
+    "That's exactly what I was thinking."
+  ],
+  "example": [
+    "I'd be hard-pressed to find a more compelling example."
+  ],
+  "fact": [
+    "As a matter of fact, the situation is more complex than it seems."
+  ],
+  "fair": [
+    "That's a fair point.",
+    "\"You're trippin' if you think that's fair.\""
+  ],
+  "feeling": [
+    "\"I've been clean eating for a month — feeling great.\""
+  ],
+  "film": [
+    "Did you see that film?"
+  ],
+  "flaw": [
+    "I'm compelled to point out a fundamental flaw in your reasoning."
+  ],
+  "focus": [
+    "The new marketing strategy will focus on digital channels in 2026."
+  ],
+  "footprint": [
+    "The CEO launched a new initiative to reduce the company's carbon footprint."
+  ],
+  "form": [
+    "You must submit the form by Friday."
+  ],
+  "for": [
+    "Local authorities are responsible for managing public transport.",
+    "Deforestation has serious consequences for biodiversity."
+  ],
+  "found": [
+    "It's incumbent upon us to leave the world better than we found it."
+  ],
+  "fragile": [
+    "It is vital to maintain biodiversity in fragile ecosystems.",
+    "This serves as a stark reminder of how fragile our systems are."
+  ],
+  "from": [
+    "Children benefit significantly from bilingual education.",
+    "Students can obtain additional support from the university library."
+  ],
+  "future": [
+    "Wishing you all the best in your future endeavors.",
+    "We find ourselves at a crossroads, and the path we choose will define our future."
+  ],
+  "gap": [
+    "Several factors contribute to the widening wealth gap.",
+    "The gap between theory and practice is often wider than we think."
+  ],
+  "gas": [
+    "Many countries restrict greenhouse gas emissions through legislation.",
+    "\"My friends always gas me up before a date.\""
+  ],
+  "gave": [
+    "\"She walked in and gave main character energy.\"",
+    "She gave me a book."
+  ],
+  "getting": [
+    "It's getting late.",
+    "I'm used to getting up early."
+  ],
+  "glass": [
+    "He's the kind of person who always sees the glass half full."
+  ],
+  "glow": [
+    "\"She had a serious glow up since high school.\""
+  ],
+  "god": [
+    "\"On God, I didn't take your charger.\""
+  ],
+  "going": [
+    "I'm going to visit my grandparents.",
+    "\"Going shopping with my bestie today!\""
+  ],
+  "got": [
+    "I got lost.",
+    "You've got a point there."
+  ],
+  "government": [
+    "The government adopted a new approach to reducing carbon emissions.",
+    "Government policies on immigration directly affect economic output."
+  ],
+  "grab": [
+    "\"Sup, dude. Wanna grab food?\""
+  ],
+  "gradually": [
+    "I'm gradually getting better at it.",
+    "The consensus among researchers is gradually shifting."
+  ],
+  "greenhouse": [
+    "Solar panels generate electricity without producing greenhouse gases.",
+    "Many countries restrict greenhouse gas emissions through legislation."
+  ],
+  "grew": [
+    "Annual revenue grew from $5M to $7.2M following the product launch."
+  ],
+  "group": [
+    "\"He spammed the group chat with memes.\""
+  ],
+  "guard": [
+    "We must guard against complacency in times of apparent stability."
+  ],
+  "had": [
+    "The professor acknowledged that the theory had significant limitations.",
+    "The industrial revolution had a profound impact on social structures."
+  ],
+  "harbor": [
+    "I harbor no illusions about the difficulty of the task ahead."
+  ],
+  "has": [
+    "Deforestation has serious consequences for biodiversity.",
+    "Technology has created new opportunities but also new challenges."
+  ],
+  "having": [
+    "Having said that, I do see some room for improvement."
+  ],
+  "heat": [
+    "Urban tree planting can help mitigate the effects of the urban heat island."
+  ],
+  "held": [
+    "Recent findings refute the long-held assumption that the universe is static."
+  ],
+  "her": [
+    "She articulated her position with remarkable clarity and precision.",
+    "\"He was caught in 4K liking her posts.\""
+  ],
+  "he": [
+    "He went above and beyond to help us.",
+    "\"He slipped on a banana peel — I'm dead 💀\""
+  ],
+  "him": [
+    "\"She was throwing shade at him the whole party.\"",
+    "\"That comment really triggered him.\""
+  ],
+  "his": [
+    "I admire his dedication and work ethic.",
+    "His analysis provides a compelling framework for understanding the crisis."
+  ],
+  "honestly": [
+    "\"That movie was mid, honestly.\""
+  ],
+  "how": [
+    "How individuals perceive risk varies greatly across cultures.",
+    "Effective managers know how to delegate tasks without micromanaging."
+  ],
+  "humble": [
+    "Stay curious, stay humble."
+  ],
+  "idea": [
+    "That's a good idea."
+  ],
+  "if": [
+    "If the client complaint is unresolved, please escalate to the manager.",
+    "I'd rather stay home tonight, if you don't mind."
+  ],
+  "immediately": [
+    "This problem, we must address immediately."
+  ],
+  "into": [
+    "The study provides valuable insights into the nature of human memory.",
+    "The government moved to consolidate its legislative reforms into a single bill."
+  ],
+  "in": [
+    "Poverty must be understood in its social and historical context.",
+    "In contrast to rural areas, urban populations have grown rapidly."
+  ],
+  "is": [
+    "The concept of universal basic income is gaining academic attention.",
+    "It is important to clearly define what is meant by 'sustainable development'."
+  ],
+  "its": [
+    "Candidates must analyse the graph and describe its key features.",
+    "Poverty must be understood in its social and historical context."
+  ],
+  "it": [
+    "It is important to clearly define what is meant by 'sustainable development'.",
+    "It is difficult to justify cutting education spending in a recession."
+  ],
+  "jury": [
+    "The jury is still out on that question."
+  ],
+  "just": [
+    "I'm just looking, thanks.",
+    "\"Hey, what's up?\" \"Not much, just chilling.\""
+  ],
+  "keep": [
+    "It's important to keep an open mind.",
+    "Let's keep in touch."
+  ],
+  "kiss": [
+    "\"That sunset was *chef's kiss* 🤌\""
+  ],
+  "knowledge": [
+    "Knowledge transfer between generations is essential for cultural continuity.",
+    "Knowledge is power."
+  ],
+  "lately": [
+    "\"He's been acting sus lately — what's he hiding?\""
+  ],
+  "latte": [
+    "\"Pumpkin spice latte and UGG boots — so basic.\""
+  ],
+  "least": [
+    "We need to improve our gross margin from 28% to at least 35%.",
+    "It's bittersweet, to say the least."
+  ],
+  "less": [
+    "\"Can you pick me up at 5?\" \"Say less.\""
+  ],
+  "level": [
+    "Solving climate change involves cooperation at a global level."
+  ],
+  "life": [
+    "We cannot assume that economic growth always improves quality of life.",
+    "Wealth tends to increase life expectancy; conversely, poverty shortens it."
+  ],
+  "line": [
+    "At the end of the day, the bottom line is what investors care about.",
+    "The committee scrutinised every line of the proposed budget."
+  ],
+  "link": [
+    "The study sought to establish a link between diet and mental health.",
+    "Previous research suggests a link between poverty and poor health outcomes."
+  ],
+  "looking": [
+    "I'm just looking, thanks.",
+    "I'm looking for a job."
+  ],
+  "lost": [
+    "Many cultural traditions are being lost due to globalisation.",
+    "I got lost."
+  ],
+  "lot": [
+    "I've heard a lot about this place.",
+    "I've learned a lot from this experience."
+  ],
+  "lunch": [
+    "I eat lunch."
+  ],
+  "made": [
+    "Online education has made learning accessible to people worldwide.",
+    "Progress was made, albeit slowly, over the course of the decade."
+  ],
+  "makeup": [
+    "\"Her makeup is snatched tonight!\""
+  ],
+  "making": [
+    "I would urge caution before making any sweeping generalizations.",
+    "The burden of proof lies with those making the claim."
+  ],
+  "matter": [
+    "As a matter of fact, the situation is more complex than it seems.",
+    "I'd like to draw your attention to an important matter."
+  ],
+  "maybe": [
+    "Maybe next time."
+  ],
+  "meaning": [
+    "I've been meaning to call you.",
+    "I've been meaning to bring this up for a while."
+  ],
+  "mean": [
+    "What does this mean?",
+    "I see what you mean."
+  ],
+  "memory": [
+    "The researchers concluded that stress directly impacts memory retention.",
+    "The study provides valuable insights into the nature of human memory."
+  ],
+  "menu": [
+    "Can I have the menu, please?"
+  ],
+  "might": [
+    "It might rain later.",
+    "I can't help but wonder what might have been."
+  ],
+  "mind": [
+    "Would you mind helping me?",
+    "I'd rather stay home tonight, if you don't mind."
+  ],
+  "mine": [
+    "This book is mine."
+  ],
+  "mistake": [
+    "I take full responsibility for the mistake."
+  ],
+  "model": [
+    "Scientists continue to challenge the conventional model of the solar system.",
+    "The model proved successful at pilot stage and is now ready to scale."
+  ],
+  "moment": [
+    "Wait a moment, please.",
+    "This is a watershed moment for our industry."
+  ],
+  "mood": [
+    "\"Staying in bed all day — mood.\"",
+    "\"Eating pizza at 3 AM — big mood.\""
+  ],
+  "more": [
+    "Could you explain that in more detail?",
+    "If I had more time, I would travel more."
+  ],
+  "my": [
+    "This is my friend.",
+    "This is my family."
+  ],
+  "nature": [
+    "The study provides valuable insights into the nature of human memory."
+  ],
+  "not": [
+    "Economic growth does not always translate to social equality.",
+    "The study did not provide adequate evidence to support the hypothesis."
+  ],
+  "novel": [
+    "I've read his first novel but not his second."
+  ],
+  "off": [
+    "\"Go off, queen! That speech was incredible.\""
+  ],
+  "on": [
+    "Climate change has a profound impact on agricultural output.",
+    "Social media has a growing influence on young people's self-image."
+  ],
+  "opening": [
+    "What are the opening hours?"
+  ],
+  "opinion": [
+    "I respect your opinion, but I see it differently.",
+    "I'm of the opinion that transparency is non-negotiable."
+  ],
+  "opportunity": [
+    "I wish I had taken that opportunity when I had the chance."
+  ],
+  "order": [
+    "Let's order pizza.",
+    "There seems to be a problem with my order."
+  ],
+  "or": [
+    "Do you have brothers or sisters?",
+    "\"She's my ride or die — always has my back.\""
+  ],
+  "our": [
+    "Protecting the environment is one of the greatest challenges of our time.",
+    "The author asserts that climate change is the defining issue of our era."
+  ],
+  "out": [
+    "Things will work out in the end.",
+    "Unfortunately, it turns out that the data was inaccurate."
+  ],
+  "over": [
+    "The Q3 sales forecast shows a 12% increase over last year.",
+    "The marketing campaign delivered a 4x ROI over six months."
+  ],
+  "pace": [
+    "The pace of innovation shows no signs of slowing down."
+  ],
+  "party": [
+    "\"This party is lit!\" \"That song is fire 🔥\"",
+    "\"She was throwing shade at him the whole party.\""
+  ],
+  "passage": [
+    "From the passage, we can infer that the author supports renewable energy."
+  ],
+  "past": [
+    "I've grown so much as a person over the past year.",
+    "The landscape has changed dramatically over the past decade."
+  ],
+  "path": [
+    "We find ourselves at a crossroads, and the path we choose will define our future."
+  ],
+  "peel": [
+    "\"He slipped on a banana peel — I'm dead 💀\""
+  ],
+  "period": [
+    "The period was characterised by rapid technological advancement.",
+    "The study relies on empirical evidence gathered over a seven-year period."
+  ],
+  "pick": [
+    "\"Can you pick me up at 5?\" \"Say less.\""
+  ],
+  "picture": [
+    "The data paints a rather worrying picture of the current state of affairs."
+  ],
+  "place": [
+    "What would you do if you were in my place?",
+    "I've heard a lot about this place."
+  ],
+  "plan": [
+    "The project plan includes a contingency budget of 15%.",
+    "The CEO's plan reduced costs; moreover, it improved staff morale."
+  ],
+  "point": [
+    "Business emails should be concise and focused on the key action point.",
+    "I completely understand your point of view."
+  ],
+  "pop": [
+    "I prefer pop music."
+  ],
+  "position": [
+    "She articulated her position with remarkable clarity and precision.",
+    "If I were in your position, I would resign."
+  ],
+  "power": [
+    "Knowledge is power."
+  ],
+  "problem": [
+    "No problem.",
+    "There seems to be a problem with my order."
+  ],
+  "pumpkin": [
+    "\"Pumpkin spice latte and UGG boots — so basic.\""
+  ],
+  "quality": [
+    "We cannot assume that economic growth always improves quality of life.",
+    "The validity of the research depends on the quality of its sample."
+  ],
+  "quarter": [
+    "The key deliverables for this quarter are the product launch and the sales report.",
+    "Our primary objective this quarter is to reduce customer churn by 15%."
+  ],
+  "quite": [
+    "She tends to be quite optimistic.",
+    "I'm quite keen on learning new skills."
+  ],
+  "rarely": [
+    "Rarely does he make mistakes."
+  ],
+  "really": [
+    "\"Bruh, you really forgot your keys again?\"",
+    "\"She's really woke about environmental problems.\""
+  ],
+  "reason": [
+    "The reason I'm here is to learn."
+  ],
+  "regular": [
+    "Regular assessment of students' progress helps teachers adapt their methods.",
+    "Research suggests that regular exercise improves mental health."
+  ],
+  "reliable": [
+    "The study used a rigorous methodology to ensure reliable results."
+  ],
+  "result": [
+    "Some economists contend that inequality is an inevitable result of capitalism."
+  ],
+  "rise": [
+    "Multiple factors contribute to the rise in childhood obesity.",
+    "The rise in global temperatures is largely attributed to human activity."
+  ],
+  "risk": [
+    "Scientists modified the gene sequence to reduce the risk of the disease.",
+    "How individuals perceive risk varies greatly across cultures."
+  ],
+  "role": [
+    "The lecturer emphasised the role of context in language learning.",
+    "The role of the internet today is analogous to that of the printing press in the 15th century."
+  ],
+  "rush": [
+    "The traffic is terrible during rush hour."
+  ],
+  "safety": [
+    "It goes without saying that safety is our top priority."
+  ],
+  "said": [
+    "Having said that, I do see some room for improvement.",
+    "I'd be lying if I said I wasn't disappointed."
+  ],
+  "scale": [
+    "The model proved successful at pilot stage and is now ready to scale."
+  ],
+  "seen": [
+    "I haven't seen that movie yet.",
+    "It remains to be seen whether this approach will work."
+  ],
+  "self": [
+    "Social media has a growing influence on young people's self-image.",
+    "\"Sunday is my self-care day — face masks and tea.\""
+  ],
+  "seriously": [
+    "It's high time we addressed this issue seriously."
+  ],
+  "service": [
+    "Customer service has always been our company's core competency."
+  ],
+  "set": [
+    "Our quarterly sales figures set a new benchmark for the industry."
+  ],
+  "shade": [
+    "\"She was throwing shade at him the whole party.\""
+  ],
+  "she": [
+    "She tends to be quite optimistic.",
+    "Not only did she pass the exam, but she also got the highest score."
+  ],
+  "should": [
+    "Citizens should actively participate in the democratic process.",
+    "Governments should provide access to affordable healthcare for all."
+  ],
+  "side": [
+    "Let's look at the bright side.",
+    "\"My side hustle is selling art online.\""
+  ],
+  "since": [
+    "The report presents a chronological account of policy changes since 1990.",
+    "It's been a while since we last met."
+  ],
+  "situation": [
+    "I'm not sure what to do about this situation.",
+    "As a matter of fact, the situation is more complex than it seems."
+  ],
+  "slowly": [
+    "Progress was made, albeit slowly, over the course of the decade.",
+    "Please speak slowly."
+  ],
+  "society": [
+    "The primary function of education is to equip individuals for society.",
+    "Individual rights must be balanced against the needs of society."
+  ],
+  "solution": [
+    "The startup proposed an innovative solution to supply chain inefficiency.",
+    "Let's try to find a solution."
+  ],
+  "something": [
+    "That reminds me of something.",
+    "Speaking of which, I wanted to ask you something."
+  ],
+  "song": [
+    "\"This party is lit!\" \"That song is fire 🔥\"",
+    "\"That song is living rent-free in my head.\""
+  ],
+  "so": [
+    "I think so too.",
+    "I've grown so much as a person over the past year."
+  ],
+  "stable": [
+    "A stable political environment is essential for economic investment."
+  ],
+  "state": [
+    "The data paints a rather worrying picture of the current state of affairs."
+  ],
+  "success": [
+    "I'd like to propose a toast to our success.",
+    "Success is not final, failure is not fatal."
+  ],
+  "such": [
+    "Natural resources such as oil and water are limited and must be managed carefully.",
+    "It's a testament to their resilience that they overcame such adversity."
+  ],
+  "sudden": [
+    "Astronomers observed a sudden brightening of the distant star."
+  ],
+  "sunny": [
+    "It's sunny."
+  ],
+  "sushi": [
+    "Have you ever tried sushi?"
+  ],
+  "system": [
+    "Scientists continue to challenge the conventional model of the solar system.",
+    "The new CRM system integrates seamlessly with our existing software."
+  ],
+  "text": [
+    "The author's bias is implicit in the choice of language throughout the text."
+  ],
+  "thank": [
+    "Thank you.",
+    "Thank you very much."
+  ],
+  "than": [
+    "The results imply that diet has a greater impact than exercise.",
+    "The speech relied on emotional rhetoric rather than factual evidence."
+  ],
+  "that": [
+    "We cannot assume that economic growth always improves quality of life.",
+    "The researchers concluded that stress directly impacts memory retention."
+  ],
+  "their": [
+    "Regular assessment of students' progress helps teachers adapt their methods.",
+    "Researchers used a variety of methods to collect their data."
+  ],
+  "them": [
+    "\"I totally ship them — they'd be perfect together.\""
+  ],
+  "these": [
+    "These findings are corroborated by three independent studies.",
+    "From these observations, we can deduce that temperature is the controlling variable."
+  ],
+  "they": [
+    "It's a testament to their resilience that they overcame such adversity.",
+    "\"They almost threw hands at the game.\""
+  ],
+  "the": [
+    "Candidates must analyse the graph and describe its key features.",
+    "The government adopted a new approach to reducing carbon emissions."
+  ],
+  "things": [
+    "Things will work out in the end.",
+    "There's no point in worrying about things you can't control."
+  ],
+  "thing": [
+    "The thing is, I'm not available that day.",
+    "I have mixed feelings about the whole thing."
+  ],
+  "this": [
+    "The key deliverables for this quarter are the product launch and the sales report.",
+    "Our primary objective this quarter is to reduce customer churn by 15%."
+  ],
+  "those": [
+    "The burden of proof lies with those making the claim.",
+    "\"Sheesh, look at those new shoes!\""
+  ],
+  "thought": [
+    "It's not as difficult as I thought.",
+    "I hadn't thought of it that way."
+  ],
+  "though": [
+    "Beautiful though the city was, we didn't stay."
+  ],
+  "through": [
+    "Many countries restrict greenhouse gas emissions through legislation.",
+    "Some corporations attempt to circumvent environmental regulations through legal loopholes."
+  ],
+  "toast": [
+    "I'd like to propose a toast to our success."
+  ],
+  "told": [
+    "She told me she had finished."
+  ],
+  "too": [
+    "It's too expensive.",
+    "I think so too."
+  ],
+  "top": [
+    "It goes without saying that safety is our top priority."
+  ],
+  "torn": [
+    "I'm torn between two options."
+  ],
+  "totally": [
+    "\"I totally ship them — they'd be perfect together.\"",
+    "\"I totally zoned out during the meeting.\""
+  ],
+  "to": [
+    "The government adopted a new approach to reducing carbon emissions.",
+    "Resources available to students have increased with online learning."
+  ],
+  "tradition": [
+    "I find the juxtaposition of tradition and modernity fascinating."
+  ],
+  "truly": [
+    "It begs the question of whether we're truly addressing the root cause.",
+    "Let us not lose sight of what truly matters."
+  ],
+  "under": [
+    "The team was able to execute the strategy flawlessly under tight deadlines.",
+    "I'm doing my best under the circumstances."
+  ],
+  "unfortunately": [
+    "Unfortunately, it turns out that the data was inaccurate."
+  ],
+  "until": [
+    "The meeting has been postponed until Friday.",
+    "\"I'm broke until payday.\""
+  ],
+  "upon": [
+    "It's incumbent upon us to leave the world better than we found it."
+  ],
+  "up": [
+    "I usually wake up at seven.",
+    "Hurry up!"
+  ],
+  "used": [
+    "Researchers used a variety of methods to collect their data.",
+    "The study used a rigorous methodology to ensure reliable results."
+  ],
+  "usually": [
+    "I usually wake up at seven."
+  ],
+  "valuable": [
+    "The study provides valuable insights into the nature of human memory."
+  ],
+  "value": [
+    "I value your input on this matter."
+  ],
+  "variety": [
+    "Researchers used a variety of methods to collect their data."
+  ],
+  "very": [
+    "Thank you very much."
+  ],
+  "view": [
+    "I completely understand your point of view.",
+    "The evidence overwhelmingly supports this view."
+  ],
+  "wake": [
+    "I usually wake up at seven."
+  ],
+  "wallet": [
+    "I lost my wallet."
+  ],
+  "way": [
+    "Could you tell me the way to the station?",
+    "I'd like a one-way ticket, please."
+  ],
+  "well": [
+    "A well-structured essay is essential for a high IELTS Writing score.",
+    "I don't feel well."
+  ],
+  "went": [
+    "I went to the cinema last night.",
+    "He went above and beyond to help us."
+  ],
+  "were": [
+    "The research findings were disseminated through peer-reviewed journals.",
+    "What would you do if you were in my place?"
+  ],
+  "we": [
+    "We cannot assume that economic growth always improves quality of life.",
+    "From the passage, we can infer that the author supports renewable energy."
+  ],
+  "what": [
+    "It is important to clearly define what is meant by 'sustainable development'.",
+    "At the end of the day, the bottom line is what investors care about."
+  ],
+  "when": [
+    "When does the bus leave?",
+    "I wish I had taken that opportunity when I had the chance."
+  ],
+  "which": [
+    "The exact mechanism by which memory is stored in the brain is still debated.",
+    "Which platform is it?"
+  ],
+  "while": [
+    "It's been a while since we last met.",
+    "I've been meaning to bring this up for a while."
+  ],
+  "who": [
+    "Who is that?",
+    "He's the kind of person who always sees the glass half full."
+  ],
+  "why": [
+    "Why are you late?",
+    "\"Why are you so pressed about it? Relax.\""
+  ],
+  "will": [
+    "The finance team will allocate a budget of $50,000 for marketing.",
+    "Our teams in London and New York will collaborate on the new product launch."
+  ],
+  "wire": [
+    "You must not touch that wire."
+  ],
+  "wish": [
+    "I wish you all the best.",
+    "I wish I had taken that opportunity when I had the chance."
+  ],
+  "without": [
+    "Solar panels generate electricity without producing greenhouse gases.",
+    "Effective managers know how to delegate tasks without micromanaging."
+  ],
+  "with": [
+    "Resources available to students have increased with online learning.",
+    "The population boom coincided with the industrial revolution."
+  ],
+  "wore": [
+    "\"He wore crocs to the interview. I can't even.\""
+  ],
+  "world": [
+    "It's not the end of the world.",
+    "Your support means the world to me."
+  ],
+  "would": [
+    "I would like a coffee, please.",
+    "Would you mind helping me?"
+  ],
+  "yacht": [
+    "If I were rich, I would buy a yacht."
+  ],
+  "yourself": [
+    "\"It's payday — time to treat yourself!\""
+  ],
+  "your": [
+    "Please send me your full proposal by end of business Friday.",
+    "What is your name?"
+  ],
+  "you": [
+    "Hello, how are you?",
+    "Nice to meet you."
+  ],
+  "congratulations": [
+    "Congratulations!"
+  ],
+  "excuse me": [
+    "Excuse me."
+  ],
+  "good afternoon": [
+    "Good afternoon."
+  ],
+  "good evening": [
+    "Good evening."
+  ],
+  "good morning": [
+    "Good morning."
+  ],
+  "good night": [
+    "Good night."
+  ],
+  "goodbye": [
+    "Goodbye."
+  ],
+  "happy birthday": [
+    "Happy birthday!"
+  ],
+  "have a nice day": [
+    "Have a nice day!"
+  ],
+  "hello": [
+    "Hello, how are you?"
+  ],
+  "no": [
+    "No.",
+    "No problem."
+  ],
+  "please": [
+    "Please review the agenda before tomorrow's board meeting.",
+    "If the client complaint is unresolved, please escalate to the manager."
+  ],
+  "sorry": [
+    "I'm sorry.",
+    "Sorry, I can't make it."
+  ],
+  "thank you": [
+    "Thank you.",
+    "Thank you very much."
+  ],
+  "thanks": [
+    "I'm just looking, thanks.",
+    "Thanks for letting me know."
+  ],
+  "welcome": [
+    "You're welcome."
+  ],
+  "yes": [
+    "Yes."
+  ],
+  "appointment": [
+    "Could we reschedule our appointment?"
+  ],
+  "diet": [
+    "The study sought to establish a link between diet and mental health.",
+    "The results imply that diet has a greater impact than exercise."
+  ],
+  "exercise": [
+    "There is strong evidence to suggest that exercise reduces anxiety.",
+    "Exercise is an essential component of a healthy lifestyle."
+  ],
+  "headache": [
+    "I have a headache."
+  ],
+  "medicine": [
+    "The discovery of penicillin changed medicine."
+  ],
+  "mental health": [
+    "The study sought to establish a link between diet and mental health.",
+    "The findings suggest that urban green spaces improve mental health."
+  ],
+  "apartment": [
+    "\"She's been stacking for a new apartment.\""
+  ],
+  "bathroom": [
+    "Where is the bathroom?"
+  ],
+  "bed": [
+    "I go to bed at eleven.",
+    "\"Staying in bed all day — mood.\""
+  ],
+  "home": [
+    "I work from home.",
+    "I like cooking at home."
+  ],
+  "house": [
+    "\"Pull up to my house later.\"",
+    "If I had saved money, I would own a house now."
+  ],
+  "key": [
+    "Candidates must analyse the graph and describe its key features.",
+    "Researchers identified three key causes of urban poverty."
+  ],
+  "plug": [
+    "\"My plug got me a discount on those sneakers.\"",
+    "\"Plug me in — I want to join the project.\""
+  ],
+  "room": [
+    "Having said that, I do see some room for improvement.",
+    "There's always room for improvement."
+  ],
+  "shelf": [
+    "The book is on the shelf."
+  ],
+  "shower": [
+    "I take a shower every morning."
+  ],
+  "table": [
+    "I'd like to book a table for two."
+  ],
+  "window": [
+    "Could you open the window?"
+  ],
+  "file": [
+    "I'd like to file a complaint."
+  ],
+  "framework": [
+    "His analysis provides a compelling framework for understanding the crisis."
+  ],
+  "function": [
+    "The primary function of education is to equip individuals for society."
+  ],
+  "graph": [
+    "Candidates must analyse the graph and describe its key features.",
+    "The graph indicates a steady increase in global temperatures."
+  ],
+  "laptop": [
+    "I had my laptop fixed yesterday."
+  ],
+  "library": [
+    "Students can obtain additional support from the university library."
+  ],
+  "method": [
+    "Contrary to popular belief, this method is more effective."
+  ],
+  "variable": [
+    "From these observations, we can deduce that temperature is the controlling variable."
+  ],
+  "air": [
+    "The primary cause of air pollution in cities is vehicle emissions.",
+    "Air pollution results in thousands of premature deaths annually."
+  ],
+  "bush": [
+    "Let's not beat around the bush."
+  ],
+  "cloud": [
+    "Every cloud has a silver lining."
+  ],
+  "field": [
+    "Researchers frequently encounter unexpected variables in field studies.",
+    "She is said to be the best in the field."
+  ],
+  "fire": [
+    "\"This party is lit!\" \"That song is fire 🔥\"",
+    "\"Don't sleep on that new restaurant — it's fire.\""
+  ],
+  "grass": [
+    "\"You've been gaming for 12 hours. Go touch grass.\""
+  ],
+  "ground": [
+    "I sincerely hope that we can find common ground."
+  ],
+  "ice": [
+    "The duration of the ice age spanned approximately 2.6 million years."
+  ],
+  "island": [
+    "Urban tree planting can help mitigate the effects of the urban heat island."
+  ],
+  "ocean": [
+    "Pollutants accumulate in the ocean, posing long-term ecological risks.",
+    "He had never seen the ocean before that trip."
+  ],
+  "park": [
+    "\"We were just vibing at the park all afternoon.\""
+  ],
+  "plant": [
+    "Many modern medicines are derived from natural plant compounds."
+  ],
+  "rain": [
+    "It might rain later.",
+    "It may rain later."
+  ],
+  "root": [
+    "We need to get to the root of the problem.",
+    "It begs the question of whether we're truly addressing the root cause."
+  ],
+  "sea": [
+    "Rising sea levels could fundamentally alter coastal ecosystems."
+  ],
+  "snow": [
+    "No sooner had we arrived than it began to snow."
+  ],
+  "star": [
+    "Astronomers observed a sudden brightening of the distant star."
+  ],
+  "sunset": [
+    "\"That sunset was *chef's kiss* 🤌\""
+  ],
+  "sun": [
+    "The sun is bright today."
+  ],
+  "temperature": [
+    "Significant changes in temperature occur during seasonal transitions.",
+    "From these observations, we can deduce that temperature is the controlling variable."
+  ],
+  "tree": [
+    "Urban tree planting can help mitigate the effects of the urban heat island."
+  ],
+  "weather": [
+    "The weather is nice today.",
+    "\"The weather has been terrible.\" \"Facts.\""
+  ],
+  "wing": [
+    "\"I didn't study — I'm just gonna wing it.\""
+  ],
+  "eleven": [
+    "I go to bed at eleven."
+  ],
+  "fifteen": [
+    "The committee comprises representatives from fifteen countries."
+  ],
+  "first": [
+    "I'd like to point out that this isn't the first time this has happened.",
+    "I've read his first novel but not his second."
+  ],
+  "five": [
+    "A master's degree is equivalent to approximately five years of professional experience.",
+    "The report enumerates five key barriers to educational access."
+  ],
+  "half": [
+    "He's the kind of person who always sees the glass half full."
+  ],
+  "last": [
+    "The Q3 sales forecast shows a 12% increase over last year.",
+    "Revenue increased by 18% in Q3 compared to the same quarter last year."
+  ],
+  "nine": [
+    "As far as I know, the office opens at nine."
+  ],
+  "one": [
+    "Protecting the environment is one of the greatest challenges of our time.",
+    "Monthly sales volume is one of our primary KPIs."
+  ],
+  "second": [
+    "I've read his first novel but not his second."
+  ],
+  "seven": [
+    "The study relies on empirical evidence gathered over a seven-year period.",
+    "I usually wake up at seven."
+  ],
+  "six": [
+    "The marketing campaign delivered a 4x ROI over six months.",
+    "Let's meet at six."
+  ],
+  "ten": [
+    "It's about ten minutes on foot."
+  ],
+  "three": [
+    "Researchers identified three key causes of urban poverty.",
+    "The researcher cited three landmark studies to support the hypothesis."
+  ],
+  "two": [
+    "The two cultures have distinct approaches to family structure.",
+    "The merger created significant synergies between the two product lines."
+  ],
+  "deadline": [
+    "The proposal must be submitted by the client deadline of next Thursday.",
+    "The deadline is the end of the month."
+  ],
+  "escalate": [
+    "If the client complaint is unresolved, please escalate to the manager."
+  ],
+  "project": [
+    "The project plan includes a contingency budget of 15%.",
+    "All key stakeholders must approve the project scope before launch."
+  ],
+  "task": [
+    "I harbor no illusions about the difficulty of the task ahead."
+  ],
+  "base": [
+    "We can leverage our existing client base to cross-sell new products."
+  ],
+  "biodiversity": [
+    "Deforestation has serious consequences for biodiversity.",
+    "It is vital to maintain biodiversity in fragile ecosystems."
+  ],
+  "gene": [
+    "Scientists modified the gene sequence to reduce the risk of the disease."
+  ],
+  "renewable energy": [
+    "Renewable energy has enormous potential to reduce global emissions.",
+    "From the passage, we can infer that the author supports renewable energy."
+  ],
+  "solar": [
+    "Scientists continue to challenge the conventional model of the solar system.",
+    "Solar panels generate electricity without producing greenhouse gases."
+  ],
+  "sustainability": [
+    "There is a clear dichotomy between economic growth and environmental sustainability."
+  ],
+  "bill": [
+    "The government moved to consolidate its legislative reforms into a single bill.",
+    "The bill, please."
+  ],
+  "card": [
+    "I'll pay by card."
+  ],
+  "cash": [
+    "Can I pay in cash?"
+  ],
+  "customer": [
+    "Customer service has always been our company's core competency.",
+    "The new pricing strategy had a major impact on customer retention."
+  ],
+  "discount": [
+    "\"My plug got me a discount on those sneakers.\""
+  ],
+  "receipt": [
+    "Could I have a receipt, please?"
+  ],
+  "sale": [
+    "I will buy it if it is on sale."
+  ],
+  "size": [
+    "Do you have this in a different size?",
+    "The notion that one size fits all is inherently problematic."
+  ],
+  "football": [
+    "I play football.",
+    "Do you play football?"
+  ],
+  "game": [
+    "\"Yo, did you see that game last night?\"",
+    "\"She's still salty about losing the game.\""
+  ],
+  "running": [
+    "I'm running late.",
+    "\"Wanna go running?\" \"Nah, I'm good.\""
+  ],
+  "score": [
+    "A well-structured essay is essential for a high IELTS Writing score.",
+    "Not only did she pass the exam, but she also got the highest score."
+  ],
+  "team": [
+    "The finance team will allocate a budget of $50,000 for marketing.",
+    "The team was able to execute the strategy flawlessly under tight deadlines."
+  ],
+  "artificial intelligence": [
+    "The ethical implications of artificial intelligence warrant serious discussion."
+  ],
+  "charger": [
+    "\"On God, I didn't take your charger.\""
+  ],
+  "code": [
+    "Under no circumstances must you reveal the code."
+  ],
+  "electricity": [
+    "Solar panels generate electricity without producing greenhouse gases."
+  ],
+  "email": [
+    "I'll send you the report by email."
+  ],
+  "movie": [
+    "I haven't seen that movie yet.",
+    "\"That movie was mid, honestly.\""
+  ],
+  "password": [
+    "I forgot my password."
+  ],
+  "remote": [
+    "The new software facilitates real-time collaboration between remote teams.",
+    "Remote work represents a paradigm shift in how organisations operate."
+  ],
+  "friday": [
+    "Let's brainstorm solutions before the client presentation on Friday.",
+    "Please send me your full proposal by end of business Friday."
+  ],
+  "may": [
+    "Different cultures may interpret the same data differently.",
+    "May the odds be ever in your favor."
+  ],
+  "monday": [
+    "Today is Monday."
+  ],
+  "sunday": [
+    "\"Sunday is my self-care day — face masks and tea.\""
+  ],
+  "thursday": [
+    "The proposal must be submitted by the client deadline of next Thursday."
+  ],
+  "afternoon": [
+    "Good afternoon.",
+    "\"We were just vibing at the park all afternoon.\""
+  ],
+  "after": [
+    "Let's discuss this after the break.",
+    "\"He ghosted me after three dates — never texted back.\""
+  ],
+  "ago": [
+    "\"I texted her an hour ago and got left on read.\""
+  ],
+  "already": [
+    "She has already finished her homework.",
+    "When I arrived, she had already left."
+  ],
+  "always": [
+    "We cannot assume that economic growth always improves quality of life.",
+    "Economic growth does not always translate to social equality."
+  ],
+  "autumn": [
+    "\"Her room has that cozy autumn aesthetic.\""
+  ],
+  "before": [
+    "The researchers formed a hypothesis before designing the experiment.",
+    "Please review the agenda before tomorrow's board meeting."
+  ],
+  "birthday": [
+    "Happy birthday!"
+  ],
+  "date": [
+    "\"My friends always gas me up before a date.\""
+  ],
+  "day": [
+    "At the end of the day, the bottom line is what investors care about.",
+    "What day is it today?"
+  ],
+  "during": [
+    "Significant changes in temperature occur during seasonal transitions.",
+    "The traffic is terrible during rush hour."
+  ],
+  "early": [
+    "Researchers debate the true motive behind early human migration patterns.",
+    "I'm used to getting up early."
+  ],
+  "evening": [
+    "Good evening."
+  ],
+  "hour": [
+    "The traffic is terrible during rush hour.",
+    "\"I texted her an hour ago and got left on read.\""
+  ],
+  "later": [
+    "See you later.",
+    "It might rain later."
+  ],
+  "late": [
+    "Why are you late?",
+    "It's getting late."
+  ],
+  "minute": [
+    "\"He bailed on dinner at the last minute.\"",
+    "\"Booked a last-minute trip to Miami — YOLO!\""
+  ],
+  "month": [
+    "The deadline is the end of the month.",
+    "\"I've been clean eating for a month — feeling great.\""
+  ],
+  "morning": [
+    "Good morning.",
+    "I take a shower every morning."
+  ],
+  "never": [
+    "Better late than never.",
+    "\"He ghosted me after three dates — never texted back.\""
+  ],
+  "night": [
+    "Good night.",
+    "I went to the cinema last night."
+  ],
+  "now": [
+    "The model proved successful at pilot stage and is now ready to scale.",
+    "I'm afraid I have to go now."
+  ],
+  "often": [
+    "How often do you exercise?",
+    "The gap between theory and practice is often wider than we think."
+  ],
+  "soon": [
+    "I'll get back to you as soon as possible."
+  ],
+  "still": [
+    "The exact mechanism by which memory is stored in the brain is still debated.",
+    "The jury is still out on that question."
+  ],
+  "time": [
+    "Protecting the environment is one of the greatest challenges of our time.",
+    "The new software facilitates real-time collaboration between remote teams."
+  ],
+  "today": [
+    "The role of the internet today is analogous to that of the printing press in the 15th century.",
+    "Today is Monday."
+  ],
+  "tomorrow": [
+    "See you tomorrow."
+  ],
+  "weekend": [
+    "What are you doing this weekend?",
+    "Have a good weekend!"
+  ],
+  "week": [
+    "I go jogging three times a week.",
+    "The report is due by the end of the week at the latest."
+  ],
+  "year": [
+    "The Q3 sales forecast shows a 12% increase over last year.",
+    "Revenue increased by 18% in Q3 compared to the same quarter last year."
+  ],
+  "yesterday": [
+    "What did you do yesterday?",
+    "She went to the cinema yesterday."
+  ],
+  "yet": [
+    "I haven't seen that movie yet.",
+    "I haven't made up my mind yet."
+  ],
+  "abroad": [
+    "She decided to study abroad."
+  ],
+  "board": [
+    "Please review the agenda before tomorrow's board meeting."
+  ],
+  "bus": [
+    "When does the bus leave?",
+    "I missed my bus."
+  ],
+  "car": [
+    "\"He's always flexing his new car on Instagram.\"",
+    "That is her car."
+  ],
+  "check in": [
+    "I'd like to check in."
+  ],
+  "check out": [
+    "\"Check out his drip — fresh sneakers and all.\""
+  ],
+  "city": [
+    "Beautiful though the city was, we didn't stay."
+  ],
+  "corner": [
+    "Turn right at the corner."
+  ],
+  "country": [
+    "They love their country."
+  ],
+  "guided tour": [
+    "Is there a guided tour available?"
+  ],
+  "here": [
+    "Here you go.",
+    "Can I sit here?"
+  ],
+  "hotel": [
+    "\"He finessed a free upgrade at the hotel.\""
+  ],
+  "immigration": [
+    "Government policies on immigration directly affect economic output.",
+    "Policymakers must take a pragmatic approach to immigration reform."
+  ],
+  "landmark": [
+    "The researcher cited three landmark studies to support the hypothesis."
+  ],
+  "left": [
+    "Turn left at the traffic lights.",
+    "\"She ate that performance and left no crumbs.\""
+  ],
+  "market": [
+    "The report provides a comprehensive analysis of market conditions."
+  ],
+  "office": [
+    "As far as I know, the office opens at nine."
+  ],
+  "pharmacy": [
+    "Where is the nearest pharmacy?"
+  ],
+  "restaurant": [
+    "\"Don't sleep on that new restaurant — it's fire.\"",
+    "That is the restaurant where we had dinner."
+  ],
+  "return ticket": [
+    "I'd like a return ticket, please."
+  ],
+  "route": [
+    "Had I known about the delay, I would have taken a different route."
+  ],
+  "school": [
+    "I go to school.",
+    "\"She had a serious glow up since high school.\""
+  ],
+  "ship": [
+    "\"I totally ship them — they'd be perfect together.\""
+  ],
+  "station": [
+    "Could you tell me the way to the station?"
+  ],
+  "taxi": [
+    "Can you call a taxi for me?"
+  ],
+  "there": [
+    "There is strong evidence to suggest that exercise reduces anxiety.",
+    "There has been a significant increase in the cost of living."
+  ],
+  "ticket": [
+    "I'd like a one-way ticket, please.",
+    "I'd like a return ticket, please."
+  ],
+  "tour": [
+    "Is there a guided tour available?"
+  ],
+  "traffic": [
+    "Turn left at the traffic lights.",
+    "The traffic is terrible during rush hour."
+  ],
+  "train": [
+    "The train is delayed."
+  ],
+  "travel": [
+    "Air travel is becoming cheaper; therefore, global tourism is rising.",
+    "If I had more time, I would travel more."
+  ],
+  "trip": [
+    "We're planning a trip.",
+    "\"Booked a last-minute trip to Miami — YOLO!\""
+  ],
+  "vacation": [
+    "I'm on vacation.",
+    "I'm here on vacation."
+  ],
+  "where": [
+    "Where are you from?",
+    "Where is the bathroom?"
+  ],
+  "artist": [
+    "\"I stan that artist — I've been to every concert.\""
+  ],
+  "boss": [
+    "\"Time to boss up and start that business.\"",
+    "The man who called you is my boss."
+  ],
+  "business": [
+    "Business emails should be concise and focused on the key action point.",
+    "Please send me your full proposal by end of business Friday."
+  ],
+  "company": [
+    "The company diversified its product range to attract new demographics.",
+    "The company offered financial incentives to improve employee productivity."
+  ],
+  "doctor": [
+    "I need to see a doctor."
+  ],
+  "job": [
+    "I'm looking for a job.",
+    "She wishes she had taken the job."
+  ],
+  "manager": [
+    "If the client complaint is unresolved, please escalate to the manager.",
+    "Could I speak to the manager, please?"
+  ],
+  "meeting": [
+    "Please review the agenda before tomorrow's board meeting.",
+    "I have a meeting at three."
+  ],
+  "money": [
+    "If I had saved money, I would own a house now."
+  ],
+  "pilot": [
+    "The model proved successful at pilot stage and is now ready to scale."
+  ],
+  "delegate": [
+    "Effective managers know how to delegate tasks without micromanaging."
+  ],
+  "intern": [
+    "\"Have you seen the new intern? What a snack.\""
+  ],
+  "introduction": [
+    "Academic essays must maintain coherence from introduction to conclusion."
+  ],
+  "respect": [
+    "I respect your opinion, but I see it differently.",
+    "With all due respect, I think we should reconsider our strategy."
+  ],
+  "apology": [
+    "\"His apology was terrible — that ain't it.\""
+  ],
+  "relationship": [
+    "The relationship between poverty and crime is highly complex.",
+    "\"That relationship was so toxic.\""
+  ],
+  "childhood": [
+    "Multiple factors contribute to the rise in childhood obesity."
+  ],
+  "brain": [
+    "The human brain has a remarkable capacity for language acquisition.",
+    "The exact mechanism by which memory is stored in the brain is still debated."
+  ],
+  "breakfast": [
+    "I eat breakfast.",
+    "Is breakfast included?"
+  ],
+  "dinner": [
+    "I eat dinner.",
+    "\"He bailed on dinner at the last minute.\""
+  ],
+  "snack": [
+    "\"Have you seen the new intern? What a snack.\""
+  ],
+  "spice": [
+    "\"Pumpkin spice latte and UGG boots — so basic.\""
+  ],
+  "sneakers": [
+    "\"Check out his drip — fresh sneakers and all.\"",
+    "\"My plug got me a discount on those sneakers.\""
+  ],
+  "trend": [
+    "According to recent studies, the trend is changing."
+  ],
+  "arrival": [
+    "The financial turnaround was achieved within 18 months of the new CEO's arrival."
+  ],
+  "reservation": [
+    "I have a reservation."
+  ],
+  "destination": [
+    "The journey matters more than the destination."
+  ],
+  "platform": [
+    "Which platform is it?"
+  ],
+  "degree": [
+    "A master's degree is equivalent to approximately five years of professional experience."
+  ],
+  "lecture": [
+    "The lecture introduced abstract concepts in theoretical physics."
+  ],
+  "course": [
+    "Progress was made, albeit slowly, over the course of the decade."
+  ],
+  "presentation": [
+    "Let's brainstorm solutions before the client presentation on Friday.",
+    "\"She slayed that presentation.\""
+  ],
+  "research": [
+    "Previous research suggests a link between poverty and poor health outcomes.",
+    "The initial study and all subsequent research confirmed the hypothesis."
+  ],
+  "essay": [
+    "A well-structured essay is essential for a high IELTS Writing score.",
+    "This essay will critique the assumptions underlying the current model."
+  ],
+  "thesis": [
+    "The thesis of this essay is that economic inequality is fundamentally unjust."
+  ],
+  "experiment": [
+    "The researchers formed a hypothesis before designing the experiment."
+  ],
+  "reading": [
+    "My hobby is reading.",
+    "I enjoy reading books."
+  ],
+  "writing": [
+    "A well-structured essay is essential for a high IELTS Writing score.",
+    "Academic writing belongs to a formal genre with strict structural conventions."
+  ],
+  "speaking": [
+    "Speaking of which, I wanted to ask you something.",
+    "Generally speaking, people tend to agree."
+  ],
+  "chapter": [
+    "The final chapter elucidates the practical implications of the theory.",
+    "The paper outlines the research methodology in detail in Chapter 2."
+  ],
+  "author": [
+    "The author asserts that climate change is the defining issue of our era.",
+    "From the passage, we can infer that the author supports renewable energy."
+  ],
+  "employee": [
+    "The company offered financial incentives to improve employee productivity.",
+    "Remote work tools have improved employee productivity significantly."
+  ],
+  "colleague": [
+    "I'd like to build on what my colleague said earlier."
+  ],
+  "staff": [
+    "The CEO's plan reduced costs; moreover, it improved staff morale."
+  ],
+  "industry": [
+    "Our quarterly sales figures set a new benchmark for the industry.",
+    "Streaming platforms permanently disrupted the traditional media industry."
+  ],
+  "career": [
+    "It was a turning point in my career."
+  ],
+  "interview": [
+    "\"He wore crocs to the interview. I can't even.\""
+  ],
+  "contract": [
+    "Both parties will need to negotiate the terms of the new contract."
+  ],
+  "shift": [
+    "Remote work represents a paradigm shift in how organisations operate.",
+    "I would argue that this represents a paradigm shift in our thinking."
+  ],
+  "promotion": [
+    "\"He's been balling since he got that promotion.\""
+  ],
+  "benefit": [
+    "Children benefit significantly from bilingual education."
+  ],
+  "budget": [
+    "The finance team will allocate a budget of $50,000 for marketing.",
+    "The project plan includes a contingency budget of 15%."
+  ],
+  "profit": [
+    "Increasing production costs continue to erode our profit margin."
+  ],
+  "investment": [
+    "A stable political environment is essential for economic investment.",
+    "Infrastructure investment declined; consequently, transportation bottlenecks increased."
+  ],
+  "economy": [
+    "Technological innovation has transformed every sector of the global economy.",
+    "We're witnessing an unprecedented transformation of the global economy."
+  ],
+  "client": [
+    "Let's brainstorm solutions before the client presentation on Friday.",
+    "The proposal must be submitted by the client deadline of next Thursday."
+  ],
+  "product": [
+    "Our teams in London and New York will collaborate on the new product launch.",
+    "The key deliverables for this quarter are the product launch and the sales report."
+  ],
+  "marketing": [
+    "The finance team will allocate a budget of $50,000 for marketing.",
+    "Please liaise with the marketing team regarding the campaign timeline."
+  ],
+  "sales": [
+    "Our quarterly sales figures set a new benchmark for the industry.",
+    "The key deliverables for this quarter are the product launch and the sales report."
+  ],
+  "obesity": [
+    "Multiple factors contribute to the rise in childhood obesity."
+  ],
+  "anxiety": [
+    "There is strong evidence to suggest that exercise reduces anxiety."
+  ],
+  "record": [
+    "The fossil record does not always correspond to current evolutionary theory."
+  ],
+  "track": [
+    "We're on track to achieve our goals."
+  ],
+  "forward": [
+    "I look forward to it.",
+    "I'm looking forward to hearing from you."
+  ],
+  "software": [
+    "The new software facilitates real-time collaboration between remote teams.",
+    "The new CRM system integrates seamlessly with our existing software."
+  ],
+  "document": [
+    "Please find attached the document."
+  ],
+  "image": [
+    "Social media has a growing influence on young people's self-image."
+  ],
+  "social media": [
+    "Social media has a growing influence on young people's self-image.",
+    "Social media has a pervasive influence on modern political discourse."
+  ],
+  "account": [
+    "The report presents a chronological account of policy changes since 1990.",
+    "We should take this into account."
+  ],
+  "setting": [
+    "The study was conducted in a neutral setting to minimise bias."
+  ],
+  "grateful": [
+    "I'd be grateful if you could forward me the minutes of the meeting.",
+    "I'm deeply grateful for everything you've done."
+  ],
+  "disappointed": [
+    "I'd be lying if I said I wasn't disappointed."
+  ],
+  "hopeful": [
+    "I'm cautiously hopeful that we're heading in the right direction."
+  ],
+  "optimistic": [
+    "She tends to be quite optimistic.",
+    "I'm cautiously optimistic about the outcome."
+  ],
+  "curious": [
+    "Stay curious, stay humble."
+  ],
+  "confidence": [
+    "There's a fine line between confidence and arrogance."
+  ],
+  "offer": [
+    "It would be presumptuous of me to offer advice without knowing the full context."
+  ],
+  "checkout": [
+    "What time is checkout?"
+  ],
+  "discussion": [
+    "The ethical implications of artificial intelligence warrant serious discussion."
+  ],
+  "debate": [
+    "Researchers debate the true motive behind early human migration patterns.",
+    "It's a matter of considerable debate among experts."
+  ],
+  "argument": [
+    "A coherent argument requires strong evidence and logical structure.",
+    "The author's argument lacks nuance, presenting complex issues as binary choices."
+  ],
+  "complaint": [
+    "If the client complaint is unresolved, please escalate to the manager.",
+    "I'd like to make a complaint."
+  ],
+  "headline": [
+    "\"That headline was total clickbait.\""
+  ],
+  "review": [
+    "Please review the agenda before tomorrow's board meeting.",
+    "The situation calls for a comprehensive review of our procedures."
+  ],
+  "comment": [
+    "I'd rather not comment on that at this stage.",
+    "\"That comment really triggered him.\""
+  ],
+  "feedback": [
+    "The feedback has been overwhelmingly positive."
+  ],
+  "climate": [
+    "Climate change has a profound impact on agricultural output.",
+    "Solving climate change involves cooperation at a global level."
+  ],
+  "species": [
+    "Species that cannot adapt to environmental changes face extinction."
+  ],
+  "fossil": [
+    "The fossil record does not always correspond to current evolutionary theory."
+  ],
+  "capital": [
+    "Capital punishment remains a controversial topic in many democracies."
+  ],
+  "population": [
+    "The population boom coincided with the industrial revolution.",
+    "A considerable proportion of the population lacks access to clean water."
+  ],
+  "equality": [
+    "Economic growth does not always translate to social equality."
+  ],
+  "rights": [
+    "Individual rights must be balanced against the needs of society."
+  ],
+  "responsibility": [
+    "I take full responsibility for the mistake."
+  ],
+  "judge": [
+    "You can't judge a book by its cover.",
+    "The judge demanded that the witness answer the question."
+  ],
+  "trial": [
+    "The initial trial produced inconclusive results, necessitating further research."
+  ],
+  "witness": [
+    "The judge demanded that the witness answer the question."
+  ],
+  "evidence": [
+    "There is strong evidence to suggest that exercise reduces anxiety.",
+    "The study did not provide adequate evidence to support the hypothesis."
+  ],
+  "crime": [
+    "The relationship between poverty and crime is highly complex."
+  ],
+  "punishment": [
+    "Capital punishment remains a controversial topic in many democracies."
+  ],
+  "fine": [
+    "I am fine.",
+    "There's a fine line between confidence and arrogance."
+  ],
+  "innocent": [
+    "It is believed that he is innocent."
+  ],
+  "transfer": [
+    "Knowledge transfer between generations is essential for cultural continuity."
+  ],
+  "balance": [
+    "On balance, the benefits outweigh the risks.",
+    "I've come to realize that balance is key."
+  ],
+  "income": [
+    "The concept of universal basic income is gaining academic attention.",
+    "The data suggests a strong correlation between education and income."
+  ],
+  "drawing": [
+    "We should be wary of drawing overly simplistic conclusions."
+  ],
+  "landscape": [
+    "The landscape has changed dramatically over the past decade."
+  ],
+  "abstract": [
+    "The lecture introduced abstract concepts in theoretical physics."
+  ],
+  "drama": [
+    "\"Let's keep it chill, no drama.\""
+  ],
+  "action": [
+    "Business emails should be concise and focused on the key action point."
+  ],
+  "stage": [
+    "The model proved successful at pilot stage and is now ready to scale.",
+    "I'd rather not comment on that at this stage."
+  ],
+  "act": [
+    "It's imperative that we act swiftly and decisively."
+  ],
+  "character": [
+    "\"That outfit is giving main character energy.\"",
+    "\"She walked in and gave main character energy.\""
+  ],
+  "genre": [
+    "Academic writing belongs to a formal genre with strict structural conventions."
+  ],
+  "apologize": [
+    "I apologize for the inconvenience."
+  ],
+  "approve": [
+    "All key stakeholders must approve the project scope before launch."
+  ],
+  "argue": [
+    "I would argue that this represents a paradigm shift in our thinking.",
+    "One could argue that we've been approaching this problem from the wrong angle."
+  ],
+  "attend": [
+    "I'm afraid I won't be able to attend."
+  ],
+  "cause": [
+    "The primary cause of air pollution in cities is vehicle emissions.",
+    "It is difficult to ascertain the exact cause of the population decline."
+  ],
+  "chat": [
+    "\"He spammed the group chat with memes.\""
+  ],
+  "contribute": [
+    "Multiple factors contribute to the rise in childhood obesity.",
+    "Several factors contribute to the widening wealth gap."
+  ],
+  "control": [
+    "There's no point in worrying about things you can't control."
+  ],
+  "delay": [
+    "Had I known about the delay, I would have taken a different route."
+  ],
+  "demand": [
+    "We need to increase our manufacturing capacity to meet seasonal demand.",
+    "There's been a significant increase in demand."
+  ],
+  "deny": [
+    "\"She has the receipts — don't even try to deny it.\""
+  ],
+  "design": [
+    "\"I picked up a gig doing graphic design.\""
+  ],
+  "disagree": [
+    "I disagree."
+  ],
+  "discuss": [
+    "Let's discuss this after the break."
+  ],
+  "encourage": [
+    "I'd encourage you to think critically about the sources of information."
+  ],
+  "establish": [
+    "The study sought to establish a link between diet and mental health."
+  ],
+  "evaluate": [
+    "Students are asked to evaluate the effectiveness of current policies."
+  ],
+  "expect": [
+    "To be honest, I didn't expect that.",
+    "Looking ahead, we expect steady growth."
+  ],
+  "forgive": [
+    "\"If you think she'll forgive you, you're dead wrong.\""
+  ],
+  "invest": [
+    "Governments must invest in infrastructure to sustain economic growth."
+  ],
+  "launch": [
+    "Our teams in London and New York will collaborate on the new product launch.",
+    "The key deliverables for this quarter are the product launch and the sales report."
+  ],
+  "maintain": [
+    "It is vital to maintain biodiversity in fragile ecosystems.",
+    "Academic essays must maintain coherence from introduction to conclusion."
+  ],
+  "obtain": [
+    "Students can obtain additional support from the university library."
+  ],
+  "occur": [
+    "Significant changes in temperature occur during seasonal transitions."
+  ],
+  "operate": [
+    "Remote work represents a paradigm shift in how organisations operate."
+  ],
+  "owe": [
+    "I owe you one.",
+    "We owe it to future generations to make responsible choices."
+  ],
+  "participate": [
+    "Citizens should actively participate in the democratic process."
+  ],
+  "prefer": [
+    "I prefer pop music."
+  ],
+  "propose": [
+    "I'd like to propose a toast to our success."
+  ],
+  "provide": [
+    "Governments should provide access to affordable healthcare for all.",
+    "The study did not provide adequate evidence to support the hypothesis."
+  ],
+  "realize": [
+    "I've come to realize that balance is key."
+  ],
+  "recommend": [
+    "What do you recommend?",
+    "I'd recommend trying the local food."
+  ],
+  "reveal": [
+    "Under no circumstances must you reveal the code."
+  ],
+  "satisfy": [
+    "The treaty's language was deliberately ambiguous to satisfy both parties."
+  ],
+  "solve": [
+    "Hard as he tried, he couldn't solve it."
+  ],
+  "spread": [
+    "Globalisation has accelerated the spread of both culture and disease."
+  ],
+  "suggest": [
+    "There is strong evidence to suggest that exercise reduces anxiety.",
+    "The findings suggest that urban green spaces improve mental health."
+  ],
+  "supply": [
+    "The startup proposed an innovative solution to supply chain inefficiency."
+  ],
+  "tend": [
+    "Generally speaking, people tend to agree."
+  ],
+  "treat": [
+    "\"It's payday — time to treat yourself!\""
+  ],
+  "vary": [
+    "Average temperatures vary significantly between the northern and southern regions."
+  ],
+  "weigh": [
+    "We need to weigh the pros and cons carefully."
+  ],
+  "carbon": [
+    "The government adopted a new approach to reducing carbon emissions.",
+    "Many scientists advocate for stricter controls on carbon emissions."
+  ],
+  "current": [
+    "Students are asked to evaluate the effectiveness of current policies.",
+    "The fossil record does not always correspond to current evolutionary theory."
+  ],
+  "pressure": [
+    "I'm under a lot of pressure at work right now.",
+    "She has a remarkable ability to stay calm under pressure."
+  ],
+  "universe": [
+    "Recent findings refute the long-held assumption that the universe is static."
+  ],
+  "solar system": [
+    "Scientists continue to challenge the conventional model of the solar system."
+  ],
+  "process": [
+    "Citizens should actively participate in the democratic process.",
+    "The process of adapting to a new culture can take several years."
+  ],
+  "analysis": [
+    "The report provides a comprehensive analysis of market conditions.",
+    "Scientific research demands strict objectivity in data collection and analysis."
+  ],
+  "strategy": [
+    "The team was able to execute the strategy flawlessly under tight deadlines.",
+    "The new pricing strategy had a major impact on customer retention."
+  ],
+  "objective": [
+    "Our primary objective this quarter is to reduce customer churn by 15%."
+  ],
+  "scope": [
+    "All key stakeholders must approve the project scope before launch.",
+    "This study deliberately delimits its scope to urban populations."
+  ],
+  "approval": [
+    "We streamlined the approval process to reduce turnaround time."
+  ],
+  "priority": [
+    "It goes without saying that safety is our top priority."
+  ],
+  "outcome": [
+    "I'm cautiously optimistic about the outcome."
+  ],
+  "milestone": [
+    "Reaching 10,000 subscribers was a major milestone for the startup."
+  ],
+  "progress": [
+    "Regular assessment of students' progress helps teachers adapt their methods.",
+    "Progress was made, albeit slowly, over the course of the decade."
+  ],
+  "planning": [
+    "We're planning a trip.",
+    "How long are you planning to stay?"
+  ],
+  "timeline": [
+    "The proposed timeline is not feasible given our current resources.",
+    "Please liaise with the marketing team regarding the campaign timeline."
+  ],
+  "achieve": [
+    "We're on track to achieve our goals."
+  ],
+  "afford": [
+    "We cannot afford to be complacent about cybersecurity threats."
+  ],
+  "agenda": [
+    "Please review the agenda before tomorrow's board meeting."
+  ],
+  "alter": [
+    "Rising sea levels could fundamentally alter coastal ecosystems."
+  ],
+  "among": [
+    "It's a matter of considerable debate among experts.",
+    "The consensus among researchers is gradually shifting."
+  ],
+  "belief": [
+    "Contrary to popular belief, this method is more effective."
+  ],
+  "beyond": [
+    "He went above and beyond to help us."
+  ],
+  "burden": [
+    "The burden of proof lies with those making the claim."
+  ],
+  "exact": [
+    "The exact mechanism by which memory is stored in the brain is still debated.",
+    "It is difficult to ascertain the exact cause of the population decline."
+  ],
+  "excuse": [
+    "Excuse me."
+  ],
+  "favor": [
+    "May the odds be ever in your favor."
+  ],
+  "formal": [
+    "Academic writing belongs to a formal genre with strict structural conventions."
+  ],
+  "global": [
+    "The graph indicates a steady increase in global temperatures.",
+    "Solving climate change involves cooperation at a global level."
+  ],
+  "health": [
+    "The study sought to establish a link between diet and mental health.",
+    "Previous research suggests a link between poverty and poor health outcomes."
+  ],
+  "human": [
+    "The rise in global temperatures is largely attributed to human activity.",
+    "The human brain has a remarkable capacity for language acquisition."
+  ],
+  "limit": [
+    "The sky's the limit."
+  ],
+  "media": [
+    "Social media has a growing influence on young people's self-image.",
+    "Streaming platforms permanently disrupted the traditional media industry."
+  ],
+  "mental": [
+    "The study sought to establish a link between diet and mental health.",
+    "The findings suggest that urban green spaces improve mental health."
+  ],
+  "online": [
+    "Resources available to students have increased with online learning.",
+    "Online education has made learning accessible to people worldwide."
+  ],
+  "percent": [
+    "\"Are you sure?\" \"A hunnid percent.\""
+  ],
+  "rather": [
+    "The speech relied on emotional rhetoric rather than factual evidence.",
+    "I'd rather stay home tonight, if you don't mind."
+  ],
+  "remain": [
+    "The results are promising, with the caveat that sample sizes remain small.",
+    "I remain steadfastly committed to this cause."
+  ],
+  "sample": [
+    "The results are promising, with the caveat that sample sizes remain small.",
+    "The validity of the research depends on the quality of its sample."
+  ],
+  "surface": [
+    "We've barely scratched the surface of what's possible."
+  ],
+  "within": [
+    "The financial turnaround was achieved within 18 months of the new CEO's arrival."
+  ],
+  "affect": [
+    "Government policies on immigration directly affect economic output."
+  ],
+  "balanced": [
+    "Individual rights must be balanced against the needs of society.",
+    "A balanced perspective requires considering multiple viewpoints."
+  ],
+  "decision": [
+    "For what it's worth, I think you made the right decision.",
+    "At the end of the day, it's your decision."
+  ],
+  "generally": [
+    "Generally speaking, people tend to agree."
+  ],
+  "hobby": [
+    "My hobby is reading."
+  ],
+  "journey": [
+    "The journey matters more than the destination."
+  ],
+  "lifestyle": [
+    "Exercise is an essential component of a healthy lifestyle."
+  ],
+  "option": [
+    "I'm not convinced that's the best option."
+  ],
+  "public transport": [
+    "Local authorities are responsible for managing public transport."
+  ],
+  "significant": [
+    "The results demonstrate a significant improvement in test scores.",
+    "Significant changes in temperature occur during seasonal transitions."
+  ],
+  "therefore": [
+    "Air travel is becoming cheaper; therefore, global tourism is rising."
+  ],
+  "tourism": [
+    "Air travel is becoming cheaper; therefore, global tourism is rising."
+  ],
+  "transport": [
+    "Local authorities are responsible for managing public transport."
+  ],
+  "appreciate": [
+    "I'd appreciate it if you could send me the details.",
+    "I appreciate your honesty."
+  ],
+  "century": [
+    "The role of the internet today is analogous to that of the printing press in the 15th century."
+  ],
+  "employment": [
+    "The policy reduces carbon emissions; furthermore, it creates new employment."
+  ],
+  "failure": [
+    "Success is not final, failure is not fatal.",
+    "His failure to comply resulted in penalties."
+  ],
+  "individual": [
+    "Individual rights must be balanced against the needs of society."
+  ],
+  "influence": [
+    "Social media has a growing influence on young people's self-image.",
+    "Social media has a pervasive influence on modern political discourse."
+  ],
+  "overnight": [
+    "\"That meme went viral overnight.\""
+  ],
+  "political": [
+    "A stable political environment is essential for economic investment.",
+    "Social media has a pervasive influence on modern political discourse."
+  ],
+  "pollution": [
+    "The primary cause of air pollution in cities is vehicle emissions.",
+    "Air pollution results in thousands of premature deaths annually."
+  ],
+  "poverty": [
+    "Poverty must be understood in its social and historical context.",
+    "Researchers identified three key causes of urban poverty."
+  ],
+  "unemployment": [
+    "Unemployment is perceived as the greatest threat to social stability."
+  ],
+  "urban": [
+    "In contrast to rural areas, urban populations have grown rapidly.",
+    "Researchers identified three key causes of urban poverty."
+  ],
+  "vehicle": [
+    "The primary cause of air pollution in cities is vehicle emissions."
+  ],
+  "worldwide": [
+    "The issue of affordable housing affects cities worldwide.",
+    "Online education has made learning accessible to people worldwide."
+  ],
+  "accessible": [
+    "Online education has made learning accessible to people worldwide."
+  ],
+  "acting": [
+    "\"He's been acting sus lately — what's he hiding?\""
+  ],
+  "adequate": [
+    "The study did not provide adequate evidence to support the hypothesis."
+  ],
+  "affordable": [
+    "The issue of affordable housing affects cities worldwide.",
+    "Governments should provide access to affordable healthcare for all."
+  ],
+  "aid": [
+    "Aid organisations work to distribute food evenly across affected regions."
+  ],
+  "allergic": [
+    "I'm allergic to nuts."
+  ],
+  "approach": [
+    "The government adopted a new approach to reducing carbon emissions.",
+    "We need a proactive approach to managing client expectations."
+  ],
+  "approximately": [
+    "The duration of the ice age spanned approximately 2.6 million years.",
+    "A master's degree is equivalent to approximately five years of professional experience."
+  ],
+  "carbon footprint": [
+    "The CEO launched a new initiative to reduce the company's carbon footprint."
+  ],
+  "caution": [
+    "The conclusions drawn from this study should be interpreted with caution.",
+    "I would urge caution before making any sweeping generalizations."
+  ],
+  "challenge": [
+    "Scientists continue to challenge the conventional model of the solar system.",
+    "The sheer magnitude of the challenge should not be underestimated."
+  ],
+  "considerable": [
+    "A considerable proportion of the population lacks access to clean water.",
+    "It's a matter of considerable debate among experts."
+  ],
+  "cooperation": [
+    "Solving climate change involves cooperation at a global level.",
+    "Sustainable development requires international cooperation."
+  ],
+  "crisis": [
+    "International cooperation is crucial for addressing the climate crisis.",
+    "His analysis provides a compelling framework for understanding the crisis."
+  ],
+  "customer service": [
+    "Customer service has always been our company's core competency."
+  ],
+  "developing": [
+    "Smartphones have become ubiquitous in both developed and developing nations."
+  ],
+  "digital": [
+    "Digital tools can significantly enhance the learning experience.",
+    "The new marketing strategy will focus on digital channels in 2026."
+  ],
+  "economic": [
+    "We cannot assume that economic growth always improves quality of life.",
+    "Economic growth does not always translate to social equality."
+  ],
+  "effective": [
+    "Effective managers know how to delegate tasks without micromanaging.",
+    "Contrary to popular belief, this method is more effective."
+  ],
+  "essential": [
+    "A well-structured essay is essential for a high IELTS Writing score.",
+    "Knowledge transfer between generations is essential for cultural continuity."
+  ],
+  "fascinating": [
+    "I find the juxtaposition of tradition and modernity fascinating."
+  ],
+  "financial": [
+    "The company offered financial incentives to improve employee productivity.",
+    "The financial turnaround was achieved within 18 months of the new CEO's arrival."
+  ],
+  "following": [
+    "Annual revenue grew from $5M to $7.2M following the product launch."
+  ],
+  "forecast": [
+    "The Q3 sales forecast shows a 12% increase over last year."
+  ],
+  "furthermore": [
+    "The policy reduces carbon emissions; furthermore, it creates new employment."
+  ],
+  "giving": [
+    "\"That outfit is giving main character energy.\""
+  ],
+  "impact": [
+    "Climate change has a profound impact on agricultural output.",
+    "The results imply that diet has a greater impact than exercise."
+  ],
+  "implementation": [
+    "The effectiveness of this policy hinges on consistent implementation."
+  ],
+  "incredible": [
+    "\"Go off, queen! That speech was incredible.\""
+  ],
+  "independent": [
+    "These findings are corroborated by three independent studies."
+  ],
+  "industrial": [
+    "The population boom coincided with the industrial revolution.",
+    "The industrial revolution had a profound impact on social structures."
+  ],
+  "inevitable": [
+    "Some economists contend that inequality is an inevitable result of capitalism."
+  ],
+  "initiative": [
+    "The CEO launched a new initiative to reduce the company's carbon footprint.",
+    "I wholeheartedly support this initiative."
+  ],
+  "legal": [
+    "Some corporations attempt to circumvent environmental regulations through legal loopholes."
+  ],
+  "logical": [
+    "A coherent argument requires strong evidence and logical structure."
+  ],
+  "manufacturing": [
+    "We need to increase our manufacturing capacity to meet seasonal demand."
+  ],
+  "moreover": [
+    "The CEO's plan reduced costs; moreover, it improved staff morale.",
+    "Moreover, the data supports our hypothesis."
+  ],
+  "multiple": [
+    "Multiple factors contribute to the rise in childhood obesity.",
+    "Young children exposed to multiple languages develop stronger cognitive skills."
+  ],
+  "nevertheless": [
+    "The plan was risky; nevertheless, they proceeded."
+  ],
+  "potential": [
+    "Renewable energy has enormous potential to reduce global emissions.",
+    "The author presents a hypothetical scenario to illustrate the policy's potential impact."
+  ],
+  "professional": [
+    "A master's degree is equivalent to approximately five years of professional experience."
+  ],
+  "remarkable": [
+    "The human brain has a remarkable capacity for language acquisition.",
+    "She has a remarkable ability to stay calm under pressure."
+  ],
+  "several": [
+    "Several factors contribute to the widening wealth gap.",
+    "The process of adapting to a new culture can take several years."
+  ],
+  "social": [
+    "Poverty must be understood in its social and historical context.",
+    "Economic growth does not always translate to social equality."
+  ],
+  "successful": [
+    "The model proved successful at pilot stage and is now ready to scale.",
+    "All things considered, it was a successful event."
+  ],
+  "sustainable": [
+    "Sustainable development requires international cooperation."
+  ],
+  "throughout": [
+    "The author's bias is implicit in the choice of language throughout the text."
+  ],
+  "understanding": [
+    "His analysis provides a compelling framework for understanding the crisis.",
+    "Our understanding of this phenomenon has evolved considerably."
+  ],
+  "whether": [
+    "We need to assess whether the proposal is financially viable.",
+    "It remains to be seen whether this approach will work."
+  ],
+  "ambitious": [
+    "The proposal, while ambitious, lacks practical feasibility."
+  ],
+  "analyse": [
+    "Candidates must analyse the graph and describe its key features."
+  ],
+  "barriers": [
+    "The report enumerates five key barriers to educational access."
+  ],
+  "brainstorm": [
+    "Let's brainstorm solutions before the client presentation on Friday.",
+    "Let's put our heads together and brainstorm."
+  ],
+  "campaign": [
+    "Please liaise with the marketing team regarding the campaign timeline.",
+    "The marketing campaign delivered a 4x ROI over six months."
+  ],
+  "collaborate": [
+    "Our teams in London and New York will collaborate on the new product launch."
+  ],
+  "complex": [
+    "The relationship between poverty and crime is highly complex.",
+    "Global warming is a complex phenomenon driven by multiple factors."
+  ],
+  "compromise": [
+    "We need to reach a compromise."
+  ],
+  "confident": [
+    "The more you practice, the more confident you become.",
+    "I'm confident we can resolve this issue."
+  ],
+  "contrast": [
+    "In contrast to rural areas, urban populations have grown rapidly."
+  ],
+  "elaborate": [
+    "Allow me to elaborate on that point."
+  ],
+  "encounter": [
+    "Researchers frequently encounter unexpected variables in field studies."
+  ],
+  "equivalent": [
+    "A master's degree is equivalent to approximately five years of professional experience."
+  ],
+  "focused": [
+    "Business emails should be concise and focused on the key action point."
+  ],
+  "frequently": [
+    "Researchers frequently encounter unexpected variables in field studies."
+  ],
+  "hypothesis": [
+    "The study did not provide adequate evidence to support the hypothesis.",
+    "The researcher cited three landmark studies to support the hypothesis."
+  ],
+  "keen": [
+    "I'm quite keen on learning new skills."
+  ],
+  "negotiate": [
+    "Both parties will need to negotiate the terms of the new contract."
+  ],
+  "neutral": [
+    "The study was conducted in a neutral setting to minimise bias."
+  ],
+  "practical": [
+    "The final chapter elucidates the practical implications of the theory.",
+    "The proposal, while ambitious, lacks practical feasibility."
+  ],
+  "proof": [
+    "The burden of proof lies with those making the claim."
+  ],
+  "rigorous": [
+    "The study used a rigorous methodology to ensure reliable results."
+  ],
+  "secure": [
+    "\"Gotta secure the bag before vacation.\""
+  ],
+  "sequence": [
+    "Scientists modified the gene sequence to reduce the risk of the disease."
+  ],
+  "structured": [
+    "A well-structured essay is essential for a high IELTS Writing score.",
+    "The HR team has a structured process to onboard new hires."
+  ],
+  "universal": [
+    "The concept of universal basic income is gaining academic attention."
+  ],
+  "vital": [
+    "It is vital to maintain biodiversity in fragile ecosystems."
+  ],
+  "everyone": [
+    "No worries, it happens to everyone.",
+    "\"He loves flexing on everyone with his clothes.\""
+  ],
+  "trying": [
+    "I'd recommend trying the local food.",
+    "\"He's a total foodie — always trying new restaurants.\""
+  ],
+  "working": [
+    "I've been working here for three years.",
+    "The air conditioning isn't working."
+  ],
+  "means": [
+    "Your support means the world to me."
+  ],
+  "able": [
+    "The team was able to execute the strategy flawlessly under tight deadlines.",
+    "I'm afraid I won't be able to attend."
+  ],
+  "given": [
+    "The proposed timeline is not feasible given our current resources.",
+    "I'm reluctant to make predictions given the current volatility."
+  ],
+  "hours": [
+    "What are the opening hours?",
+    "\"You've been gaming for 12 hours. Go touch grass.\""
+  ],
+  "coming": [
+    "Are they coming to the party?",
+    "\"Is she coming?\" \"I believe so.\""
+  ],
+  "food": [
+    "Aid organisations work to distribute food evenly across affected regions.",
+    "The agricultural revolution created an enormous surplus of food."
+  ],
+  "known": [
+    "Had I known about the delay, I would have taken a different route.",
+    "If she had known, she would have helped."
+  ],
+  "playing": [
+    "The children are playing."
+  ],
+  "saying": [
+    "It goes without saying that safety is our top priority."
+  ],
+  "needs": [
+    "Individual rights must be balanced against the needs of society."
+  ],
+  "wanted": [
+    "Speaking of which, I wanted to ask you something.",
+    "He wanted to complain but decided not to."
+  ],
+  "due": [
+    "Many cultural traditions are being lost due to globalisation.",
+    "The report is due by the end of the week at the latest."
+  ],
+  "saw": [
+    "Urban areas saw rapid growth; contrastingly, rural populations continued to decline."
+  ],
+  "million": [
+    "The duration of the ice age spanned approximately 2.6 million years."
+  ],
+  "taken": [
+    "Is this seat taken?",
+    "Had I known about the delay, I would have taken a different route."
+  ],
+  "development": [
+    "Sustainable development requires international cooperation.",
+    "The development of new technologies is essential."
+  ],
+  "further": [
+    "The initial trial produced inconclusive results, necessitating further research."
+  ],
+  "living": [
+    "There has been a significant increase in the cost of living.",
+    "\"That song is living rent-free in my head.\""
+  ],
+  "gonna": [
+    "\"I didn't study — I'm just gonna wing it.\""
+  ],
+  "works": [
+    "The onus is on us to demonstrate that this approach works."
+  ],
+  "according": [
+    "According to recent studies, the trend is changing."
+  ],
+  "heard": [
+    "I've heard a lot about this place.",
+    "\"I was shook when I heard the news.\""
+  ],
+  "london": [
+    "Our teams in London and New York will collaborate on the new product launch.",
+    "I have been to London."
+  ],
+  "thinking": [
+    "That's exactly what I was thinking.",
+    "I would argue that this represents a paradigm shift in our thinking."
+  ],
+  "issue": [
+    "The issue of affordable housing affects cities worldwide.",
+    "The author asserts that climate change is the defining issue of our era."
+  ],
+  "policy": [
+    "The report presents a chronological account of policy changes since 1990.",
+    "The policy reduces carbon emissions; furthermore, it creates new employment."
+  ],
+  "themselves": [
+    "The figures speak for themselves."
+  ],
+  "worth": [
+    "We have $2M worth of deals in the sales pipeline for Q4.",
+    "It's worth visiting if you get the chance."
+  ],
+  "average": [
+    "Average temperatures vary significantly between the northern and southern regions."
+  ],
+  "tried": [
+    "Have you ever tried sushi?",
+    "Hard as he tried, he couldn't solve it."
+  ],
+  "production": [
+    "Increasing production costs continue to erode our profit margin."
+  ],
+  "lives": [
+    "There's no denying that technology has transformed our lives."
+  ],
+  "central": [
+    "The essay's central premise is that inequality is structurally embedded."
+  ],
+  "range": [
+    "The company diversified its product range to attract new demographics."
+  ],
+  "hey": [
+    "\"Hey, what's up?\" \"Not much, just chilling.\""
+  ],
+  "itself": [
+    "I must confess that I was initially skeptical, but the evidence speaks for itself."
+  ],
+  "technology": [
+    "Technology has created new opportunities but also new challenges.",
+    "There's no denying that technology has transformed our lives."
+  ],
+  "decided": [
+    "She decided to study abroad.",
+    "He wanted to complain but decided not to."
+  ],
+  "french": [
+    "I wish I could speak French."
+  ],
+  "met": [
+    "It's been a while since we last met."
+  ],
+  "considered": [
+    "Have you considered the alternatives?",
+    "All things considered, it was a successful event."
+  ],
+  "began": [
+    "No sooner had we arrived than it began to snow."
+  ],
+  "built": [
+    "Rome wasn't built in a day."
+  ],
+  "access": [
+    "Governments should provide access to affordable healthcare for all.",
+    "A considerable proportion of the population lacks access to clean water."
+  ],
+  "seeing": [
+    "\"I got serious FOMO seeing their vacation photos.\""
+  ],
+  "wanna": [
+    "\"Sup, dude. Wanna grab food?\"",
+    "\"Wanna go to the movies?\" \"Bet.\""
+  ],
+  "tonight": [
+    "I'd rather stay home tonight, if you don't mind.",
+    "\"Her makeup is snatched tonight!\""
+  ],
+  "response": [
+    "Language evolves constantly in response to cultural and technological shifts.",
+    "We must ensure that our response is proportionate to the threat."
+  ],
+  "growth": [
+    "We cannot assume that economic growth always improves quality of life.",
+    "Economic growth does not always translate to social equality."
+  ],
+  "limited": [
+    "Natural resources such as oil and water are limited and must be managed carefully."
+  ],
+  "committee": [
+    "The committee comprises representatives from fifteen countries.",
+    "The committee scrutinised every line of the proposed budget."
+  ],
+  "previous": [
+    "Previous research suggests a link between poverty and poor health outcomes.",
+    "The findings categorically disprove the previous hypothesis."
+  ],
+  "despite": [
+    "Despite the setbacks, we managed to pull through."
+  ],
+  "ability": [
+    "She has a remarkable ability to stay calm under pressure."
+  ],
+  "advantage": [
+    "Our lower operating costs give us a clear competitive advantage."
+  ],
+  "assessment": [
+    "Regular assessment of students' progress helps teachers adapt their methods.",
+    "I'm inclined to agree with your assessment."
+  ],
+  "attempt": [
+    "Some corporations attempt to circumvent environmental regulations through legal loopholes."
+  ],
+  "capacity": [
+    "The human brain has a remarkable capacity for language acquisition.",
+    "We need to increase our manufacturing capacity to meet seasonal demand."
+  ],
+  "component": [
+    "Exercise is an essential component of a healthy lifestyle."
+  ],
+  "concept": [
+    "The concept of universal basic income is gaining academic attention.",
+    "Kuhn introduced the concept of scientific paradigms in 1962."
+  ],
+  "conclusion": [
+    "Academic essays must maintain coherence from introduction to conclusion.",
+    "The conclusion rests on an erroneous assumption about population growth."
+  ],
+  "decline": [
+    "It is difficult to ascertain the exact cause of the population decline.",
+    "Urban areas saw rapid growth; contrastingly, rural populations continued to decline."
+  ],
+  "era": [
+    "The author asserts that climate change is the defining issue of our era."
+  ],
+  "improvement": [
+    "The results demonstrate a significant improvement in test scores.",
+    "Having said that, I do see some room for improvement."
+  ],
+  "mechanism": [
+    "The exact mechanism by which memory is stored in the brain is still debated."
+  ],
+  "notion": [
+    "The notion that one size fits all is inherently problematic."
+  ],
+  "perspective": [
+    "A balanced perspective requires considering multiple viewpoints."
+  ],
+  "phenomenon": [
+    "Global warming is a complex phenomenon driven by multiple factors.",
+    "The underlying causes of this phenomenon are poorly understood."
+  ],
+  "proportion": [
+    "A considerable proportion of the population lacks access to clean water."
+  ],
+  "proposal": [
+    "The proposal must be submitted by the client deadline of next Thursday.",
+    "Please send me your full proposal by end of business Friday."
+  ],
+  "selection": [
+    "Darwin's theory of natural selection revolutionised biology."
+  ],
+  "structure": [
+    "A coherent argument requires strong evidence and logical structure.",
+    "The two cultures have distinct approaches to family structure."
+  ],
+  "tendency": [
+    "She has a tendency to overthink things."
+  ],
+  "theory": [
+    "The professor acknowledged that the theory had significant limitations.",
+    "The fossil record does not always correspond to current evolutionary theory."
+  ],
+  "threat": [
+    "Unemployment is perceived as the greatest threat to social stability.",
+    "We must ensure that our response is proportionate to the threat."
+  ],
+  "volume": [
+    "Monthly sales volume is one of our primary KPIs."
+  ],
+  "absolute": [
+    "It's been an absolute pleasure working with you."
+  ],
+  "additional": [
+    "Students can obtain additional support from the university library."
+  ],
+  "annual": [
+    "Annual revenue grew from $5M to $7.2M following the product launch."
+  ],
+  "apparent": [
+    "It is apparent from the data that literacy rates have improved.",
+    "We must guard against complacency in times of apparent stability."
+  ],
+  "artificial": [
+    "The ethical implications of artificial intelligence warrant serious discussion."
+  ],
+  "comprehensive": [
+    "The report provides a comprehensive analysis of market conditions.",
+    "The situation calls for a comprehensive review of our procedures."
+  ],
+  "consistent": [
+    "The effectiveness of this policy hinges on consistent implementation."
+  ],
+  "controversial": [
+    "Capital punishment remains a controversial topic in many democracies."
+  ],
+  "conventional": [
+    "Scientists continue to challenge the conventional model of the solar system."
+  ],
+  "crucial": [
+    "International cooperation is crucial for addressing the climate crisis.",
+    "It's crucial that we meet the deadline."
+  ],
+  "cultural": [
+    "Many cultural traditions are being lost due to globalisation.",
+    "Knowledge transfer between generations is essential for cultural continuity."
+  ],
+  "democratic": [
+    "Citizens should actively participate in the democratic process."
+  ],
+  "emotional": [
+    "The speech relied on emotional rhetoric rather than factual evidence."
+  ],
+  "enormous": [
+    "Renewable energy has enormous potential to reduce global emissions.",
+    "The agricultural revolution created an enormous surplus of food."
+  ],
+  "environmental": [
+    "Species that cannot adapt to environmental changes face extinction.",
+    "Some corporations attempt to circumvent environmental regulations through legal loopholes."
+  ],
+  "existing": [
+    "The study excluded participants with pre-existing conditions.",
+    "The new CRM system integrates seamlessly with our existing software."
+  ],
+  "fatal": [
+    "Success is not final, failure is not fatal."
+  ],
+  "fundamental": [
+    "Access to clean water is a fundamental human right.",
+    "I'm compelled to point out a fundamental flaw in your reasoning."
+  ],
+  "initial": [
+    "The initial study and all subsequent research confirmed the hypothesis.",
+    "The initial trial produced inconclusive results, necessitating further research."
+  ],
+  "innovative": [
+    "The startup proposed an innovative solution to supply chain inefficiency."
+  ],
+  "operational": [
+    "Process automation has dramatically improved operational efficiency.",
+    "Many companies outsource IT support to reduce operational costs."
+  ],
+  "positive": [
+    "The feedback has been overwhelmingly positive."
+  ],
+  "primary": [
+    "The primary function of education is to equip individuals for society.",
+    "The primary cause of air pollution in cities is vehicle emissions."
+  ],
+  "rapid": [
+    "The period was characterised by rapid technological advancement.",
+    "Urban areas saw rapid growth; contrastingly, rural populations continued to decline."
+  ],
+  "reluctant": [
+    "I'm reluctant to make predictions given the current volatility."
+  ],
+  "rural": [
+    "In contrast to rural areas, urban populations have grown rapidly.",
+    "Urban areas saw rapid growth; contrastingly, rural populations continued to decline."
+  ],
+  "steady": [
+    "The graph indicates a steady increase in global temperatures.",
+    "Looking ahead, we expect steady growth."
+  ],
+  "strict": [
+    "Academic writing belongs to a formal genre with strict structural conventions.",
+    "Scientific research demands strict objectivity in data collection and analysis."
+  ],
+  "subsequent": [
+    "The initial study and all subsequent research confirmed the hypothesis.",
+    "Subsequent research confirmed the initial findings."
+  ],
+  "theoretical": [
+    "The lecture introduced abstract concepts in theoretical physics."
+  ],
+  "unexpected": [
+    "Researchers frequently encounter unexpected variables in field studies."
+  ],
+  "accumulate": [
+    "Pollutants accumulate in the ocean, posing long-term ecological risks."
+  ],
+  "adapt": [
+    "Regular assessment of students' progress helps teachers adapt their methods.",
+    "Species that cannot adapt to environmental changes face extinction."
+  ],
+  "assume": [
+    "We cannot assume that economic growth always improves quality of life."
+  ],
+  "bet": [
+    "\"Wanna go to the movies?\" \"Bet.\""
+  ],
+  "confess": [
+    "I must confess that I was initially skeptical, but the evidence speaks for itself."
+  ],
+  "define": [
+    "It is important to clearly define what is meant by 'sustainable development'.",
+    "We find ourselves at a crossroads, and the path we choose will define our future."
+  ],
+  "demonstrate": [
+    "The results demonstrate a significant improvement in test scores.",
+    "The onus is on us to demonstrate that this approach works."
+  ],
+  "distribute": [
+    "Aid organisations work to distribute food evenly across affected regions."
+  ],
+  "embrace": [
+    "Embrace the uncertainty — that's where growth happens."
+  ],
+  "emerge": [
+    "A new theory of consciousness has begun to emerge in neuroscience."
+  ],
+  "enhance": [
+    "Digital tools can significantly enhance the learning experience."
+  ],
+  "ensure": [
+    "The study used a rigorous methodology to ensure reliable results.",
+    "We must ensure that our response is proportionate to the threat."
+  ],
+  "extend": [
+    "I'd like to extend my stay by one night."
+  ],
+  "finance": [
+    "The finance team will allocate a budget of $50,000 for marketing."
+  ],
+  "generate": [
+    "Solar panels generate electricity without producing greenhouse gases."
+  ],
+  "illustrate": [
+    "The author presents a hypothetical scenario to illustrate the policy's potential impact."
+  ],
+  "imply": [
+    "The results imply that diet has a greater impact than exercise."
+  ],
+  "interpret": [
+    "Different cultures may interpret the same data differently."
+  ],
+  "justify": [
+    "It is difficult to justify cutting education spending in a recession."
+  ],
+  "perceive": [
+    "How individuals perceive risk varies greatly across cultures."
+  ],
+  "reform": [
+    "Policymakers must take a pragmatic approach to immigration reform."
+  ],
+  "resign": [
+    "If I were in your position, I would resign."
+  ],
+  "resolve": [
+    "I'm confident we can resolve this issue."
+  ],
+  "submit": [
+    "You must submit the form by Friday."
+  ],
+  "sustain": [
+    "Governments must invest in infrastructure to sustain economic growth."
+  ],
+  "urge": [
+    "I would urge caution before making any sweeping generalizations."
+  ],
+  "as a matter of fact": [
+    "As a matter of fact, the situation is more complex than it seems."
+  ],
+  "as far as i know": [
+    "As far as I know, the office opens at nine."
+  ],
+  "it depends": [
+    "It depends.",
+    "It depends on the circumstances."
+  ],
+  "on the other hand": [
+    "On the other hand, there are some disadvantages."
+  ],
+  "to be honest": [
+    "To be honest, I didn't expect that."
+  ],
+  "at least": [
+    "We need to improve our gross margin from 28% to at least 35%."
+  ],
+  "due to": [
+    "Many cultural traditions are being lost due to globalisation."
+  ],
+  "in contrast": [
+    "In contrast to rural areas, urban populations have grown rapidly."
+  ],
+  "renewable": [
+    "Renewable energy has enormous potential to reduce global emissions.",
+    "From the passage, we can infer that the author supports renewable energy."
+  ],
+  "deforestation": [
+    "Deforestation has serious consequences for biodiversity."
+  ],
+  "global warming": [
+    "Global warming is a complex phenomenon driven by multiple factors."
+  ],
+  "organic": [
+    "\"She only drinks organic cold-pressed juice — so bougie.\""
+  ],
+  "streaming": [
+    "Streaming platforms permanently disrupted the traditional media industry."
+  ],
+  "infrastructure": [
+    "Governments must invest in infrastructure to sustain economic growth.",
+    "Infrastructure investment declined; consequently, transportation bottlenecks increased."
+  ],
+  "feasibility": [
+    "The proposal, while ambitious, lacks practical feasibility."
+  ],
+  "benchmark": [
+    "Our quarterly sales figures set a new benchmark for the industry."
+  ],
+  "roi": [
+    "The marketing campaign delivered a 4x ROI over six months."
+  ],
+  "advocate": [
+    "Many scientists advocate for stricter controls on carbon emissions."
+  ],
+  "allocate": [
+    "The finance team will allocate a budget of $50,000 for marketing."
+  ],
+  "assess": [
+    "We need to assess whether the proposal is financially viable."
+  ],
+  "claim": [
+    "The burden of proof lies with those making the claim."
+  ],
+  "difficulty": [
+    "I harbor no illusions about the difficulty of the task ahead."
+  ],
+  "distinct": [
+    "The two cultures have distinct approaches to family structure."
+  ],
+  "initially": [
+    "I must confess that I was initially skeptical, but the evidence speaks for itself."
+  ],
+  "restrict": [
+    "Many countries restrict greenhouse gas emissions through legislation."
+  ],
+  "revenue": [
+    "Revenue increased by 18% in Q3 compared to the same quarter last year.",
+    "Annual revenue grew from $5M to $7.2M following the product launch."
+  ],
+  "scenario": [
+    "The author presents a hypothetical scenario to illustrate the policy's potential impact."
+  ],
+  "sector": [
+    "Technological innovation has transformed every sector of the global economy.",
+    "The potential for growth in this sector is enormous."
+  ],
+  "academic": [
+    "The concept of universal basic income is gaining academic attention.",
+    "Students should cite credible sources in academic essays."
+  ],
+  "cognitive": [
+    "Young children exposed to multiple languages develop stronger cognitive skills."
+  ],
+  "collaboration": [
+    "The new software facilitates real-time collaboration between remote teams."
+  ],
+  "correlation": [
+    "The data suggests a strong correlation between education and income.",
+    "The correlation between education and economic growth is well documented."
+  ],
+  "dedication": [
+    "I admire his dedication and work ethic."
+  ],
+  "ethical": [
+    "The ethical implications of artificial intelligence warrant serious discussion."
+  ],
+  "inequality": [
+    "Some economists contend that inequality is an inevitable result of capitalism.",
+    "The essay's central premise is that inequality is structurally embedded."
+  ],
+  "integrity": [
+    "Academic integrity requires that all work submitted be original."
+  ],
+  "intervention": [
+    "The findings lend credence to the theory that early intervention is key."
+  ],
+  "legislation": [
+    "Many countries restrict greenhouse gas emissions through legislation."
+  ],
+  "migration": [
+    "Scientists investigated the effects of light pollution on bird migration.",
+    "Researchers debate the true motive behind early human migration patterns."
+  ],
+  "transparency": [
+    "I'm of the opinion that transparency is non-negotiable."
+  ],
+  "uncertainty": [
+    "Embrace the uncertainty — that's where growth happens."
+  ],
+  "bias": [
+    "The study was conducted in a neutral setting to minimise bias.",
+    "The author's bias is implicit in the choice of language throughout the text."
+  ],
+  "coherence": [
+    "Academic essays must maintain coherence from introduction to conclusion."
+  ],
+  "complexity": [
+    "The complexity of the issue defies simple solutions.",
+    "I'd like to preface my remarks by acknowledging the complexity of this issue."
+  ],
+  "context": [
+    "Poverty must be understood in its social and historical context.",
+    "The lecturer emphasised the role of context in language learning."
+  ],
+  "extinction": [
+    "Species that cannot adapt to environmental changes face extinction."
+  ],
+  "freelance": [
+    "\"I'm tired of the 9 to 5 — I want to freelance.\""
+  ],
+  "graphic": [
+    "\"I picked up a gig doing graphic design.\""
+  ],
+  "greenhouse gas": [
+    "Many countries restrict greenhouse gas emissions through legislation."
+  ],
+  "honesty": [
+    "I appreciate your honesty."
+  ],
+  "housing": [
+    "The issue of affordable housing affects cities worldwide."
+  ],
+  "long-term": [
+    "Pollutants accumulate in the ocean, posing long-term ecological risks.",
+    "The long-term consequences of inaction could be catastrophic."
+  ],
+  "misunderstanding": [
+    "I'm afraid there's been a misunderstanding."
+  ],
+  "narrative": [
+    "The narrative surrounding this event has been highly misleading."
+  ],
+  "protection": [
+    "All vendors must comply with data protection regulations."
+  ],
+  "recession": [
+    "It is difficult to justify cutting education spending in a recession."
+  ],
+  "resilience": [
+    "It's a testament to their resilience that they overcame such adversity."
+  ],
+  "revolution": [
+    "The population boom coincided with the industrial revolution.",
+    "The agricultural revolution created an enormous surplus of food."
+  ],
+  "transformation": [
+    "We're witnessing an unprecedented transformation of the global economy."
+  ],
+  "automation": [
+    "Process automation has dramatically improved operational efficiency."
+  ],
+  "evidence-based": [
+    "Academic discourse demands precision, clarity, and evidence-based reasoning."
+  ],
+  "innovation": [
+    "Technological innovation has transformed every sector of the global economy.",
+    "The pace of innovation shows no signs of slowing down."
+  ],
+  "natural resources": [
+    "Natural resources such as oil and water are limited and must be managed carefully."
+  ],
+  "online learning": [
+    "Resources available to students have increased with online learning."
+  ],
+  "remote work": [
+    "Remote work represents a paradigm shift in how organisations operate.",
+    "Remote work tools have improved employee productivity significantly."
+  ],
+  "sustainable development": [
+    "Sustainable development requires international cooperation."
+  ],
+  "academic integrity": [
+    "Academic integrity requires that all work submitted be original."
+  ],
+  "catching up": [
+    "It was great catching up with you."
+  ],
+  "chronological": [
+    "The report presents a chronological account of policy changes since 1990."
+  ],
+  "consensus": [
+    "The consensus among researchers is gradually shifting."
+  ],
+  "contentious": [
+    "It remains a contentious issue with no easy answers."
+  ],
+  "discourse": [
+    "Academic discourse demands precision, clarity, and evidence-based reasoning.",
+    "Social media has a pervasive influence on modern political discourse."
+  ],
+  "dominant": [
+    "English has become the dominant language of international commerce."
+  ],
+  "evolutionary": [
+    "The fossil record does not always correspond to current evolutionary theory."
+  ],
+  "experimental": [
+    "There are inherent risks in any experimental methodology."
+  ],
+  "guided": [
+    "Is there a guided tour available?"
+  ],
+  "paradigm shift": [
+    "Remote work represents a paradigm shift in how organisations operate.",
+    "I would argue that this represents a paradigm shift in our thinking."
+  ],
+  "population growth": [
+    "The conclusion rests on an erroneous assumption about population growth."
+  ],
+  "proactive approach": [
+    "We need a proactive approach to managing client expectations."
+  ],
+  "universal basic income": [
+    "The concept of universal basic income is gaining academic attention."
+  ],
+  "basic income": [
+    "The concept of universal basic income is gaining academic attention."
+  ],
+  "climate change": [
+    "Climate change has a profound impact on agricultural output.",
+    "Solving climate change involves cooperation at a global level."
+  ],
+  "committed": [
+    "I remain steadfastly committed to this cause."
+  ],
+  "educational attainment": [
+    "Both countries show similar trends in educational attainment."
+  ],
+  "fossil record": [
+    "The fossil record does not always correspond to current evolutionary theory."
+  ],
+  "immigration reform": [
+    "Policymakers must take a pragmatic approach to immigration reform."
+  ],
+  "knowledge transfer": [
+    "Knowledge transfer between generations is essential for cultural continuity."
+  ],
+  "low-income": [
+    "This case study illuminates the challenges facing healthcare systems in low-income countries."
+  ],
+  "wealth gap": [
+    "Several factors contribute to the widening wealth gap."
+  ],
+  "absolutely": [
+    "What she said was absolutely true."
+  ],
+  "collection": [
+    "Scientific research demands strict objectivity in data collection and analysis."
+  ],
+  "continued": [
+    "Urban areas saw rapid growth; contrastingly, rural populations continued to decline."
+  ],
+  "developed": [
+    "Smartphones have become ubiquitous in both developed and developing nations."
+  ],
+  "gotta": [
+    "\"Gotta secure the bag before vacation.\"",
+    "\"I gotta dip before it gets late.\""
+  ],
+  "finished": [
+    "She has already finished her homework.",
+    "She told me she had finished."
+  ],
+  "growing": [
+    "Social media has a growing influence on young people's self-image."
+  ],
+  "meant": [
+    "It is important to clearly define what is meant by 'sustainable development'.",
+    "It meant a lot to me."
+  ],
+  "latest": [
+    "The report is due by the end of the week at the latest."
+  ],
+  "clearly": [
+    "It is important to clearly define what is meant by 'sustainable development'."
+  ],
+  "learning": [
+    "Resources available to students have increased with online learning.",
+    "Online education has made learning accessible to people worldwide."
+  ],
+  "bought": [
+    "\"He bought her flowers every day — what a simp.\""
+  ],
+  "caught": [
+    "\"He was caught in 4K liking her posts.\"",
+    "\"We were just friends, but I caught feelings.\""
+  ],
+  "disease": [
+    "Globalisation has accelerated the spread of both culture and disease.",
+    "Scientists modified the gene sequence to reduce the risk of the disease."
+  ],
+  "greater": [
+    "The results imply that diet has a greater impact than exercise."
+  ],
+  "effects": [
+    "Scientists investigated the effects of light pollution on bird migration.",
+    "Urban tree planting can help mitigate the effects of the urban heat island."
+  ],
+  "highly": [
+    "The relationship between poverty and crime is highly complex.",
+    "The narrative surrounding this event has been highly misleading."
+  ],
+  "japan": [
+    "Have you ever been to Japan?"
+  ],
+  "rates": [
+    "It is apparent from the data that literacy rates have improved."
+  ],
+  "activity": [
+    "The rise in global temperatures is largely attributed to human activity."
+  ],
+  "queen": [
+    "\"Go off, queen! That speech was incredible.\""
+  ],
+  "northern": [
+    "Average temperatures vary significantly between the northern and southern regions."
+  ],
+  "broke": [
+    "\"I'm broke until payday.\""
+  ],
+  "eating": [
+    "\"Eating pizza at 3 AM — big mood.\"",
+    "\"I've been clean eating for a month — feeling great.\""
+  ],
+  "learned": [
+    "I've learned a lot from this experience.",
+    "Every experience is a lesson learned."
+  ],
+  "losing": [
+    "\"She's still salty about losing the game.\""
+  ],
+  "traditional": [
+    "Streaming platforms permanently disrupted the traditional media industry."
+  ],
+  "seat": [
+    "Is this seat taken?"
+  ],
+  "failed": [
+    "\"I failed the test.\" \"Oof, that's rough.\""
+  ],
+  "hearing": [
+    "I'm looking forward to hearing from you."
+  ],
+  "becoming": [
+    "Air travel is becoming cheaper; therefore, global tourism is rising.",
+    "The interplay between technology and society is becoming ever more complex."
+  ],
+  "dude": [
+    "\"Sup, dude. Wanna grab food?\""
+  ],
+  "japanese": [
+    "I would learn Japanese if I had more time."
+  ],
+  "remains": [
+    "Capital punishment remains a controversial topic in many democracies.",
+    "It remains to be seen whether this approach will work."
+  ],
+  "helping": [
+    "Would you mind helping me?"
+  ],
+  "knowing": [
+    "It would be presumptuous of me to offer advice without knowing the full context."
+  ],
+  "operating": [
+    "Our lower operating costs give us a clear competitive advantage."
+  ],
+  "clothes": [
+    "\"He loves flexing on everyone with his clothes.\""
+  ],
+  "picked": [
+    "\"I picked up a gig doing graphic design.\""
+  ],
+  "turning": [
+    "It was a turning point in my career."
+  ],
+  "fixed": [
+    "I had my laptop fixed yesterday."
+  ],
+  "historical": [
+    "Poverty must be understood in its social and historical context."
+  ],
+  "shopping": [
+    "\"Going shopping with my bestie today!\""
+  ],
+  "communication": [
+    "Communication is key to a successful project."
+  ],
+  "formed": [
+    "The researchers formed a hypothesis before designing the experiment."
+  ],
+  "increasing": [
+    "Increasing production costs continue to erode our profit margin."
+  ],
+  "taught": [
+    "Experience has taught me to be more patient."
+  ],
+  "regarding": [
+    "Please liaise with the marketing team regarding the campaign timeline."
+  ],
+  "scientific": [
+    "Scientific research demands strict objectivity in data collection and analysis.",
+    "Kuhn introduced the concept of scientific paradigms in 1962."
+  ],
+  "squad": [
+    "\"The whole squad is going to the concert.\""
+  ],
+  "confirmed": [
+    "The initial study and all subsequent research confirmed the hypothesis.",
+    "Subsequent research confirmed the initial findings."
+  ],
+  "grown": [
+    "In contrast to rural areas, urban populations have grown rapidly.",
+    "I've grown so much as a person over the past year."
+  ],
+  "affected": [
+    "Aid organisations work to distribute food evenly across affected regions."
+  ],
+  "reduced": [
+    "The CEO's plan reduced costs; moreover, it improved staff morale."
+  ],
+  "considering": [
+    "A balanced perspective requires considering multiple viewpoints."
+  ],
+  "lights": [
+    "Turn left at the traffic lights."
+  ],
+  "mixed": [
+    "I have mixed feelings about the whole thing."
+  ],
+  "forgot": [
+    "I forgot my password.",
+    "\"Bruh, you really forgot your keys again?\""
+  ],
+  "ourselves": [
+    "We find ourselves at a crossroads, and the path we choose will define our future."
+  ],
+  "spoke": [
+    "If she spoke English, she would have gotten the job."
+  ],
+  "cutting": [
+    "It is difficult to justify cutting education spending in a recession."
+  ],
+  "granted": [
+    "We shouldn't take this for granted.",
+    "Granted, it was expensive, but it was worth it."
+  ],
+  "improved": [
+    "It is apparent from the data that literacy rates have improved.",
+    "Process automation has dramatically improved operational efficiency."
+  ],
+  "largely": [
+    "The rise in global temperatures is largely attributed to human activity."
+  ],
+  "educational": [
+    "Both countries show similar trends in educational attainment.",
+    "The report enumerates five key barriers to educational access."
+  ],
+  "understood": [
+    "Poverty must be understood in its social and historical context.",
+    "The underlying causes of this phenomenon are poorly understood."
+  ],
+  "competitive": [
+    "Our lower operating costs give us a clear competitive advantage."
+  ],
+  "transportation": [
+    "Infrastructure investment declined; consequently, transportation bottlenecks increased."
+  ],
+  "sight": [
+    "Let us not lose sight of what truly matters."
+  ],
+  "significantly": [
+    "Children benefit significantly from bilingual education.",
+    "Average temperatures vary significantly between the northern and southern regions."
+  ],
+  "driven": [
+    "Global warming is a complex phenomenon driven by multiple factors."
+  ],
+  "constantly": [
+    "Language evolves constantly in response to cultural and technological shifts."
+  ],
+  "smoking": [
+    "He stopped smoking."
+  ],
+  "rising": [
+    "Air travel is becoming cheaper; therefore, global tourism is rising.",
+    "Rising sea levels could fundamentally alter coastal ecosystems."
+  ],
+  "attached": [
+    "Please find attached the document."
+  ],
+  "decade": [
+    "Progress was made, albeit slowly, over the course of the decade.",
+    "The landscape has changed dramatically over the past decade."
+  ],
+  "adopted": [
+    "The government adopted a new approach to reducing carbon emissions."
+  ],
+  "exposed": [
+    "Young children exposed to multiple languages develop stronger cognitive skills."
+  ],
+  "wealth": [
+    "Several factors contribute to the widening wealth gap.",
+    "Wealth tends to increase life expectancy; conversely, poverty shortens it."
+  ],
+  "reply": [
+    "Thank you for your prompt reply."
+  ],
+  "facing": [
+    "This case study illuminates the challenges facing healthcare systems in low-income countries."
+  ],
+  "monthly": [
+    "Monthly sales volume is one of our primary KPIs."
+  ],
+  "acknowledge": [
+    "I'd be remiss if I didn't acknowledge the contributions of my colleagues."
+  ],
+  "acquisition": [
+    "The human brain has a remarkable capacity for language acquisition."
+  ],
+  "coherent": [
+    "A coherent argument requires strong evidence and logical structure."
+  ],
+  "comply": [
+    "All vendors must comply with data protection regulations.",
+    "His failure to comply resulted in penalties."
+  ],
+  "consolidate": [
+    "The government moved to consolidate its legislative reforms into a single bill."
+  ],
+  "credible": [
+    "Students should cite credible sources in academic essays."
+  ],
+  "duration": [
+    "The duration of the ice age spanned approximately 2.6 million years."
+  ],
+  "empirical": [
+    "The study relies on empirical evidence gathered over a seven-year period."
+  ],
+  "equip": [
+    "The primary function of education is to equip individuals for society."
+  ],
+  "erode": [
+    "Increasing production costs continue to erode our profit margin."
+  ],
+  "execute": [
+    "The team was able to execute the strategy flawlessly under tight deadlines."
+  ],
+  "feasible": [
+    "The proposed timeline is not feasible given our current resources."
+  ],
+  "implicit": [
+    "The author's bias is implicit in the choice of language throughout the text."
+  ],
+  "leverage": [
+    "We can leverage our existing client base to cross-sell new products."
+  ],
+  "magnitude": [
+    "The sheer magnitude of the challenge should not be underestimated."
+  ],
+  "methodology": [
+    "There are inherent risks in any experimental methodology.",
+    "The paper outlines the research methodology in detail in Chapter 2."
+  ],
+  "motive": [
+    "Researchers debate the true motive behind early human migration patterns."
+  ],
+  "nuance": [
+    "The author's argument lacks nuance, presenting complex issues as binary choices."
+  ],
+  "paradigm": [
+    "Remote work represents a paradigm shift in how organisations operate.",
+    "I would argue that this represents a paradigm shift in our thinking."
+  ],
+  "pragmatic": [
+    "Policymakers must take a pragmatic approach to immigration reform."
+  ],
+  "premise": [
+    "The essay's central premise is that inequality is structurally embedded."
+  ],
+  "procurement": [
+    "The procurement team is responsible for negotiating contracts with suppliers."
+  ],
+  "profound": [
+    "Climate change has a profound impact on agricultural output.",
+    "The industrial revolution had a profound impact on social structures."
+  ],
+  "reconcile": [
+    "I find it hard to reconcile these two conflicting viewpoints."
+  ],
+  "rhetoric": [
+    "The speech relied on emotional rhetoric rather than factual evidence."
+  ],
+  "skeptical": [
+    "I must confess that I was initially skeptical, but the evidence speaks for itself."
+  ],
+  "toxic": [
+    "\"That relationship was so toxic.\""
+  ],
+  "unprecedented": [
+    "We're witnessing an unprecedented transformation of the global economy."
+  ],
+  "validity": [
+    "The validity of the research depends on the quality of its sample."
+  ],
+  "venture": [
+    "I'd venture to say that the current policy is fundamentally flawed."
+  ],
+  "complacency": [
+    "We must guard against complacency in times of apparent stability."
+  ],
+  "morale": [
+    "The CEO's plan reduced costs; moreover, it improved staff morale."
+  ],
+  "contingency": [
+    "The project plan includes a contingency budget of 15%."
+  ],
+  "gross": [
+    "We need to improve our gross margin from 28% to at least 35%."
+  ],
+  "margin": [
+    "We need to improve our gross margin from 28% to at least 35%.",
+    "Increasing production costs continue to erode our profit margin."
+  ],
+  "merger": [
+    "The merger created significant synergies between the two product lines."
+  ],
+  "startup": [
+    "The startup proposed an innovative solution to supply chain inefficiency.",
+    "Reaching 10,000 subscribers was a major milestone for the startup."
+  ],
+  "surplus": [
+    "The agricultural revolution created an enormous surplus of food."
+  ],
+  "warrant": [
+    "The ethical implications of artificial intelligence warrant serious discussion."
+  ],
+  "cybersecurity": [
+    "We cannot afford to be complacent about cybersecurity threats."
+  ],
+  "project scope": [
+    "All key stakeholders must approve the project scope before launch."
+  ],
+  "ambiguous": [
+    "The treaty's language was deliberately ambiguous to satisfy both parties."
+  ],
+  "analogous": [
+    "The role of the internet today is analogous to that of the printing press in the 15th century."
+  ],
+  "concise": [
+    "Business emails should be concise and focused on the key action point."
+  ],
+  "contend": [
+    "Some economists contend that inequality is an inevitable result of capitalism."
+  ],
+  "critique": [
+    "This essay will critique the assumptions underlying the current model."
+  ],
+  "inherent": [
+    "There are inherent risks in any experimental methodology."
+  ],
+  "mitigate": [
+    "Urban tree planting can help mitigate the effects of the urban heat island."
+  ],
+  "proactive": [
+    "We need a proactive approach to managing client expectations."
+  ],
+  "viable": [
+    "We need to assess whether the proposal is financially viable."
+  ],
+  "legislative": [
+    "The government moved to consolidate its legislative reforms into a single bill."
+  ],
+  "demographics": [
+    "The company diversified its product range to attract new demographics."
+  ],
+  "supply chain": [
+    "The startup proposed an innovative solution to supply chain inefficiency."
+  ],
+  "operational efficiency": [
+    "Process automation has dramatically improved operational efficiency."
+  ],
+  "profit margin": [
+    "Increasing production costs continue to erode our profit margin."
+  ],
+  "competitive advantage": [
+    "Our lower operating costs give us a clear competitive advantage."
+  ],
+  "causation": [
+    "The distinction between correlation and causation is crucial."
+  ],
+  "ecological": [
+    "Pollutants accumulate in the ocean, posing long-term ecological risks."
+  ],
+  "far-reaching": [
+    "The ramifications of this decision could be far-reaching."
+  ],
+  "nuanced": [
+    "We need to take a more nuanced approach to this problem."
+  ],
+  "gross margin": [
+    "We need to improve our gross margin from 28% to at least 35%."
+  ],
+  "haircut": [
+    "\"That haircut is clean, bro.\""
+  ],
+  "topic": [
+    "Capital punishment remains a controversial topic in many democracies.",
+    "The discourse around this topic has become increasingly polarized."
+  ],
+  "sought": [
+    "The study sought to establish a link between diet and mental health."
+  ],
+  "studied": [
+    "I should have studied harder for the exam."
+  ],
+  "gained": [
+    "I've gained invaluable experience from this role."
+  ],
+  "surrounding": [
+    "The narrative surrounding this event has been highly misleading."
+  ],
+  "heading": [
+    "I'm cautiously hopeful that we're heading in the right direction."
+  ],
+  "gotten": [
+    "If she spoke English, she would have gotten the job."
+  ],
+  "ceo": [
+    "The CEO launched a new initiative to reduce the company's carbon footprint."
+  ],
+  "threw": [
+    "\"They almost threw hands at the game.\""
+  ],
+  "rome": [
+    "Rome wasn't built in a day."
+  ],
+  "spoken": [
+    "English is spoken in many countries."
+  ],
+  "cooking": [
+    "I enjoy cooking.",
+    "I like cooking at home."
+  ],
+  "discovery": [
+    "The implications of this discovery cannot be overstated.",
+    "The discovery of penicillin changed medicine."
+  ],
+  "settled": [
+    "The debate is far from settled."
+  ],
+  "output": [
+    "Climate change has a profound impact on agricultural output.",
+    "Government policies on immigration directly affect economic output."
+  ],
+  "bro": [
+    "\"What's good, bro?\" \"All good, man.\"",
+    "\"That haircut is clean, bro.\""
+  ],
+  "convinced": [
+    "I'm not convinced that's the best option."
+  ],
+  "managing": [
+    "Local authorities are responsible for managing public transport.",
+    "We need a proactive approach to managing client expectations."
+  ],
+  "keys": [
+    "\"Bruh, you really forgot your keys again?\""
+  ],
+  "observed": [
+    "Astronomers observed a sudden brightening of the distant star."
+  ],
+  "angle": [
+    "Let's approach this from a different angle.",
+    "One could argue that we've been approaching this problem from the wrong angle."
+  ],
+  "increasingly": [
+    "The discourse around this topic has become increasingly polarized."
+  ],
+  "commerce": [
+    "English has become the dominant language of international commerce."
+  ],
+  "reducing": [
+    "The government adopted a new approach to reducing carbon emissions."
+  ],
+  "begun": [
+    "A new theory of consciousness has begun to emerge in neuroscience."
+  ],
+  "gaming": [
+    "\"You've been gaming for 12 hours. Go touch grass.\""
+  ],
+  "input": [
+    "I value your input on this matter."
+  ],
+  "agricultural": [
+    "Climate change has a profound impact on agricultural output.",
+    "The agricultural revolution created an enormous surplus of food."
+  ],
+  "rapidly": [
+    "In contrast to rural areas, urban populations have grown rapidly."
+  ],
+  "ate": [
+    "\"She ate that performance and left no crumbs.\"",
+    "She ate an orange."
+  ],
+  "boom": [
+    "The population boom coincided with the industrial revolution."
+  ],
+  "dropping": [
+    "\"When is that new album dropping?\""
+  ],
+  "greatly": [
+    "How individuals perceive risk varies greatly across cultures."
+  ],
+  "hiding": [
+    "\"He's been acting sus lately — what's he hiding?\""
+  ],
+  "stability": [
+    "Unemployment is perceived as the greatest threat to social stability.",
+    "We must guard against complacency in times of apparent stability."
+  ],
+  "protecting": [
+    "Protecting the environment is one of the greatest challenges of our time."
+  ],
+  "fortune": [
+    "Fortune favors the bold."
+  ],
+  "nuts": [
+    "I'm allergic to nuts."
+  ],
+  "derived": [
+    "Many modern medicines are derived from natural plant compounds."
+  ],
+  "printing": [
+    "The role of the internet today is analogous to that of the printing press in the 15th century."
+  ],
+  "odds": [
+    "May the odds be ever in your favor."
+  ],
+  "addressed": [
+    "It's high time we addressed this issue seriously."
+  ],
+  "measured": [
+    "I'm inclined to take a more measured stance on this issue."
+  ],
+  "upgrade": [
+    "\"He finessed a free upgrade at the hotel.\""
+  ],
+  "actively": [
+    "Citizens should actively participate in the democratic process."
+  ],
+  "differently": [
+    "Different cultures may interpret the same data differently.",
+    "I respect your opinion, but I see it differently."
+  ],
+  "outfit": [
+    "\"That outfit is giving main character energy.\""
+  ],
+  "woke": [
+    "\"She's really woke about environmental problems.\""
+  ],
+  "delayed": [
+    "The train is delayed."
+  ],
+  "attract": [
+    "The company diversified its product range to attract new demographics."
+  ],
+  "catching": [
+    "It was great catching up with you."
+  ],
+  "coastal": [
+    "Rising sea levels could fundamentally alter coastal ecosystems."
+  ],
+  "distant": [
+    "Astronomers observed a sudden brightening of the distant star."
+  ],
+  "lit": [
+    "\"This party is lit!\" \"That song is fire 🔥\""
+  ],
+  "structural": [
+    "Academic writing belongs to a formal genre with strict structural conventions."
+  ],
+  "chill": [
+    "\"Let's keep it chill, no drama.\"",
+    "\"Want to Netflix and chill tonight?\""
+  ],
+  "contrary": [
+    "Contrary to popular belief, this method is more effective."
+  ],
+  "underlying": [
+    "This essay will critique the assumptions underlying the current model.",
+    "The underlying causes of this phenomenon are poorly understood."
+  ],
+  "annually": [
+    "Air pollution results in thousands of premature deaths annually."
+  ],
+  "consciousness": [
+    "A new theory of consciousness has begun to emerge in neuroscience."
+  ],
+  "pressed": [
+    "I'd be hard-pressed to find a more compelling example.",
+    "\"Why are you so pressed about it? Relax.\""
+  ],
+  "reminder": [
+    "This serves as a stark reminder of how fragile our systems are."
+  ],
+  "worrying": [
+    "There's no point in worrying about things you can't control.",
+    "The data paints a rather worrying picture of the current state of affairs."
+  ],
+  "promising": [
+    "The results are promising, with the caveat that sample sizes remain small."
+  ],
+  "poorly": [
+    "The underlying causes of this phenomenon are poorly understood."
+  ],
+  "brutal": [
+    "\"Fr, that exam was brutal.\""
+  ],
+  "distinction": [
+    "The distinction between correlation and causation is crucial."
+  ],
+  "acknowledged": [
+    "The professor acknowledged that the theory had significant limitations."
+  ],
+  "permanently": [
+    "Streaming platforms permanently disrupted the traditional media industry."
+  ],
+  "viral": [
+    "\"That meme went viral overnight.\""
+  ],
+  "testament": [
+    "It's a testament to their resilience that they overcame such adversity."
+  ],
+  "technological": [
+    "The period was characterised by rapid technological advancement.",
+    "Language evolves constantly in response to cultural and technological shifts."
+  ],
+  "shook": [
+    "\"I was shook when I heard the news.\""
+  ],
+  "stance": [
+    "I'm inclined to take a more measured stance on this issue."
+  ],
+  "static": [
+    "Recent findings refute the long-held assumption that the universe is static."
+  ],
+  "booked": [
+    "\"Booked a last-minute trip to Miami — YOLO!\""
+  ],
+  "effectiveness": [
+    "Students are asked to evaluate the effectiveness of current policies.",
+    "The effectiveness of this policy hinges on consistent implementation."
+  ],
+  "warming": [
+    "Global warming is a complex phenomenon driven by multiple factors."
+  ],
+  "pipeline": [
+    "We have $2M worth of deals in the sales pipeline for Q4."
+  ],
+  "pricing": [
+    "The new pricing strategy had a major impact on customer retention."
+  ],
+  "burnt": [
+    "\"I'm so burnt out from studying nonstop.\""
+  ],
+  "aesthetic": [
+    "\"Her room has that cozy autumn aesthetic.\""
+  ],
+  "deliberately": [
+    "The treaty's language was deliberately ambiguous to satisfy both parties.",
+    "This study deliberately delimits its scope to urban populations."
+  ],
+  "precision": [
+    "Academic discourse demands precision, clarity, and evidence-based reasoning.",
+    "She articulated her position with remarkable clarity and precision."
+  ],
+  "reasoning": [
+    "Academic discourse demands precision, clarity, and evidence-based reasoning.",
+    "I'm compelled to point out a fundamental flaw in your reasoning."
+  ],
+  "sheer": [
+    "The sheer magnitude of the challenge should not be underestimated."
+  ],
+  "stark": [
+    "This serves as a stark reminder of how fragile our systems are."
+  ],
+  "considerably": [
+    "Our understanding of this phenomenon has evolved considerably."
+  ],
+  "adversity": [
+    "It's a testament to their resilience that they overcame such adversity."
+  ],
+  "circumvent": [
+    "Some corporations attempt to circumvent environmental regulations through legal loopholes."
+  ],
+  "compelling": [
+    "His analysis provides a compelling framework for understanding the crisis.",
+    "I'd be hard-pressed to find a more compelling example."
+  ],
+  "dichotomy": [
+    "There is a clear dichotomy between economic growth and environmental sustainability."
+  ],
+  "erroneous": [
+    "The conclusion rests on an erroneous assumption about population growth."
+  ],
+  "flawed": [
+    "I'd venture to say that the current policy is fundamentally flawed."
+  ],
+  "imperative": [
+    "It's imperative that we act swiftly and decisively."
+  ],
+  "pervasive": [
+    "Social media has a pervasive influence on modern political discourse."
+  ],
+  "refute": [
+    "Recent findings refute the long-held assumption that the universe is static."
+  ],
+  "ubiquitous": [
+    "Smartphones have become ubiquitous in both developed and developing nations."
+  ],
+  "all things considered": [
+    "All things considered, it was a successful event."
+  ],
+  "juxtaposition": [
+    "I find the juxtaposition of tradition and modernity fascinating."
+  ],
+  "lesson learned": [
+    "Every experience is a lesson learned."
+  ],
+  "ascertain": [
+    "It is difficult to ascertain the exact cause of the population decline."
+  ],
+  "caveat": [
+    "The results are promising, with the caveat that sample sizes remain small."
+  ],
+  "complacent": [
+    "We cannot afford to be complacent about cybersecurity threats."
+  ],
+  "infer": [
+    "From the passage, we can infer that the author supports renewable energy."
+  ],
+  "wary": [
+    "We should be wary of drawing overly simplistic conclusions."
+  ],
+  "watershed": [
+    "This is a watershed moment for our industry."
+  ],
+  "presumptuous": [
+    "It would be presumptuous of me to offer advice without knowing the full context."
+  ],
+  "clout": [
+    "\"She only hangs out with celebs — total clout chaser.\"",
+    "\"She has so much clout on TikTok.\""
+  ],
+  "invaluable": [
+    "I've gained invaluable experience from this role."
+  ],
+  "arrogance": [
+    "There's a fine line between confidence and arrogance."
+  ],
+  "quarterly": [
+    "Our quarterly sales figures set a new benchmark for the industry."
+  ],
+  "liking": [
+    "\"He was caught in 4K liking her posts.\""
+  ],
+  "seasonal": [
+    "Significant changes in temperature occur during seasonal transitions.",
+    "We need to increase our manufacturing capacity to meet seasonal demand."
+  ],
+  "financially": [
+    "We need to assess whether the proposal is financially viable."
+  ],
+  "capitalism": [
+    "Some economists contend that inequality is an inevitable result of capitalism."
+  ],
+  "binary": [
+    "The author's argument lacks nuance, presenting complex issues as binary choices."
+  ],
+  "dramatically": [
+    "Process automation has dramatically improved operational efficiency.",
+    "The landscape has changed dramatically over the past decade."
+  ],
+  "risky": [
+    "The plan was risky; nevertheless, they proceeded."
+  ],
+  "consequently": [
+    "Infrastructure investment declined; consequently, transportation bottlenecks increased.",
+    "He was tired; consequently, he made errors."
+  ],
+  "grinding": [
+    "\"Been grinding all week on this project.\""
+  ],
+  "vibe": [
+    "\"This café has such a good vibe.\"",
+    "\"Put on some music and catch a vibe.\""
+  ],
+  "researcher": [
+    "The researcher cited three landmark studies to support the hypothesis."
+  ],
+  "albeit": [
+    "Progress was made, albeit slowly, over the course of the decade."
+  ],
+  "clarity": [
+    "Academic discourse demands precision, clarity, and evidence-based reasoning.",
+    "She articulated her position with remarkable clarity and precision."
+  ],
+  "literacy": [
+    "It is apparent from the data that literacy rates have improved."
+  ],
+  "misleading": [
+    "The narrative surrounding this event has been highly misleading."
+  ],
+  "conditioning": [
+    "The air conditioning isn't working."
+  ],
+  "sincerely": [
+    "I sincerely hope that we can find common ground."
+  ],
+  "designing": [
+    "The researchers formed a hypothesis before designing the experiment."
+  ],
+  "embedded": [
+    "The essay's central premise is that inequality is structurally embedded."
+  ],
+  "critically": [
+    "I'd encourage you to think critically about the sources of information."
+  ],
+  "lining": [
+    "Every cloud has a silver lining."
+  ],
+  "problematic": [
+    "The notion that one size fits all is inherently problematic."
+  ],
+  "inclined": [
+    "I'm inclined to agree with your assessment.",
+    "I'm inclined to take a more measured stance on this issue."
+  ],
+  "prompt": [
+    "Thank you for your prompt reply."
+  ],
+  "spill": [
+    "\"Spill the tea! What happened at the party?\"",
+    "\"Come on, spill! What happened?\""
+  ],
+  "overly": [
+    "We should be wary of drawing overly simplistic conclusions."
+  ],
+  "advancement": [
+    "The period was characterised by rapid technological advancement."
+  ],
+  "retention": [
+    "The researchers concluded that stress directly impacts memory retention.",
+    "The new pricing strategy had a major impact on customer retention."
+  ],
+  "sweeping": [
+    "I would urge caution before making any sweeping generalizations."
+  ],
+  "vegetarian": [
+    "I'm a vegetarian."
+  ],
+  "simplicity": [
+    "The elegance of the solution lies in its simplicity."
+  ],
+  "continuity": [
+    "Knowledge transfer between generations is essential for cultural continuity."
+  ],
+  "fundamentally": [
+    "Rising sea levels could fundamentally alter coastal ecosystems.",
+    "The thesis of this essay is that economic inequality is fundamentally unjust."
+  ],
+  "incumbent": [
+    "It's incumbent upon us to leave the world better than we found it."
+  ],
+  "accelerated": [
+    "Globalisation has accelerated the spread of both culture and disease."
+  ],
+  "endorsement": [
+    "Government endorsement helped legitimise the use of telemedicine."
+  ],
+  "rainy": [
+    "\"Coffee on a rainy morning hits different.\""
+  ],
+  "lecturer": [
+    "The lecturer emphasised the role of context in language learning."
+  ],
+  "premature": [
+    "Air pollution results in thousands of premature deaths annually."
+  ],
+  "hustle": [
+    "\"My side hustle is selling art online.\""
+  ],
+  "inconvenience": [
+    "I apologize for the inconvenience."
+  ],
+  "evenly": [
+    "Aid organisations work to distribute food evenly across affected regions."
+  ],
+  "inaccurate": [
+    "Unfortunately, it turns out that the data was inaccurate."
+  ],
+  "conflicting": [
+    "I find it hard to reconcile these two conflicting viewpoints."
+  ],
+  "factual": [
+    "The speech relied on emotional rhetoric rather than factual evidence."
+  ],
+  "hypothetical": [
+    "The author presents a hypothetical scenario to illustrate the policy's potential impact."
+  ],
+  "payday": [
+    "\"I'm broke until payday.\"",
+    "\"It's payday — time to treat yourself!\""
+  ],
+  "inherently": [
+    "The notion that one size fits all is inherently problematic."
+  ],
+  "overhaul": [
+    "To put it another way, we need a complete overhaul of the system."
+  ],
+  "catastrophic": [
+    "The long-term consequences of inaction could be catastrophic."
+  ],
+  "sup": [
+    "\"Sup, dude. Wanna grab food?\""
+  ],
+  "slid": [
+    "\"He slid into her DMs last night.\""
+  ],
+  "swiftly": [
+    "It's imperative that we act swiftly and decisively."
+  ],
+  "conversely": [
+    "Wealth tends to increase life expectancy; conversely, poverty shortens it."
+  ],
+  "bilingual": [
+    "Children benefit significantly from bilingual education."
+  ],
+  "correspond": [
+    "The fossil record does not always correspond to current evolutionary theory."
+  ],
+  "credence": [
+    "The findings lend credence to the theory that early intervention is key."
+  ],
+  "doomscrolling": [
+    "\"I was doomscrolling Twitter at 2 AM again.\""
+  ],
+  "expectancy": [
+    "Wealth tends to increase life expectancy; conversely, poverty shortens it."
+  ],
+  "volatility": [
+    "I'm reluctant to make predictions given the current volatility."
+  ],
+  "neuroscience": [
+    "A new theory of consciousness has begun to emerge in neuroscience."
+  ],
+  "diversified": [
+    "The company diversified its product range to attract new demographics."
+  ],
+  "unjust": [
+    "The thesis of this essay is that economic inequality is fundamentally unjust."
+  ],
+  "elegance": [
+    "The elegance of the solution lies in its simplicity."
+  ],
+  "turnaround": [
+    "We streamlined the approval process to reduce turnaround time.",
+    "The financial turnaround was achieved within 18 months of the new CEO's arrival."
+  ],
+  "preface": [
+    "I'd like to preface my remarks by acknowledging the complexity of this issue."
+  ],
+  "articulated": [
+    "She articulated her position with remarkable clarity and precision."
+  ],
+  "jogging": [
+    "I go jogging three times a week."
+  ],
+  "cautiously": [
+    "I'm cautiously optimistic about the outcome.",
+    "I'm cautiously hopeful that we're heading in the right direction."
+  ],
+  "competency": [
+    "Customer service has always been our company's core competency."
+  ],
+  "negotiable": [
+    "I'm of the opinion that transparency is non-negotiable."
+  ],
+  "attainment": [
+    "Both countries show similar trends in educational attainment."
+  ],
+  "chaser": [
+    "\"She only hangs out with celebs — total clout chaser.\""
+  ]
+}

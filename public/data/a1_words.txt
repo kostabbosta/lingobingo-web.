@@ -1,0 +1,4308 @@
+# A1 - Starter Level Words (CEFR A1)
+# Format: english|category|partOfSpeech
+# Most basic everyday vocabulary for absolute beginners
+
+# Actions
+accept|Actions|verb
+add|Actions|verb
+agree|Actions|verb
+allow|Actions|verb
+answer|Actions|verb
+arrive|Actions|verb
+ask|Actions|verb
+attack|Actions|verb
+begin|Actions|verb
+belong|Actions|verb
+be|Actions|verb
+blow|Actions|verb
+born|Actions|verb
+borrow|Actions|verb
+break|Actions|verb
+bring|Actions|verb
+build|Actions|verb
+burn|Actions|verb
+buy|Actions|verb
+call|Actions|verb
+carry|Actions|verb
+catch|Actions|verb
+celebrate|Actions|verb
+change|Actions|verb
+check|Actions|verb
+choose|Actions|verb
+clean|Actions|verb
+climb|Actions|verb
+close|Actions|verb
+collect|Actions|verb
+come|Actions|verb
+compare|Actions|verb
+complete|Actions|verb
+continue|Actions|verb
+cook|Actions|verb
+count|Actions|verb
+cross|Actions|verb
+cry|Actions|verb
+cut|Actions|verb
+dance|Actions|verb
+decide|Actions|verb
+decrease|Actions|verb
+deliver|Actions|verb
+describe|Actions|verb
+develop|Actions|verb
+die|Actions|verb
+dig|Actions|verb
+discover|Actions|verb
+do|Actions|verb
+draw|Actions|verb
+drink|Actions|verb
+drive|Actions|verb
+drop|Actions|verb
+dry|Actions|verb
+eat|Actions|verb
+empty|Actions|verb
+enjoy|Actions|verb
+enter|Actions|verb
+escape|Actions|verb
+exit|Actions|verb
+experience|Actions|verb
+explain|Actions|verb
+express|Actions|verb
+fail|Actions|verb
+fall|Actions|verb
+feed|Actions|verb
+feel|Actions|verb
+fight|Actions|verb
+fill|Actions|verb
+find|Actions|verb
+finish|Actions|verb
+fix|Actions|verb
+follow|Actions|verb
+forget|Actions|verb
+get up|Actions|verb
+get|Actions|verb
+give|Actions|verb
+go|Actions|verb
+grow|Actions|verb
+hang|Actions|verb
+hate|Actions|verb
+have|Actions|verb
+hear|Actions|verb
+help|Actions|verb
+hide|Actions|verb
+hit|Actions|verb
+hold|Actions|verb
+hope|Actions|verb
+hurry|Actions|verb
+imagine|Actions|verb
+improve|Actions|verb
+include|Actions|verb
+increase|Actions|verb
+invite|Actions|verb
+join|Actions|verb
+jump|Actions|verb
+kick|Actions|verb
+knock|Actions|verb
+know|Actions|verb
+laugh|Actions|verb
+learn|Actions|verb
+leave|Actions|verb
+lend|Actions|verb
+lie down|Actions|verb
+like|Actions|verb
+listen|Actions|verb
+live|Actions|verb
+load|Actions|verb
+look|Actions|verb
+lose|Actions|verb
+love|Actions|verb
+make|Actions|verb
+meet|Actions|verb
+mix|Actions|verb
+move|Actions|verb
+need|Actions|verb
+open|Actions|verb
+pack|Actions|verb
+paint|Actions|verb
+pass|Actions|verb
+pay|Actions|verb
+pick up|Actions|verb
+play|Actions|verb
+pour|Actions|verb
+practice|Actions|verb
+prepare|Actions|verb
+press|Actions|verb
+promise|Actions|verb
+protect|Actions|verb
+pull|Actions|verb
+push|Actions|verb
+put down|Actions|verb
+put|Actions|verb
+raise|Actions|verb
+reach|Actions|verb
+read|Actions|verb
+receive|Actions|verb
+reduce|Actions|verb
+refuse|Actions|verb
+reject|Actions|verb
+relax|Actions|verb
+remember|Actions|verb
+remove|Actions|verb
+rent|Actions|verb
+repeat|Actions|verb
+replace|Actions|verb
+require|Actions|verb
+rescue|Actions|verb
+return|Actions|verb
+ride|Actions|verb
+run|Actions|verb
+save|Actions|verb
+say|Actions|verb
+search|Actions|verb
+see|Actions|verb
+sell|Actions|verb
+send|Actions|verb
+serve|Actions|verb
+shake|Actions|verb
+share|Actions|verb
+shine|Actions|verb
+show|Actions|verb
+sing|Actions|verb
+sit down|Actions|verb
+sit|Actions|verb
+sleep|Actions|verb
+smell|Actions|verb
+smile|Actions|verb
+speak|Actions|verb
+spell|Actions|verb
+spend|Actions|verb
+stand up|Actions|verb
+stand|Actions|verb
+start|Actions|verb
+stay|Actions|verb
+stop|Actions|verb
+study|Actions|verb
+support|Actions|verb
+suppose|Actions|verb
+swim|Actions|verb
+take|Actions|verb
+talk|Actions|verb
+taste|Actions|verb
+teach|Actions|verb
+tell|Actions|verb
+think|Actions|verb
+throw|Actions|verb
+touch|Actions|verb
+translate|Actions|verb
+try|Actions|verb
+turn off|Actions|verb
+turn on|Actions|verb
+turn|Actions|verb
+understand|Actions|verb
+use|Actions|verb
+visit|Actions|verb
+wait|Actions|verb
+wake up|Actions|verb
+walk|Actions|verb
+want|Actions|verb
+wash|Actions|verb
+wear|Actions|verb
+win|Actions|verb
+wonder|Actions|verb
+work|Actions|verb
+write|Actions|verb
+
+# Adjectives
+absent|Adjectives|adjective
+alive|Adjectives|adjective
+all|Adjectives|adjective
+alone|Adjectives|adjective
+amazing|Adjectives|adjective
+ancient|Adjectives|adjective
+angry|Adjectives|adjective
+any|Adjectives|adjective
+asleep|Adjectives|adjective
+available|Adjectives|adjective
+awake|Adjectives|adjective
+awful|Adjectives|adjective
+bad|Adjectives|adjective
+basic|Adjectives|adjective
+beautiful|Adjectives|adjective
+big|Adjectives|adjective
+bitter|Adjectives|adjective
+blind|Adjectives|adjective
+boring|Adjectives|adjective
+brave|Adjectives|adjective
+busy|Adjectives|adjective
+careful|Adjectives|adjective
+certain|Adjectives|adjective
+cheap|Adjectives|adjective
+clear|Adjectives|adjective
+clever|Adjectives|adjective
+closed|Adjectives|adjective
+cold|Adjectives|adjective
+comfortable|Adjectives|adjective
+common|Adjectives|adjective
+cool|Adjectives|adjective
+correct|Adjectives|adjective
+crazy|Adjectives|adjective
+cute|Adjectives|adjective
+dangerous|Adjectives|adjective
+dead|Adjectives|adjective
+deaf|Adjectives|adjective
+deep|Adjectives|adjective
+different|Adjectives|adjective
+difficult|Adjectives|adjective
+direct|Adjectives|adjective
+dirty|Adjectives|adjective
+dull|Adjectives|adjective
+each|Adjectives|adjective
+easy|Adjectives|adjective
+enough|Adjectives|adjective
+every|Adjectives|adjective
+excellent|Adjectives|adjective
+expensive|Adjectives|adjective
+extra|Adjectives|adjective
+false|Adjectives|adjective
+famous|Adjectives|adjective
+far|Adjectives|adjective
+fast|Adjectives|adjective
+fat|Adjectives|adjective
+favorite|Adjectives|adjective
+few|Adjectives|adjective
+final|Adjectives|adjective
+flat|Adjectives|adjective
+foolish|Adjectives|adjective
+foreign|Adjectives|adjective
+free|Adjectives|adjective
+fresh|Adjectives|adjective
+full|Adjectives|adjective
+funny|Adjectives|adjective
+general|Adjectives|adjective
+generous|Adjectives|adjective
+good|Adjectives|adjective
+great|Adjectives|adjective
+handsome|Adjectives|adjective
+happy|Adjectives|adjective
+hard|Adjectives|adjective
+healthy|Adjectives|adjective
+heavy|Adjectives|adjective
+high|Adjectives|adjective
+honest|Adjectives|adjective
+horrible|Adjectives|adjective
+hot|Adjectives|adjective
+hungry|Adjectives|adjective
+important|Adjectives|adjective
+impossible|Adjectives|adjective
+interested|Adjectives|adjective
+interesting|Adjectives|adjective
+international|Adjectives|adjective
+kind|Adjectives|adjective
+lazy|Adjectives|adjective
+little|Adjectives|adjective
+local|Adjectives|adjective
+long|Adjectives|adjective
+loose|Adjectives|adjective
+loud|Adjectives|adjective
+lovely|Adjectives|adjective
+low|Adjectives|adjective
+lucky|Adjectives|adjective
+main|Adjectives|adjective
+many|Adjectives|adjective
+married|Adjectives|adjective
+modern|Adjectives|adjective
+much|Adjectives|adjective
+mute|Adjectives|adjective
+narrow|Adjectives|adjective
+natural|Adjectives|adjective
+near|Adjectives|adjective
+necessary|Adjectives|adjective
+new|Adjectives|adjective
+next|Adjectives|adjective
+nice|Adjectives|adjective
+normal|Adjectives|adjective
+obvious|Adjectives|adjective
+official|Adjectives|adjective
+old|Adjectives|adjective
+only|Adjectives|adjective
+original|Adjectives|adjective
+other|Adjectives|adjective
+own|Adjectives|adjective
+patient|Adjectives|adjective
+perfect|Adjectives|adjective
+personal|Adjectives|adjective
+pleasant|Adjectives|adjective
+polite|Adjectives|adjective
+poor|Adjectives|adjective
+popular|Adjectives|adjective
+possible|Adjectives|adjective
+present|Adjectives|adjective
+pretty|Adjectives|adjective
+private|Adjectives|adjective
+public|Adjectives|adjective
+quiet|Adjectives|adjective
+rare|Adjectives|adjective
+ready|Adjectives|adjective
+real|Adjectives|adjective
+recent|Adjectives|adjective
+responsible|Adjectives|adjective
+rich|Adjectives|adjective
+right|Adjectives|adjective
+rough|Adjectives|adjective
+round|Adjectives|adjective
+rude|Adjectives|adjective
+sad|Adjectives|adjective
+safe|Adjectives|adjective
+salty|Adjectives|adjective
+same|Adjectives|adjective
+scared|Adjectives|adjective
+separate|Adjectives|adjective
+serious|Adjectives|adjective
+sharp|Adjectives|adjective
+short|Adjectives|adjective
+sick|Adjectives|adjective
+similar|Adjectives|adjective
+simple|Adjectives|adjective
+single|Adjectives|adjective
+slow|Adjectives|adjective
+small|Adjectives|adjective
+smart|Adjectives|adjective
+smooth|Adjectives|adjective
+soft|Adjectives|adjective
+some|Adjectives|adjective
+sour|Adjectives|adjective
+special|Adjectives|adjective
+spicy|Adjectives|adjective
+straight|Adjectives|adjective
+strange|Adjectives|adjective
+strong|Adjectives|adjective
+stupid|Adjectives|adjective
+sure|Adjectives|adjective
+sweet|Adjectives|adjective
+tall|Adjectives|adjective
+tame|Adjectives|adjective
+terrible|Adjectives|adjective
+thick|Adjectives|adjective
+thin|Adjectives|adjective
+thirsty|Adjectives|adjective
+tight|Adjectives|adjective
+tired|Adjectives|adjective
+together|Adjectives|adverb
+total|Adjectives|adjective
+true|Adjectives|adjective
+ugly|Adjectives|adjective
+uncomfortable|Adjectives|adjective
+unlucky|Adjectives|adjective
+unpleasant|Adjectives|adjective
+unusual|Adjectives|adjective
+useful|Adjectives|adjective
+useless|Adjectives|adjective
+usual|Adjectives|adjective
+warm|Adjectives|adjective
+weak|Adjectives|adjective
+wet|Adjectives|adjective
+whole|Adjectives|adjective
+wide|Adjectives|adjective
+wild|Adjectives|adjective
+wise|Adjectives|adjective
+wonderful|Adjectives|adjective
+wrong|Adjectives|adjective
+young|Adjectives|adjective
+
+# Animals
+ant|Animals|noun
+bear|Animals|noun
+bee|Animals|noun
+bird|Animals|noun
+butterfly|Animals|noun
+cat|Animals|noun
+chicken|Animals|noun
+cow|Animals|noun
+deer|Animals|noun
+dog|Animals|noun
+donkey|Animals|noun
+duck|Animals|noun
+eagle|Animals|noun
+elephant|Animals|noun
+fish|Animals|noun
+fly|Animals|noun
+fox|Animals|noun
+frog|Animals|noun
+goat|Animals|noun
+horse|Animals|noun
+lion|Animals|noun
+monkey|Animals|noun
+mouse|Animals|noun
+owl|Animals|noun
+parrot|Animals|noun
+pig|Animals|noun
+rabbit|Animals|noun
+shark|Animals|noun
+sheep|Animals|noun
+snake|Animals|noun
+spider|Animals|noun
+tiger|Animals|noun
+turtle|Animals|noun
+whale|Animals|noun
+wolf|Animals|noun
+
+# Body
+arm|Body|noun
+back|Body|noun
+blood|Body|noun
+bone|Body|noun
+chest|Body|noun
+ear|Body|noun
+elbow|Body|noun
+eyes|Body|noun
+eye|Body|noun
+face|Body|noun
+finger|Body|noun
+foot|Body|noun
+hair|Body|noun
+hand|Body|noun
+head|Body|noun
+heart|Body|noun
+knee|Body|noun
+leg|Body|noun
+lip|Body|noun
+mouth|Body|noun
+nail|Body|noun
+neck|Body|noun
+nose|Body|noun
+shoulder|Body|noun
+skin|Body|noun
+stomach|Body|noun
+teeth|Body|noun
+thumb|Body|noun
+tongue|Body|noun
+tooth|Body|noun
+
+# Business & Finance
+advertise|Business & Finance|verb
+appraisal|Business & Finance|noun
+appreciation|Business & Finance|noun
+asset|Business & Finance|noun
+atm|Business & Finance|noun
+auction|Business & Finance|noun
+bank account|Business & Finance|noun
+banker|Business & Finance|noun
+bankruptcy|Business & Finance|noun
+bar code|Business & Finance|noun
+bear market|Business & Finance|noun
+bidding|Business & Finance|noun
+bull market|Business & Finance|noun
+cent|Business & Finance|noun
+checking account|Business & Finance|noun
+clerk|Business & Finance|noun
+collateral|Business & Finance|noun
+commission|Business & Finance|noun
+commodities|Business & Finance|noun
+corporation|Business & Finance|noun
+cost|Business & Finance|noun
+counterfeit|Business & Finance|noun
+credit card|Business & Finance|noun
+credit score|Business & Finance|noun
+deal|Business & Finance|noun
+debit card|Business & Finance|noun
+debt|Business & Finance|noun
+denomination|Business & Finance|noun
+depreciation|Business & Finance|noun
+direct deposit|Business & Finance|noun
+down payment|Business & Finance|noun
+earn|Business & Finance|verb
+embargo|Business & Finance|noun
+equity|Business & Finance|noun
+export|Business & Finance|noun
+federal reserve|Business & Finance|noun
+foreclosure|Business & Finance|noun
+fund|Business & Finance|noun
+gross income|Business & Finance|noun
+hedge fund|Business & Finance|noun
+import|Business & Finance|noun
+installment|Business & Finance|noun
+interest rate|Business & Finance|noun
+liability|Business & Finance|noun
+loan|Business & Finance|noun
+loyalty card|Business & Finance|noun
+membership|Business & Finance|noun
+mint|Business & Finance|noun
+mobile banking|Business & Finance|noun
+money order|Business & Finance|noun
+monopoly|Business & Finance|noun
+mutual fund|Business & Finance|noun
+net income|Business & Finance|noun
+net worth|Business & Finance|noun
+online banking|Business & Finance|noun
+overdraft|Business & Finance|noun
+partnership|Business & Finance|noun
+payroll|Business & Finance|noun
+portfolio|Business & Finance|noun
+pound|Business & Finance|noun
+price tag|Business & Finance|noun
+purchase|Business & Finance|verb
+quota|Business & Finance|noun
+real estate|Business & Finance|noun
+retail|Business & Finance|noun
+royalty|Business & Finance|noun
+savings account|Business & Finance|noun
+shipment|Business & Finance|noun
+shopping cart|Business & Finance|noun
+shopping list|Business & Finance|noun
+stock market|Business & Finance|noun
+stock|Business & Finance|noun
+subscription|Business & Finance|noun
+subsidy|Business & Finance|noun
+tariff|Business & Finance|noun
+teller|Business & Finance|noun
+traveler's check|Business & Finance|noun
+treasury|Business & Finance|noun
+trial period|Business & Finance|noun
+voucher|Business & Finance|noun
+wire transfer|Business & Finance|noun
+
+# Business Analysis
+acceptance criteria|Business Analysis|noun
+assumption|Business Analysis|noun
+baseline|Business Analysis|noun
+best practice|Business Analysis|noun
+brainstorming|Business Analysis|noun
+business case|Business Analysis|noun
+business rule|Business Analysis|noun
+change request|Business Analysis|noun
+chart|Business Analysis|noun
+continuous improvement|Business Analysis|noun
+corrective action|Business Analysis|noun
+cost benefit analysis|Business Analysis|noun
+data flow diagram|Business Analysis|noun
+data|Business Analysis|noun
+deliverable|Business Analysis|noun
+deviation|Business Analysis|noun
+documentation|Business Analysis|noun
+efficiency|Business Analysis|noun
+entity relationship diagram|Business Analysis|noun
+flowchart|Business Analysis|noun
+functional requirement|Business Analysis|noun
+gap analysis|Business Analysis|noun
+impact analysis|Business Analysis|noun
+indicator|Business Analysis|noun
+insight|Business Analysis|noun
+knowledge base|Business Analysis|noun
+lessons learned|Business Analysis|noun
+metric|Business Analysis|noun
+mind map|Business Analysis|noun
+non-functional requirement|Business Analysis|noun
+optimize|Business Analysis|verb
+performance|Business Analysis|noun
+pilot program|Business Analysis|noun
+preventive action|Business Analysis|noun
+prioritize|Business Analysis|verb
+productivity|Business Analysis|noun
+questionnaire|Business Analysis|noun
+regression testing|Business Analysis|noun
+report|Business Analysis|noun
+roadmap|Business Analysis|noun
+rollback|Business Analysis|noun
+root cause analysis|Business Analysis|noun
+swot analysis|Business Analysis|noun
+traceability matrix|Business Analysis|noun
+user acceptance testing|Business Analysis|noun
+validate|Business Analysis|verb
+variance|Business Analysis|noun
+wireframe|Business Analysis|noun
+
+# Clothing
+bag|Clothing|noun
+belt|Clothing|noun
+boots|Clothing|noun
+button|Clothing|noun
+coat|Clothing|noun
+dress|Clothing|noun
+glasses|Clothing|noun
+gloves|Clothing|noun
+hat|Clothing|noun
+jacket|Clothing|noun
+jeans|Clothing|noun
+necklace|Clothing|noun
+pajamas|Clothing|noun
+pants|Clothing|noun
+pocket|Clothing|noun
+ring|Clothing|noun
+sandals|Clothing|noun
+scarf|Clothing|noun
+shirt|Clothing|noun
+shoes|Clothing|noun
+skirt|Clothing|noun
+socks|Clothing|noun
+sweater|Clothing|noun
+swimsuit|Clothing|noun
+tie|Clothing|noun
+umbrella|Clothing|noun
+underwear|Clothing|noun
+uniform|Clothing|noun
+watch|Clothing|noun
+zipper|Clothing|noun
+
+# Colors
+black|Colors|adjective
+blue|Colors|adjective
+bright|Colors|adjective
+brown|Colors|adjective
+color|Colors|noun
+dark|Colors|adjective
+gold|Colors|adjective
+gray|Colors|adjective
+green|Colors|adjective
+light|Colors|adjective
+orange|Colors|adjective
+pink|Colors|adjective
+purple|Colors|adjective
+red|Colors|adjective
+silver|Colors|adjective
+white|Colors|adjective
+yellow|Colors|adjective
+
+# Common Phrases
+I agree|Common Phrases|phrase
+I am busy|Common Phrases|phrase
+I am fine|Common Phrases|phrase
+I am from|Common Phrases|phrase
+I am happy|Common Phrases|phrase
+I am hungry|Common Phrases|phrase
+I am kidding|Common Phrases|phrase
+I am learning english|Common Phrases|phrase
+I am lost|Common Phrases|phrase
+I am not sure|Common Phrases|phrase
+I am on my way|Common Phrases|phrase
+I am ready|Common Phrases|phrase
+I am sad|Common Phrases|phrase
+I am sorry|Common Phrases|phrase
+I am thirsty|Common Phrases|phrase
+I am tired|Common Phrases|phrase
+I beg your pardon|Common Phrases|phrase
+I can't believe it|Common Phrases|phrase
+I changed my mind|Common Phrases|phrase
+I don't care|Common Phrases|phrase
+I don't know|Common Phrases|phrase
+I don't like it|Common Phrases|phrase
+I don't speak|Common Phrases|phrase
+I don't understand|Common Phrases|phrase
+I forgot|Common Phrases|phrase
+I have a question|Common Phrases|phrase
+I have no clue|Common Phrases|phrase
+I have no idea|Common Phrases|phrase
+I hope so|Common Phrases|phrase
+I like it|Common Phrases|phrase
+I live in|Common Phrases|phrase
+I love you|Common Phrases|phrase
+I made a mistake|Common Phrases|phrase
+I miss you|Common Phrases|phrase
+I need|Common Phrases|phrase
+I promise|Common Phrases|phrase
+I remember|Common Phrases|phrase
+I swear|Common Phrases|phrase
+I think so|Common Phrases|phrase
+I want|Common Phrases|phrase
+I will be back|Common Phrases|phrase
+I will let you know|Common Phrases|phrase
+I work as|Common Phrases|phrase
+I would like|Common Phrases|phrase
+I'm lost|Common Phrases|phrase
+I'm sorry|Common Phrases|phrase
+a little bit|Common Phrases|phrase
+after you|Common Phrases|phrase
+are you sure|Common Phrases|phrase
+as soon as possible|Common Phrases|phrase
+at first|Common Phrases|phrase
+at last|Common Phrases|phrase
+at most|Common Phrases|phrase
+be careful|Common Phrases|phrase
+be quiet|Common Phrases|phrase
+believe me|Common Phrases|phrase
+by accident|Common Phrases|phrase
+by heart|Common Phrases|phrase
+by mistake|Common Phrases|phrase
+calm down|Common Phrases|phrase
+can I have|Common Phrases|phrase
+can I help you|Common Phrases|phrase
+can you help me|Common Phrases|phrase
+can you repeat|Common Phrases|phrase
+catch you later|Common Phrases|phrase
+cheer up|Common Phrases|phrase
+close the window|Common Phrases|phrase
+come here|Common Phrases|phrase
+come in|Common Phrases|phrase
+come with me|Common Phrases|phrase
+day by day|Common Phrases|phrase
+do you have|Common Phrases|phrase
+do you speak english|Common Phrases|phrase
+don't give up|Common Phrases|phrase
+don't worry|Common Phrases|phrase
+drive safely|Common Phrases|phrase
+face to face|Common Phrases|phrase
+follow me|Common Phrases|phrase
+for example|Common Phrases|phrase
+for free|Common Phrases|phrase
+for sale|Common Phrases|phrase
+from now on|Common Phrases|phrase
+get well soon|Common Phrases|phrase
+give me|Common Phrases|phrase
+go ahead|Common Phrases|phrase
+go straight|Common Phrases|phrase
+good luck|Common Phrases|phrase
+hand in hand|Common Phrases|phrase
+happy new year|Common Phrases|phrase
+have a good day|Common Phrases|phrase
+have a good weekend|Common Phrases|phrase
+have a safe trip|Common Phrases|phrase
+help me|Common Phrases|phrase
+help yourself|Common Phrases|phrase
+how are you|Common Phrases|phrase
+how do you say|Common Phrases|phrase
+how far|Common Phrases|phrase
+how is it going|Common Phrases|phrase
+how many|Common Phrases|phrase
+how much is it|Common Phrases|phrase
+how much|Common Phrases|phrase
+how old are you|Common Phrases|phrase
+hurry up|Common Phrases|phrase
+in a hurry|Common Phrases|phrase
+in my opinion|Common Phrases|phrase
+in the end|Common Phrases|phrase
+in time|Common Phrases|phrase
+is it far|Common Phrases|phrase
+it doesn't matter|Common Phrases|phrase
+it is beautiful|Common Phrases|phrase
+it is cold|Common Phrases|phrase
+it is delicious|Common Phrases|phrase
+it is hot|Common Phrases|phrase
+it is not my fault|Common Phrases|phrase
+it is raining|Common Phrases|phrase
+it is up to you|Common Phrases|phrase
+it was nice talking to you|Common Phrases|phrase
+it's okay|Common Phrases|phrase
+just a second|Common Phrases|phrase
+just kidding|Common Phrases|phrase
+keep going|Common Phrases|phrase
+let me check|Common Phrases|phrase
+let me see|Common Phrases|phrase
+let me think about it|Common Phrases|phrase
+let's go|Common Phrases|phrase
+listen to me|Common Phrases|phrase
+long time no see|Common Phrases|phrase
+look at this|Common Phrases|phrase
+make yourself at home|Common Phrases|phrase
+make yourself comfortable|Common Phrases|phrase
+me too|Common Phrases|phrase
+merry christmas|Common Phrases|phrase
+my name is|Common Phrases|phrase
+never mind|Common Phrases|phrase
+nice to meet you|Common Phrases|phrase
+nice weather|Common Phrases|phrase
+no problem|Common Phrases|phrase
+no thanks|Common Phrases|phrase
+no worries|Common Phrases|phrase
+not at all|Common Phrases|phrase
+not really|Common Phrases|phrase
+not yet|Common Phrases|phrase
+of course not|Common Phrases|phrase
+of course|Common Phrases|phrase
+on my way|Common Phrases|phrase
+on purpose|Common Phrases|phrase
+on time|Common Phrases|phrase
+once upon a time|Common Phrases|phrase
+one moment please|Common Phrases|phrase
+open the door|Common Phrases|phrase
+out of order|Common Phrases|phrase
+pardon me|Common Phrases|phrase
+right now|Common Phrases|phrase
+see you later|Common Phrases|phrase
+see you soon|Common Phrases|phrase
+see you tomorrow|Common Phrases|phrase
+show me|Common Phrases|phrase
+sit down please|Common Phrases|phrase
+sleep tight|Common Phrases|phrase
+so far|Common Phrases|phrase
+sounds good|Common Phrases|phrase
+speak slowly please|Common Phrases|phrase
+stand up please|Common Phrases|phrase
+step by step|Common Phrases|phrase
+stop here|Common Phrases|phrase
+take care|Common Phrases|phrase
+take it easy|Common Phrases|phrase
+take your time|Common Phrases|phrase
+tell me|Common Phrases|phrase
+that is great|Common Phrases|phrase
+that is terrible|Common Phrases|phrase
+that makes sense|Common Phrases|phrase
+that's right|Common Phrases|phrase
+trust me|Common Phrases|phrase
+turn left|Common Phrases|phrase
+turn right|Common Phrases|phrase
+wait a moment|Common Phrases|phrase
+wait for me|Common Phrases|phrase
+watch out|Common Phrases|phrase
+well done|Common Phrases|phrase
+well said|Common Phrases|phrase
+what a pity|Common Phrases|phrase
+what a surprise|Common Phrases|phrase
+what about you|Common Phrases|phrase
+what do you do|Common Phrases|phrase
+what do you want|Common Phrases|phrase
+what does it mean|Common Phrases|phrase
+what happened|Common Phrases|phrase
+what is going on|Common Phrases|phrase
+what is that|Common Phrases|phrase
+what is this|Common Phrases|phrase
+what is wrong|Common Phrases|phrase
+what is your name|Common Phrases|phrase
+what time|Common Phrases|phrase
+where are you from|Common Phrases|phrase
+where do you live|Common Phrases|phrase
+where is|Common Phrases|phrase
+wish you all the best|Common Phrases|phrase
+yes please|Common Phrases|phrase
+you are right|Common Phrases|phrase
+you are wrong|Common Phrases|phrase
+
+# Communication
+address|Communication|noun
+conversation|Communication|noun
+information|Communication|noun
+magazine|Communication|noun
+name|Communication|noun
+newspaper|Communication|noun
+news|Communication|noun
+noise|Communication|noun
+sign|Communication|noun
+sound|Communication|noun
+speech|Communication|noun
+story|Communication|noun
+voice|Communication|noun
+
+# Education
+English|Education|noun
+algebra|Education|noun
+alphabet|Education|noun
+apprenticeship|Education|noun
+art class|Education|noun
+art|Education|noun
+atlas|Education|noun
+attendance|Education|noun
+auditorium|Education|noun
+back to school|Education|noun
+biology|Education|noun
+blackboard|Education|noun
+boarding school|Education|noun
+book report|Education|noun
+book|Education|noun
+cafeteria|Education|noun
+calculate|Education|verb
+calculator|Education|noun
+campus|Education|noun
+cap and gown|Education|noun
+chalk|Education|noun
+chemistry|Education|noun
+cite|Education|verb
+classmate|Education|noun
+classroom|Education|noun
+class|Education|noun
+color pencil|Education|noun
+composition|Education|noun
+comprehension|Education|noun
+computer|Education|noun
+concentration|Education|noun
+correction|Education|noun
+counselor|Education|noun
+crayon|Education|noun
+dean|Education|noun
+desk|Education|noun
+diagram|Education|noun
+dictionary|Education|noun
+diploma|Education|noun
+discipline|Education|noun
+distance learning|Education|noun
+dormitory|Education|noun
+education|Education|noun
+elective|Education|noun
+elementary school|Education|noun
+enrollment|Education|noun
+enroll|Education|verb
+equation|Education|noun
+eraser|Education|noun
+exam|Education|noun
+exchange student|Education|noun
+extra credit|Education|noun
+field day|Education|noun
+field trip|Education|noun
+final exam|Education|noun
+flash card|Education|noun
+formula|Education|noun
+freshman|Education|noun
+geometry|Education|noun
+globe|Education|noun
+glue|Education|noun
+grade|Education|noun
+graduate|Education|verb
+graduation ceremony|Education|noun
+graduation|Education|noun
+gym class|Education|noun
+gymnasium|Education|noun
+high school|Education|noun
+highlighter|Education|noun
+history|Education|noun
+home economics|Education|noun
+homework|Education|noun
+honor roll|Education|noun
+instruction|Education|noun
+instruct|Education|verb
+intelligence|Education|noun
+internet|Education|noun
+keyboard|Education|noun
+kindergarten|Education|noun
+lab|Education|noun
+language|Education|noun
+lesson|Education|noun
+letter|Education|noun
+librarian|Education|noun
+listening|Education|noun
+major|Education|noun
+map|Education|noun
+marker|Education|noun
+math|Education|noun
+memorize|Education|verb
+mentoring|Education|noun
+middle school|Education|noun
+midterm|Education|noun
+minor|Education|noun
+music class|Education|noun
+music|Education|noun
+notebook|Education|noun
+online course|Education|noun
+oral exam|Education|noun
+outline|Education|noun
+page|Education|noun
+paper|Education|noun
+pencil|Education|noun
+pen|Education|noun
+phone|Education|noun
+physics|Education|noun
+poet|Education|noun
+poster|Education|noun
+prep|Education|verb
+preschool|Education|noun
+professor|Education|noun
+program|Education|noun
+pupil|Education|noun
+question|Education|noun
+quiz bowl|Education|noun
+quiz|Education|noun
+recess|Education|noun
+recite|Education|verb
+report card|Education|noun
+ruler|Education|noun
+school bus|Education|noun
+school uniform|Education|noun
+school year|Education|noun
+science fair|Education|noun
+science|Education|noun
+scissors|Education|noun
+screen|Education|noun
+semester|Education|noun
+sentence|Education|noun
+spelling bee|Education|noun
+sport|Education|noun
+student|Education|noun
+study abroad|Education|noun
+study group|Education|noun
+study hall|Education|noun
+subject|Education|noun
+substitute teacher|Education|noun
+summary|Education|noun
+talent show|Education|noun
+talent|Education|noun
+teacher|Education|noun
+teaching assistant|Education|noun
+term|Education|noun
+test|Education|noun
+timetable|Education|noun
+tutoring|Education|noun
+tutor|Education|noun
+university|Education|noun
+valedictorian|Education|noun
+woodshop|Education|noun
+word|Education|noun
+workbook|Education|noun
+yearbook|Education|noun
+
+# Emotions
+afraid|Emotions|adjective
+anger|Emotions|noun
+bored|Emotions|adjective
+confused|Emotions|adjective
+excited|Emotions|adjective
+fear|Emotions|noun
+jealous|Emotions|adjective
+joy|Emotions|noun
+lonely|Emotions|adjective
+nervous|Emotions|adjective
+pain|Emotions|noun
+peace|Emotions|noun
+pleasure|Emotions|noun
+proud|Emotions|adjective
+relaxed|Emotions|adjective
+stress|Emotions|noun
+surprised|Emotions|adjective
+worried|Emotions|adjective
+
+# Family
+aunt|Family|noun
+baby|Family|noun
+boy|Family|noun
+brother|Family|noun
+children|Family|noun
+child|Family|noun
+couple|Family|noun
+cousin|Family|noun
+daughter|Family|noun
+family|Family|noun
+father|Family|noun
+friend|Family|noun
+girl|Family|noun
+grandfather|Family|noun
+grandmother|Family|noun
+husband|Family|noun
+man|Family|noun
+mother|Family|noun
+neighbor|Family|noun
+nephew|Family|noun
+niece|Family|noun
+parents|Family|noun
+people|Family|noun
+person|Family|noun
+sister|Family|noun
+son|Family|noun
+twin|Family|noun
+uncle|Family|noun
+wife|Family|noun
+woman|Family|noun
+
+# Food
+apple|Food|noun
+banana|Food|noun
+bean|Food|noun
+beef|Food|noun
+bread|Food|noun
+butter|Food|noun
+cabbage|Food|noun
+cake|Food|noun
+carrot|Food|noun
+cereal|Food|noun
+cheese|Food|noun
+cherry|Food|noun
+chocolate|Food|noun
+coconut|Food|noun
+coffee|Food|noun
+cookie|Food|noun
+corn|Food|noun
+cucumber|Food|noun
+eggplant|Food|noun
+egg|Food|noun
+flour|Food|noun
+fruit|Food|noun
+garlic|Food|noun
+ginger|Food|noun
+grape|Food|noun
+ham|Food|noun
+honey|Food|noun
+ice cream|Food|noun
+jam|Food|noun
+juice|Food|noun
+ketchup|Food|noun
+lemon|Food|noun
+lettuce|Food|noun
+meat|Food|noun
+melon|Food|noun
+milk|Food|noun
+mushroom|Food|noun
+mustard|Food|noun
+nut|Food|noun
+oil|Food|noun
+olive|Food|noun
+onion|Food|noun
+pasta|Food|noun
+peach|Food|noun
+pear|Food|noun
+pea|Food|noun
+pepper|Food|noun
+pineapple|Food|noun
+pizza|Food|noun
+plum|Food|noun
+pork|Food|noun
+potato|Food|noun
+rice|Food|noun
+salad|Food|noun
+salt|Food|noun
+sandwich|Food|noun
+sauce|Food|noun
+sausage|Food|noun
+shrimp|Food|noun
+soup|Food|noun
+spinach|Food|noun
+strawberry|Food|noun
+sugar|Food|noun
+tea|Food|noun
+tomato|Food|noun
+vinegar|Food|noun
+watermelon|Food|noun
+water|Food|noun
+yogurt|Food|noun
+
+# General
+I|General|pronoun
+about|General|preposition
+above|General|preposition
+accident|General|noun
+accordion|General|noun
+ace|General|noun
+acorn|General|noun
+across|General|preposition
+actress|General|noun
+actually|General|adverb
+admire|General|verb
+adorable|General|adjective
+adult|General|noun
+advice|General|noun
+against|General|noun
+again|General|adverb
+age|General|noun
+agile|General|adjective
+ahead|General|adverb
+ajar|General|adjective
+album|General|noun
+alligator|General|noun
+almond|General|noun
+almost|General|adverb
+along|General|preposition
+also|General|adverb
+aluminum|General|noun
+amber|General|noun
+amethyst|General|noun
+anchor|General|noun
+anchovy|General|noun
+and|General|conjunction
+anklet|General|noun
+ankle|General|noun
+another|General|adjective
+anthem|General|noun
+anything|General|noun
+anywhere|General|adverb
+apart|General|adverb
+ape|General|noun
+apron|General|noun
+aqua|General|adjective
+arch|General|noun
+area|General|noun
+arena|General|noun
+are|General|noun
+around|General|preposition
+arrow|General|noun
+artichoke|General|noun
+arugula|General|noun
+ash|General|noun
+asparagus|General|noun
+as|General|noun
+atlas|General|noun
+attention|General|noun
+attic|General|noun
+attractive|General|adjective
+at|General|preposition
+avocado|General|noun
+award|General|noun
+away|General|noun
+awning|General|noun
+axle|General|noun
+backpack|General|noun
+backyard|General|noun
+bacon|General|noun
+badger|General|noun
+badge|General|noun
+badly|General|adverb
+badminton|General|noun
+bagel|General|noun
+baguette|General|noun
+bakery|General|noun
+bake|General|verb
+balloon|General|noun
+ballot|General|noun
+bamboo|General|noun
+bandana|General|noun
+band|General|noun
+barely|General|adverb
+bare|General|adjective
+bark|General|noun
+bark|General|verb
+barley|General|noun
+barn|General|noun
+barometer|General|noun
+barrel|General|noun
+baseball|General|noun
+basically|General|adverb
+bass|General|noun
+bathrobe|General|noun
+bathtub|General|noun
+bath|General|noun
+batter|General|noun
+bat|General|noun
+bay|General|noun
+beach ball|General|noun
+beam|General|noun
+bean bag|General|noun
+beanie|General|noun
+beard|General|noun
+beat|General|noun
+beat|General|verb
+beaver|General|noun
+because|General|conjunction
+become|General|verb
+bedrock|General|noun
+beehive|General|noun
+been|General|verb
+beetroot|General|noun
+beet|General|noun
+beginning|General|noun
+behind|General|preposition
+beige|General|adjective
+being|General|noun
+believe|General|noun
+bell|General|noun
+below|General|preposition
+bench|General|noun
+bend|General|verb
+beret|General|noun
+berry|General|noun
+best|General|noun
+better|General|adjective
+between|General|preposition
+bib|General|noun
+binder|General|noun
+binoculars|General|noun
+birch|General|noun
+biscuit|General|noun
+bison|General|noun
+bite|General|verb
+bit|General|noun
+blackberry|General|noun
+blade|General|noun
+bland|General|adjective
+blank|General|adjective
+blender|General|noun
+blend|General|verb
+blinds|General|noun
+blink|General|verb
+blizzard|General|noun
+block|General|noun
+bloom|General|verb
+blossom|General|noun
+blouse|General|noun
+blueberry|General|noun
+bluebird|General|noun
+bluff|General|noun
+boardwalk|General|noun
+body|General|noun
+bog|General|noun
+bold|General|adjective
+bolt|General|noun
+bomb|General|noun
+bond|General|noun
+bonfire|General|noun
+bookmark|General|noun
+bookshelf|General|noun
+bookstore|General|noun
+boot|General|noun
+bore|General|verb
+both|General|adjective
+bottle|General|noun
+bottom|General|noun
+boulder|General|noun
+bounce|General|verb
+bowling|General|noun
+bowl|General|noun
+box|General|noun
+bracelet|General|noun
+braid|General|noun
+brass|General|noun
+breadcrumbs|General|noun
+breeze|General|noun
+brew|General|verb
+brick|General|noun
+briefcase|General|noun
+brim|General|noun
+brioche|General|noun
+broil|General|verb
+broken|General|adjective
+bronze|General|noun
+brooch|General|noun
+brook|General|noun
+brother-in-law|General|noun
+broth|General|noun
+brownie|General|noun
+brow|General|noun
+brunch|General|noun
+brush|General|verb
+bubble|General|noun
+buckle|General|noun
+buckwheat|General|noun
+buddy|General|noun
+bud|General|noun
+buffalo|General|noun
+buffet|General|noun
+buff|General|verb
+bug|General|noun
+bulb|General|noun
+bulky|General|adjective
+bulldozer|General|noun
+bulletin board|General|noun
+bull|General|noun
+bunch|General|noun
+bungalow|General|noun
+bunny|General|noun
+burger|General|noun
+burrito|General|noun
+burrow|General|noun
+buttery|General|adjective
+but|General|conjunction
+buzz|General|verb
+cabinet|General|noun
+cabin|General|noun
+cactus|General|noun
+cafe|General|noun
+cage|General|noun
+calendar|General|noun
+calf|General|noun
+calm|General|adjective
+came|General|noun
+campfire|General|noun
+canal|General|noun
+canary|General|noun
+candle|General|noun
+candy|General|noun
+cane|General|noun
+canoe|General|noun
+canopy|General|noun
+cantaloupe|General|noun
+canteen|General|noun
+canvas|General|noun
+canyon|General|noun
+can|General|noun
+cape|General|noun
+cappuccino|General|noun
+capris|General|noun
+captive|General|adjective
+cap|General|noun
+caramel|General|noun
+card game|General|noun
+cardigan|General|noun
+carefully|General|adverb
+care|General|verb
+carnation|General|noun
+carriage|General|noun
+cartoon|General|noun
+cart|General|noun
+carve|General|verb
+carving|General|noun
+case|General|noun
+casserole|General|noun
+casual|General|adjective
+caterpillar|General|noun
+catfish|General|noun
+cauldron|General|noun
+cedar|General|noun
+cellar|General|noun
+cello|General|noun
+cement|General|noun
+certainly|General|adverb
+chain|General|noun
+chalk|General|noun
+chameleon|General|noun
+chance|General|noun
+chandelier|General|noun
+charcoal|General|adjective
+charcoal|General|noun
+charming|General|adjective
+charm|General|noun
+chartreuse|General|adjective
+cheetah|General|noun
+chess|General|noun
+chestnut|General|noun
+chewy|General|adjective
+chew|General|verb
+chickpea|General|noun
+chick|General|noun
+chilly|General|adjective
+chime|General|noun
+chimney|General|noun
+chin|General|noun
+chipmunk|General|noun
+chip|General|noun
+chirp|General|verb
+choice|General|noun
+choir|General|noun
+chop|General|verb
+chord|General|noun
+chorus|General|noun
+chuckle|General|verb
+chutney|General|noun
+cider|General|noun
+cinema|General|noun
+circle|General|noun
+circular|General|adjective
+clam|General|noun
+clan|General|noun
+clap|General|verb
+clarinet|General|noun
+classic|General|adjective
+claw|General|noun
+clay|General|noun
+clean up|General|phrase
+clearing|General|noun
+clipboard|General|noun
+clip|General|noun
+clip|General|verb
+cloak|General|noun
+cloth|General|noun
+clouds|General|noun
+clover|General|noun
+club|General|noun
+clue|General|noun
+clumsy|General|adjective
+cluttered|General|adjective
+coal|General|noun
+coaster|General|noun
+cobra|General|noun
+cobweb|General|noun
+cocoa|General|noun
+coffee table|General|noun
+coil|General|noun
+cold water|General|noun
+collar|General|noun
+colorful|General|adjective
+coloring book|General|noun
+comb|General|noun
+comic book|General|noun
+comic|General|noun
+compass|General|noun
+complain|General|verb
+completely|General|adverb
+concert|General|noun
+condition|General|noun
+cone|General|noun
+contest|General|noun
+cookbook|General|noun
+cooker|General|noun
+cooler|General|noun
+copper|General|noun
+coral|General|adjective
+cord|General|noun
+core|General|noun
+corkscrew|General|noun
+cork|General|noun
+cornbread|General|noun
+correctly|General|adverb
+costume|General|noun
+cotton|General|noun
+couch|General|noun
+could|General|noun
+coup|General|noun
+courtyard|General|noun
+couscous|General|noun
+cover|General|verb
+cove|General|noun
+coyote|General|noun
+cozy|General|adjective
+crab|General|noun
+cradle|General|noun
+cramped|General|adjective
+crane|General|noun
+crash|General|verb
+crate|General|noun
+crawl|General|verb
+crayon|General|noun
+creak|General|verb
+creamy|General|adjective
+creature|General|noun
+creek|General|noun
+creep|General|verb
+crib|General|noun
+cricket|General|noun
+crimson|General|adjective
+crispy|General|adjective
+crochet|General|verb
+crocodile|General|noun
+croissant|General|noun
+crop|General|noun
+crosswalk|General|noun
+crossword|General|noun
+crouton|General|noun
+crown|General|noun
+crow|General|noun
+crow|General|verb
+cruel|General|adjective
+crumbly|General|adjective
+crumb|General|noun
+crunchy|General|adjective
+crush|General|verb
+cube|General|noun
+cufflink|General|noun
+culture|General|noun
+cupboard|General|noun
+cupcake|General|noun
+cup|General|noun
+curiosity|General|noun
+curly|General|adjective
+curl|General|verb
+cushion|General|noun
+custom|General|noun
+cyclone|General|noun
+cymbal|General|noun
+daffodil|General|noun
+dagger|General|noun
+daily|General|adjective
+dairy|General|noun
+daisy|General|noun
+damage|General|verb
+damp|General|adjective
+dam|General|noun
+dancer|General|noun
+dandelion|General|noun
+danger|General|noun
+dare|General|verb
+dart|General|noun
+dash|General|verb
+dawn|General|noun
+daylight|General|noun
+days|General|noun
+dear|General|adjective
+death|General|noun
+decent|General|adjective
+deck|General|noun
+decorate|General|verb
+deep fry|General|verb
+deeply|General|adverb
+definitely|General|adverb
+delicate|General|adjective
+delicious|General|adjective
+delight|General|noun
+dell|General|noun
+delta|General|noun
+dent|General|noun
+den|General|noun
+desk lamp|General|noun
+detail|General|noun
+detective|General|noun
+dewdrop|General|noun
+dew|General|noun
+dial|General|noun
+diary|General|noun
+dice|General|verb
+did|General|noun
+dill|General|noun
+dim|General|adjective
+dingy|General|adjective
+dining room|General|noun
+dinosaur|General|noun
+dip|General|verb
+direction|General|noun
+directly|General|adverb
+dirt|General|noun
+disappointment|General|noun
+disco|General|noun
+dish|General|noun
+distance|General|noun
+ditch|General|noun
+dive|General|verb
+dock|General|noun
+does|General|noun
+doing|General|noun
+doll|General|noun
+dolphin|General|noun
+done|General|adjective
+donut|General|noun
+dormant|General|adjective
+dot|General|noun
+doughnut|General|noun
+dough|General|noun
+dove|General|noun
+downpour|General|noun
+down|General|adverb
+drab|General|adjective
+dragonfly|General|noun
+drag|General|verb
+drain|General|noun
+drawing pin|General|noun
+dream|General|verb
+dreary|General|adjective
+drew|General|verb
+drip|General|verb
+drizzle|General|noun
+drizzle|General|verb
+drool|General|verb
+drought|General|noun
+drown|General|verb
+drums|General|noun
+drum|General|noun
+dual|General|adjective
+duet|General|noun
+duffel|General|noun
+dumpling|General|noun
+dump|General|verb
+dune|General|noun
+dungarees|General|noun
+dusk|General|noun
+dusty|General|adjective
+dust|General|verb
+eager|General|adjective
+earplugs|General|noun
+earring|General|noun
+easel|General|noun
+ease|General|noun
+easily|General|adverb
+edge|General|noun
+edit|General|verb
+eel|General|noun
+eerie|General|adjective
+effect|General|noun
+elbow pad|General|noun
+elegant|General|adjective
+elf|General|noun
+elm|General|noun
+else|General|adverb
+embarrassment|General|noun
+ember|General|noun
+embroider|General|verb
+emerald|General|noun
+end|General|noun
+energy|General|noun
+engine|General|noun
+entirely|General|adverb
+entire|General|adjective
+entrance|General|noun
+envelope|General|noun
+environment|General|noun
+envy|General|noun
+epic|General|adjective
+equal|General|adjective
+eraser|General|noun
+erase|General|verb
+especially|General|adverb
+espresso|General|noun
+estuary|General|noun
+eventually|General|adverb
+event|General|noun
+even|General|adjective
+every day|General|adverb
+everybody|General|pronoun
+everything|General|pronoun
+everywhere|General|adverb
+ever|General|adverb
+evil|General|adjective
+exactly|General|adverb
+example|General|noun
+exciting|General|adjective
+extremely|General|adverb
+eyelid|General|noun
+fable|General|noun
+fabric|General|noun
+fact|General|noun
+fade|General|verb
+faint|General|adjective
+fairly|General|adverb
+fairy tale|General|noun
+fairy|General|noun
+fair|General|adjective
+fake|General|adjective
+falcon|General|noun
+fall asleep|General|phrase
+fame|General|noun
+fancy|General|adjective
+fan|General|noun
+farm|General|noun
+fate|General|noun
+faucet|General|noun
+fawn|General|noun
+feast|General|noun
+feat|General|noun
+fedora|General|noun
+feeling|General|noun
+feet|General|noun
+fell|General|verb
+felt|General|adjective
+female|General|noun
+fennel|General|noun
+fen|General|noun
+fern|General|noun
+ferret|General|noun
+fetch|General|verb
+fete|General|noun
+feud|General|noun
+fig|General|noun
+film|General|noun
+filthy|General|adjective
+finally|General|adverb
+fire station|General|noun
+fireplace|General|noun
+fireworks|General|noun
+firm|General|adjective
+fist|General|noun
+fit|General|adjective
+fizzy|General|adjective
+fjord|General|noun
+flag|General|noun
+flaky|General|adjective
+flamingo|General|noun
+flap|General|verb
+flashlight|General|noun
+flatten|General|verb
+flaw|General|noun
+flax|General|noun
+flea|General|noun
+fled|General|verb
+fleece|General|noun
+flee|General|verb
+flew|General|verb
+flippers|General|noun
+flip|General|verb
+float|General|verb
+flock|General|noun
+flock|General|verb
+flow|General|verb
+fluffy|General|adjective
+flurry|General|noun
+flute|General|noun
+flutter|General|verb
+flyover|General|noun
+foam|General|noun
+focus|General|verb
+foil|General|noun
+folder|General|noun
+folding|General|adjective
+fold|General|verb
+folklore|General|noun
+folk|General|noun
+fondant|General|noun
+fond|General|adjective
+font|General|noun
+fool|General|noun
+footprint|General|noun
+footstep|General|noun
+force|General|noun
+forehead|General|noun
+fore|General|noun
+fork|General|noun
+form|General|noun
+fortunately|General|adverb
+fort|General|noun
+for|General|preposition
+foul|General|adjective
+found|General|noun
+fowl|General|noun
+fragile|General|adjective
+fragrant|General|adjective
+freckle|General|noun
+freely|General|adverb
+freezer|General|noun
+fridge|General|noun
+fried|General|adjective
+friendly|General|adjective
+fries|General|noun
+frightened|General|adjective
+from|General|preposition
+front|General|noun
+frostbite|General|noun
+frosting|General|noun
+frosty|General|adjective
+frost|General|noun
+frothy|General|adjective
+frown|General|verb
+frozen food|General|noun
+fruity|General|adjective
+frustration|General|noun
+fudge|General|noun
+fuel|General|noun
+fully|General|adverb
+fume|General|noun
+fun|General|noun
+furnace|General|noun
+fuse|General|noun
+future|General|noun
+gale|General|noun
+gallop|General|verb
+gang|General|noun
+gap|General|noun
+garbage|General|noun
+garlicky|General|adjective
+garnish|General|verb
+gasp|General|verb
+gas|General|noun
+gauge|General|noun
+gave|General|verb
+gazelle|General|noun
+gaze|General|verb
+gear|General|noun
+gecko|General|noun
+gelato|General|noun
+gem|General|noun
+gentle|General|adjective
+gently|General|adverb
+getting|General|noun
+giant|General|adjective
+giggle|General|verb
+gill|General|noun
+gist|General|noun
+glad|General|adjective
+glass|General|noun
+glen|General|noun
+glitter|General|noun
+globe|General|noun
+gloomy|General|adjective
+glory|General|noun
+glow|General|noun
+glow|General|verb
+glue|General|verb
+god|General|noun
+goggles|General|noun
+goggle|General|noun
+going|General|noun
+golf|General|noun
+gone|General|adjective
+gong|General|noun
+gooey|General|adjective
+gopher|General|noun
+gore|General|noun
+gorgeous|General|adjective
+gorge|General|noun
+gorilla|General|noun
+got|General|noun
+goulash|General|noun
+government|General|noun
+gown|General|noun
+grab|General|verb
+graceful|General|adjective
+gradually|General|adverb
+grain|General|noun
+gram|General|noun
+grandchild|General|noun
+grandma|General|noun
+grandpa|General|noun
+granite|General|noun
+granola|General|noun
+grape juice|General|noun
+grasshopper|General|noun
+grate|General|verb
+gravel|General|noun
+gravy|General|noun
+graze|General|verb
+greasy|General|adjective
+greedy|General|adjective
+greenhouse|General|noun
+greeting|General|noun
+grew|General|verb
+grey|General|adjective
+grid|General|noun
+grill|General|verb
+grimy|General|adjective
+grin|General|verb
+grip|General|noun
+grip|General|verb
+grit|General|noun
+grocery|General|noun
+group|General|noun
+grove|General|noun
+growl|General|verb
+gruel|General|noun
+grumpy|General|adjective
+guacamole|General|noun
+guard|General|verb
+guess|General|verb
+guitar|General|noun
+gulf|General|noun
+gully|General|noun
+gum|General|noun
+gun|General|noun
+gutter|General|noun
+gut|General|noun
+guy|General|noun
+gymnastics|General|noun
+had|General|noun
+hallway|General|noun
+hall|General|noun
+halt|General|verb
+hammock|General|noun
+hamster|General|noun
+handbag|General|noun
+hang glider|General|noun
+happily|General|adverb
+harbor|General|noun
+hardly|General|adverb
+hare|General|noun
+harmonica|General|noun
+harmony|General|noun
+harm|General|noun
+harp|General|noun
+harvest|General|noun
+has|General|noun
+hatchet|General|noun
+hatch|General|verb
+haul|General|verb
+having|General|noun
+hawk|General|noun
+hazelnut|General|noun
+hazel|General|noun
+haze|General|noun
+hazy|General|adjective
+headband|General|noun
+headscarf|General|noun
+heap|General|noun
+heath|General|noun
+heatwave|General|noun
+heat|General|noun
+hedge|General|noun
+heel|General|noun
+held|General|verb
+helmet|General|noun
+helm|General|noun
+hemp|General|noun
+hen|General|noun
+herby|General|adjective
+herb|General|noun
+herd|General|noun
+heron|General|noun
+hero|General|noun
+her|General|pronoun
+he|General|pronoun
+hibernate|General|verb
+hibiscus|General|noun
+hiccup|General|verb
+highlighter|General|noun
+him|General|noun
+hint|General|noun
+hippie|General|noun
+hippopotamus|General|noun
+hippo|General|noun
+hip|General|noun
+hiss|General|verb
+his|General|pronoun
+hive|General|noun
+hole|General|noun
+hollow|General|adjective
+honestly|General|adverb
+hood|General|noun
+hook|General|noun
+hoop|General|noun
+hopefully|General|adverb
+horizon|General|noun
+hornet|General|noun
+horn|General|noun
+hose|General|noun
+hot dog|General|noun
+hot water|General|noun
+hound|General|noun
+hourglass|General|noun
+houseplant|General|noun
+however|General|noun
+howl|General|verb
+how|General|adverb
+huge|General|adjective
+hug|General|verb
+hull|General|noun
+humble|General|adjective
+humidity|General|noun
+humid|General|adjective
+hummingbird|General|noun
+hummus|General|noun
+humor|General|noun
+hunt|General|verb
+hurricane|General|noun
+hut|General|noun
+hyena|General|noun
+hymn|General|noun
+icicle|General|noun
+icy|General|adjective
+idea|General|noun
+identity|General|noun
+if|General|conjunction
+igloo|General|noun
+iguana|General|noun
+imagination|General|noun
+immediately|General|adverb
+including|General|noun
+indeed|General|adverb
+indigo|General|adjective
+indoors|General|adverb
+infant|General|noun
+initials|General|noun
+ink|General|noun
+inlet|General|noun
+insect|General|noun
+inside|General|preposition
+instead|General|adverb
+interest|General|noun
+into|General|preposition
+in|General|preposition
+iris|General|noun
+iron|General|noun
+isle|General|noun
+isthmus|General|noun
+is|General|noun
+item|General|noun
+its|General|noun
+it|General|pronoun
+ivory|General|adjective
+ivy|General|noun
+jackal|General|noun
+jacket potato|General|noun
+jade|General|noun
+jaguar|General|noun
+jail|General|noun
+jalapeÃ±o|General|noun
+jalapeño|General|noun
+jar|General|noun
+jasmine|General|noun
+jaw|General|noun
+jellyfish|General|noun
+jelly|General|noun
+jingle|General|noun
+jog|General|verb
+journal|General|noun
+jug|General|noun
+juicy|General|adjective
+jumpsuit|General|noun
+junk|General|noun
+jury|General|noun
+just|General|adverb
+kangaroo|General|noun
+karate|General|noun
+kayak|General|noun
+keep|General|verb
+kelp|General|noun
+kerb|General|noun
+khaki|General|adjective
+kill|General|verb
+kilt|General|noun
+kimono|General|noun
+kindness|General|noun
+king|General|noun
+kiss|General|verb
+kitchen sink|General|noun
+kite|General|noun
+kit|General|noun
+knead|General|verb
+kneecap|General|noun
+kneel|General|verb
+knew|General|verb
+knife|General|noun
+knit|General|verb
+knob|General|noun
+knoll|General|noun
+knowledge|General|noun
+knuckle|General|noun
+koala|General|noun
+lace|General|noun
+ladder|General|noun
+ladle|General|verb
+ladybug|General|noun
+lagoon|General|noun
+lamb|General|noun
+lamppost|General|noun
+lane|General|noun
+lanky|General|adjective
+lantern|General|noun
+lanyard|General|noun
+lap|General|noun
+lard|General|noun
+large|General|adjective
+lark|General|noun
+lasagna|General|noun
+lash|General|verb
+lately|General|adverb
+latte|General|noun
+laundry|General|noun
+lava|General|noun
+lavender|General|adjective
+lavender|General|noun
+lawn|General|noun
+law|General|noun
+lay|General|verb
+lead|General|verb
+leak|General|verb
+lean|General|verb
+leap|General|verb
+least|General|adverb
+leather|General|noun
+leek|General|noun
+legend|General|noun
+lemur|General|noun
+lens|General|noun
+lentil|General|noun
+leopard|General|noun
+less|General|adverb
+level|General|noun
+lid|General|noun
+life jacket|General|noun
+life raft|General|noun
+life|General|noun
+lift|General|verb
+lighter|General|noun
+lighthouse|General|noun
+likely|General|adverb
+lily|General|noun
+limestone|General|noun
+lime|General|noun
+limousine|General|noun
+limp|General|verb
+line|General|noun
+link|General|noun
+lion cub|General|noun
+list|General|noun
+lively|General|adjective
+living room|General|noun
+lizard|General|noun
+llama|General|noun
+loaf|General|noun
+lobby|General|noun
+lobster|General|noun
+loch|General|noun
+locker room|General|noun
+locker|General|noun
+locket|General|noun
+loft|General|noun
+log|General|noun
+lollipop|General|noun
+lone|General|adjective
+looking|General|noun
+loom|General|noun
+loop|General|noun
+lore|General|noun
+loss|General|noun
+lost|General|adjective
+lotus|General|noun
+lot|General|noun
+loyal|General|adjective
+luck|General|noun
+lullaby|General|noun
+lumpy|General|adjective
+lunchbox|General|noun
+lunch|General|noun
+lupine|General|noun
+lush|General|adjective
+lynx|General|noun
+lyric|General|noun
+made|General|noun
+mad|General|adjective
+magenta|General|adjective
+magic trick|General|noun
+magnifying glass|General|noun
+magpie|General|noun
+mainly|General|adverb
+makeup|General|noun
+making|General|noun
+male|General|adjective
+mall|General|noun
+malt|General|noun
+mane|General|noun
+mango|General|noun
+manhole|General|noun
+mannequin|General|noun
+maple syrup|General|noun
+maple|General|noun
+map|General|noun
+maraca|General|noun
+marble|General|noun
+marigold|General|noun
+marinara|General|noun
+marinate|General|verb
+marina|General|noun
+marker|General|noun
+mark|General|noun
+marmalade|General|noun
+maroon|General|adjective
+marsh|General|noun
+mars|General|noun
+mashed|General|adjective
+massive|General|adjective
+mast|General|noun
+mate|General|noun
+matter|General|noun
+mat|General|noun
+mauve|General|adjective
+maybe|General|adverb
+mayonnaise|General|noun
+maze|General|noun
+meadow|General|noun
+meal|General|noun
+meaning|General|noun
+mean|General|verb
+meatball|General|noun
+medal|General|noun
+melody|General|noun
+melt|General|verb
+memory|General|noun
+memo|General|noun
+mend|General|verb
+menu|General|noun
+men|General|noun
+meow|General|interjection
+mercy|General|noun
+messy|General|adjective
+mess|General|noun
+metal|General|noun
+meteor|General|noun
+meter|General|noun
+metronome|General|noun
+microscope|General|noun
+midnight|General|noun
+might|General|noun
+migrate|General|verb
+mild|General|adjective
+mile|General|noun
+milk tea|General|noun
+millet|General|noun
+mill|General|noun
+mime|General|verb
+mince|General|verb
+mind|General|noun
+mine|General|noun
+minibus|General|noun
+minnow|General|noun
+minty|General|adjective
+mint|General|noun
+miss|General|verb
+mistake|General|noun
+mist|General|noun
+mitten|General|noun
+mitt|General|noun
+mob|General|noun
+model|General|noun
+mode|General|noun
+moisture|General|noun
+mold|General|verb
+mole|General|noun
+molt|General|verb
+moment|General|noun
+mom|General|noun
+monsoon|General|noun
+mood|General|noun
+moonlight|General|noun
+moose|General|noun
+mop|General|verb
+more|General|adverb
+mosquito|General|noun
+moss|General|noun
+most|General|adverb
+moth|General|noun
+mouthguard|General|noun
+movement|General|noun
+movie theater|General|noun
+muggy|General|adjective
+mug|General|noun
+mulberry|General|noun
+mule|General|noun
+murky|General|adjective
+mushy|General|adjective
+musty|General|adjective
+muzzle|General|noun
+myself|General|pronoun
+mysterious|General|adjective
+myth|General|noun
+my|General|pronoun
+nachos|General|noun
+naked|General|adjective
+napkin|General|noun
+nap|General|noun
+nap|General|verb
+nasty|General|adjective
+national|General|noun
+naturally|General|adverb
+nature|General|noun
+naughty|General|adjective
+navy|General|adjective
+navy|General|noun
+nearby|General|adverb
+neat|General|adjective
+needle|General|noun
+neon|General|adjective
+nest|General|verb
+net|General|noun
+newt|General|noun
+next to|General|preposition
+nibble|General|verb
+nimble|General|adjective
+nobody|General|pronoun
+nod|General|verb
+noisy|General|adjective
+noodles|General|noun
+noon|General|noun
+normally|General|adverb
+north pole|General|noun
+north star|General|noun
+note|General|noun
+nothing|General|pronoun
+not|General|noun
+novel|General|noun
+nowhere|General|adverb
+nursery rhyme|General|noun
+nutty|General|adjective
+oak tree|General|noun
+oak|General|noun
+oar|General|noun
+oasis|General|noun
+oatmeal|General|noun
+oat|General|noun
+obey|General|verb
+observe|General|verb
+obviously|General|adverb
+occasionally|General|adverb
+ochre|General|adjective
+odd|General|adjective
+odorless|General|adjective
+office chair|General|noun
+off|General|noun
+okra|General|noun
+olive|General|adjective
+omelet|General|noun
+once|General|adverb
+on|General|preposition
+opal|General|noun
+opening|General|noun
+opera|General|noun
+opinion|General|noun
+opportunity|General|noun
+orange juice|General|noun
+orca|General|noun
+orchard|General|noun
+orchestra|General|noun
+orchid|General|noun
+order|General|noun
+oregano|General|noun
+organ|General|noun
+or|General|conjunction
+ostrich|General|noun
+otter|General|noun
+our|General|pronoun
+out of|General|preposition
+outlet|General|noun
+outside|General|preposition
+out|General|noun
+oval|General|adjective
+overalls|General|noun
+overcast|General|adjective
+over|General|preposition
+owed|General|verb
+oxygen tank|General|noun
+ox|General|noun
+oyster|General|noun
+pace|General|noun
+paddleboard|General|noun
+paddle|General|verb
+pad|General|noun
+painful|General|adjective
+paintbrush|General|noun
+palette|General|noun
+pale|General|adjective
+palm|General|noun
+panda|General|noun
+panic|General|noun
+panther|General|noun
+pantry|General|noun
+pan|General|noun
+papaya|General|noun
+paperclip|General|noun
+paprika|General|noun
+parachute|General|noun
+parakeet|General|noun
+parched|General|adjective
+parent|General|noun
+parka|General|noun
+party|General|noun
+part|General|noun
+passage|General|noun
+pastel|General|adjective
+past|General|noun
+patch|General|noun
+path|General|noun
+pattern|General|noun
+pause|General|verb
+pavement|General|noun
+peaceful|General|adjective
+peach|General|adjective
+peacock|General|noun
+peak|General|noun
+peal|General|noun
+peanut butter|General|noun
+pearl|General|noun
+peat|General|noun
+pebble|General|noun
+pecan|General|noun
+pedal|General|noun
+peek|General|verb
+peel|General|verb
+peg|General|noun
+pelican|General|noun
+pendulum|General|noun
+penguin|General|noun
+pepper mill|General|noun
+peppery|General|adjective
+perfectly|General|adverb
+perhaps|General|adverb
+period|General|noun
+periwinkle|General|adjective
+pesto|General|noun
+petite|General|adjective
+pet|General|noun
+pheasant|General|noun
+piano|General|noun
+pickle|General|noun
+pick|General|verb
+picnic|General|noun
+picture|General|noun
+piece|General|noun
+pier|General|noun
+pie|General|noun
+pile|General|noun
+pile|General|verb
+pillar|General|noun
+pinch|General|verb
+pinecone|General|noun
+pine|General|noun
+pin|General|noun
+pirate|General|noun
+pitcher|General|noun
+pity|General|noun
+place|General|noun
+plank|General|noun
+planner|General|noun
+plan|General|noun
+plastic|General|noun
+plate|General|noun
+platinum|General|noun
+playground|General|noun
+plod|General|verb
+plot|General|noun
+plow|General|verb
+plume|General|noun
+plump|General|adjective
+plunge|General|verb
+plus|General|noun
+poem|General|noun
+point|General|noun
+polish|General|verb
+pollen|General|noun
+poll|General|noun
+polo|General|noun
+pomegranate|General|noun
+poncho|General|noun
+pony|General|noun
+poodle|General|noun
+pool|General|noun
+poppy|General|noun
+pop|General|noun
+pop|General|verb
+porch|General|noun
+porcupine|General|noun
+porridge|General|noun
+porthole|General|noun
+pose|General|verb
+position|General|noun
+possibly|General|adverb
+postcard|General|noun
+poster|General|noun
+post|General|noun
+pottery|General|noun
+pot|General|noun
+pouch|General|noun
+pounce|General|verb
+pour|General|verb
+powder|General|noun
+power|General|noun
+prairie|General|noun
+prank|General|noun
+prawn|General|noun
+pray|General|verb
+precious|General|adjective
+pretend|General|verb
+pretzel|General|noun
+prey|General|noun
+princess|General|noun
+prince|General|noun
+prize|General|noun
+probably|General|adverb
+problem|General|noun
+prod|General|verb
+projector|General|noun
+properly|General|adverb
+prop|General|noun
+protractor|General|noun
+proverb|General|noun
+prowl|General|verb
+pub|General|noun
+pudding|General|noun
+puddle|General|noun
+puffin|General|noun
+pumpkin|General|noun
+pump|General|noun
+pump|General|verb
+puppet|General|noun
+puppy|General|noun
+pure|General|adjective
+purr|General|verb
+purse|General|noun
+puzzle|General|noun
+python|General|noun
+quack|General|verb
+quail|General|noun
+quality|General|noun
+quarter|General|noun
+quartet|General|noun
+quickly|General|adverb
+quietly|General|adverb
+quite|General|adverb
+raccoon|General|noun
+racket|General|noun
+rack|General|noun
+rafter|General|noun
+raft|General|noun
+rage|General|noun
+rag|General|noun
+raincoat|General|noun
+rainstorm|General|noun
+raisin|General|noun
+rake|General|noun
+ramp|General|noun
+ranch|General|noun
+rank|General|noun
+rapids|General|noun
+rarely|General|adverb
+raspberry|General|noun
+raven|General|noun
+ravine|General|noun
+ravioli|General|noun
+raw|General|adjective
+ray|General|noun
+really|General|adverb
+reason|General|noun
+recently|General|adverb
+recipe|General|noun
+rectangle|General|noun
+reef|General|noun
+reel|General|noun
+refrain|General|noun
+regular|General|adjective
+reindeer|General|noun
+reliable|General|adjective
+relish|General|noun
+rely|General|verb
+result|General|noun
+rhino|General|noun
+rhythm|General|noun
+ribbon|General|noun
+rice cooker|General|noun
+riddle|General|noun
+ridge|General|noun
+rinse|General|verb
+riot|General|noun
+ripen|General|verb
+ripe|General|adjective
+rise|General|verb
+risk|General|noun
+roar|General|verb
+robe|General|noun
+robin|General|noun
+rod|General|noun
+role|General|noun
+roll out|General|verb
+rollers|General|noun
+roll|General|verb
+romantic|General|adjective
+romper|General|noun
+rook|General|noun
+rope|General|noun
+rosemary|General|noun
+rotten|General|adjective
+rot|General|verb
+rowboat|General|noun
+rowing|General|noun
+row|General|verb
+royal|General|adjective
+rubber|General|noun
+ruby|General|noun
+rub|General|verb
+rudder|General|noun
+rugby|General|noun
+rug|General|noun
+ruin|General|noun
+ruler|General|noun
+rule|General|noun
+rush|General|verb
+rustic|General|adjective
+rusty|General|adjective
+rust|General|adjective
+rust|General|noun
+rye|General|noun
+sadly|General|adverb
+safely|General|adverb
+safety|General|noun
+saffron|General|noun
+saga|General|noun
+sage|General|noun
+said|General|noun
+sailboat|General|noun
+sail|General|verb
+sake|General|noun
+salamander|General|noun
+salami|General|noun
+salmon|General|adjective
+salmon|General|noun
+salsa|General|noun
+sandal|General|noun
+sandcastle|General|noun
+sandstone|General|noun
+sapphire|General|noun
+sardine|General|noun
+sari|General|noun
+saucer|General|noun
+savanna|General|noun
+savory|General|adjective
+saxophone|General|noun
+scaffold|General|noun
+scale|General|noun
+scalp|General|noun
+scan|General|verb
+scare|General|verb
+scarlet|General|adjective
+scary|General|adjective
+scatter|General|verb
+scenic|General|adjective
+scentless|General|adjective
+scepter|General|noun
+scone|General|noun
+scoop|General|verb
+scooter|General|noun
+scoreboard|General|noun
+scrapbook|General|noun
+scratch|General|verb
+scrawny|General|adjective
+scream|General|verb
+screw|General|noun
+scrub|General|verb
+sculpture|General|noun
+sculpt|General|verb
+sea turtle|General|noun
+seafood|General|noun
+seagull|General|noun
+seahorse|General|noun
+seal|General|noun
+seam|General|noun
+seashell|General|noun
+season|General|verb
+secret|General|noun
+seedling|General|noun
+seek|General|verb
+seen|General|noun
+selfish|General|adjective
+self|General|noun
+serene|General|adjective
+seriously|General|adverb
+service|General|noun
+sesame|General|noun
+set|General|noun
+sew|General|verb
+shade|General|noun
+shamrock|General|noun
+shape|General|noun
+sharpener|General|noun
+shawl|General|noun
+shed|General|noun
+shed|General|verb
+shelter|General|noun
+she|General|pronoun
+shield|General|noun
+shin guard|General|noun
+shin|General|noun
+shirt pocket|General|noun
+shiver|General|verb
+shoe|General|noun
+shorts|General|noun
+shot|General|noun
+should|General|noun
+shout|General|verb
+shred|General|verb
+shrub|General|noun
+shuffle|General|verb
+shutter|General|noun
+shut|General|verb
+shy|General|adjective
+side|General|noun
+sienna|General|adjective
+sift|General|verb
+sigh|General|verb
+silent|General|adjective
+silk|General|noun
+silly|General|adjective
+silt|General|noun
+simmer|General|verb
+simply|General|adverb
+since|General|noun
+siren|General|noun
+site|General|noun
+situation|General|noun
+skateboard|General|noun
+sketchbook|General|noun
+sketch|General|noun
+skill|General|noun
+skinny|General|adjective
+skip|General|verb
+ski|General|verb
+skunk|General|noun
+slag|General|noun
+slam|General|verb
+slap|General|verb
+slate|General|adjective
+slate|General|noun
+sled|General|noun
+sleepy|General|adjective
+sleet|General|noun
+sleeve|General|noun
+slew|General|verb
+slice|General|noun
+slide|General|verb
+slightly|General|adverb
+slim|General|adjective
+slippers|General|noun
+slippery|General|adjective
+slipper|General|noun
+slip|General|verb
+slope|General|noun
+sloth|General|noun
+slot|General|noun
+slowly|General|adverb
+slug|General|noun
+smelly|General|adjective
+smirk|General|verb
+smog|General|noun
+smoky|General|adjective
+snail|General|noun
+snap|General|verb
+snore|General|verb
+snorkel|General|noun
+snowflake|General|noun
+snowstorm|General|noun
+soak|General|verb
+sob|General|verb
+soccer|General|noun
+society|General|noun
+soda|General|noun
+soggy|General|adjective
+sole|General|adjective
+solo|General|noun
+solution|General|noun
+somehow|General|adverb
+someone|General|pronoun
+something|General|pronoun
+song|General|noun
+soot|General|noun
+sorbet|General|noun
+sort|General|verb
+soul|General|noun
+so|General|conjunction
+space|General|noun
+spacious|General|adjective
+span|General|noun
+sparkler|General|noun
+sparrow|General|noun
+speed|General|noun
+spin|General|verb
+spirit|General|noun
+spit|General|verb
+splash|General|verb
+spoil|General|verb
+spoon|General|noun
+sports hall|General|noun
+spot|General|noun
+spray|General|verb
+sprig|General|noun
+spring water|General|noun
+sprinkler|General|noun
+sprinkle|General|verb
+sprint|General|verb
+sprout|General|noun
+sprout|General|verb
+spur|General|noun
+squeak|General|verb
+squid|General|noun
+squirrel|General|noun
+stable|General|noun
+stab|General|verb
+stack|General|noun
+stain|General|noun
+staircase|General|noun
+stale|General|adjective
+stalk|General|noun
+stamp|General|noun
+stapler|General|noun
+staple|General|verb
+star fish|General|noun
+starfish|General|noun
+starlight|General|noun
+starling|General|noun
+state|General|noun
+steadily|General|adverb
+steak|General|noun
+steel|General|noun
+steep|General|adjective
+stem|General|noun
+steppe|General|noun
+step|General|noun
+stew|General|noun
+sticker|General|noun
+stiff|General|adjective
+stingray|General|noun
+sting|General|verb
+stinky|General|adjective
+stir|General|verb
+stitch|General|verb
+stocking|General|noun
+stocky|General|adjective
+stool|General|noun
+stopwatch|General|noun
+storybook|General|noun
+stout|General|adjective
+stow|General|verb
+strain|General|verb
+strait|General|noun
+strap|General|noun
+stroll|General|verb
+strongly|General|adverb
+stub|General|noun
+stuffy|General|adjective
+stuff|General|verb
+stumble|General|verb
+stump|General|noun
+stun|General|verb
+style|General|noun
+success|General|noun
+such|General|noun
+suck|General|verb
+suddenly|General|adverb
+sudden|General|adjective
+suitcase|General|noun
+suit|General|noun
+summit|General|noun
+sunbeam|General|noun
+sunburn|General|noun
+sundial|General|noun
+sunflower|General|noun
+sunglasses|General|noun
+sunhat|General|noun
+sunk|General|verb
+sunny|General|adjective
+sunscreen|General|noun
+sunshine|General|noun
+superpower|General|noun
+surely|General|adverb
+surfboard|General|noun
+surf|General|verb
+surprise|General|noun
+sushi|General|noun
+swallow|General|verb
+swampy|General|adjective
+swam|General|verb
+swan|General|noun
+swap|General|verb
+swarm|General|verb
+swat|General|verb
+sway|General|verb
+sweatpants|General|noun
+sweatshirt|General|noun
+sweat|General|verb
+swell|General|verb
+swimcap|General|noun
+swimming pool|General|noun
+swing|General|verb
+symbol|General|noun
+syrup|General|noun
+system|General|noun
+tab|General|noun
+taco|General|noun
+tadpole|General|noun
+tag|General|noun
+tale|General|noun
+tambourine|General|noun
+tangle|General|verb
+tangy|General|adjective
+tank top|General|noun
+tank|General|noun
+tan|General|adjective
+tape|General|noun
+tape|General|verb
+tapioca|General|noun
+tart|General|adjective
+taupe|General|adjective
+teal|General|adjective
+teapot|General|noun
+tear|General|noun
+tear|General|verb
+telescope|General|noun
+tender|General|adjective
+tent|General|noun
+term|General|noun
+terrain|General|noun
+terror|General|noun
+text|General|noun
+thank|General|verb
+than|General|conjunction
+that|General|pronoun
+their|General|pronoun
+them|General|pronoun
+then|General|adverb
+thermometer|General|noun
+thermostat|General|noun
+thermos|General|noun
+these|General|pronoun
+they|General|pronoun
+the|General|noun
+thicket|General|noun
+thigh|General|noun
+things|General|noun
+thing|General|noun
+thistle|General|noun
+this|General|pronoun
+those|General|pronoun
+thought|General|noun
+though|General|noun
+thread|General|noun
+thrill|General|noun
+through|General|preposition
+thrush|General|noun
+thumbtack|General|noun
+thunderstorm|General|noun
+thyme|General|noun
+tiara|General|noun
+tide|General|noun
+tidy|General|adjective
+tidy|General|verb
+tie clip|General|noun
+tightly|General|adverb
+tile|General|noun
+till|General|preposition
+timber|General|noun
+tiny|General|adjective
+tin|General|noun
+tire|General|verb
+tissue|General|noun
+title|General|noun
+toadstool|General|noun
+toad|General|noun
+toast|General|noun
+toboggan|General|noun
+told|General|noun
+toll|General|noun
+tombstone|General|noun
+tomb|General|noun
+tone|General|noun
+tongue twister|General|noun
+tong|General|noun
+took|General|noun
+tool|General|noun
+too|General|adverb
+top|General|noun
+torch|General|noun
+tore|General|verb
+torn|General|adjective
+tortilla|General|noun
+tortoise|General|noun
+toss|General|verb
+totally|General|adverb
+tote|General|noun
+toucan|General|noun
+towel|General|noun
+tower|General|noun
+toy|General|noun
+to|General|preposition
+tractor|General|noun
+tradition|General|noun
+tranquil|General|adjective
+trap|General|noun
+trap|General|verb
+tray|General|noun
+treasure|General|noun
+tremble|General|verb
+trench|General|noun
+triangle|General|noun
+trickle|General|verb
+trick|General|noun
+trim|General|verb
+trio|General|noun
+tripod|General|noun
+trombone|General|noun
+trophy|General|noun
+tropical|General|adjective
+trot|General|verb
+trouble|General|noun
+trousers|General|noun
+trout|General|noun
+trudge|General|verb
+truffle|General|noun
+truly|General|adverb
+trumpet|General|noun
+truth|General|noun
+tube|General|noun
+tulip|General|noun
+tumble|General|verb
+tuna|General|noun
+tundra|General|noun
+tune|General|noun
+tunnel|General|noun
+turban|General|noun
+turf|General|noun
+turmeric|General|noun
+turnip|General|noun
+turquoise|General|adjective
+turquoise|General|noun
+turtleneck|General|noun
+tusk|General|noun
+tutu|General|noun
+twice|General|adverb
+twig|General|noun
+twilight|General|noun
+twist|General|verb
+type|General|noun
+typically|General|adverb
+tyre|General|noun
+umber|General|adjective
+underpass|General|noun
+under|General|preposition
+unfortunately|General|adverb
+unpack|General|verb
+until|General|noun
+unwrap|General|verb
+upon|General|preposition
+up|General|adverb
+used|General|adjective
+usually|General|adverb
+vale|General|noun
+valuable|General|adjective
+value|General|noun
+van|General|noun
+variety|General|noun
+vegetable|General|noun
+vent|General|noun
+verse|General|noun
+very|General|adverb
+vest|General|noun
+view|General|noun
+vine|General|noun
+violent|General|adjective
+violet|General|noun
+violin|General|noun
+viper|General|noun
+visor|General|noun
+vivid|General|adjective
+volleyball|General|noun
+vote|General|verb
+vulture|General|noun
+wader|General|noun
+wade|General|verb
+wagon|General|noun
+waist|General|noun
+wake|General|verb
+wallet|General|noun
+walnut|General|noun
+walrus|General|noun
+wand|General|noun
+warbler|General|noun
+wardrobe|General|noun
+warmth|General|noun
+war|General|noun
+wasabi|General|noun
+wasp|General|noun
+watering can|General|noun
+wax|General|verb
+way|General|noun
+wealthy|General|adjective
+weal|General|noun
+weasel|General|noun
+weave|General|verb
+weep|General|verb
+weight|General|noun
+weird|General|adjective
+well|General|adverb
+went|General|verb
+were|General|verb
+wetland|General|noun
+wetsuit|General|noun
+we|General|pronoun
+wharf|General|noun
+what|General|pronoun
+wheat|General|noun
+wheel|General|noun
+when|General|conjunction
+which|General|pronoun
+while|General|conjunction
+whirlwind|General|noun
+whisker|General|noun
+whisk|General|verb
+whistle|General|noun
+whistle|General|verb
+whiteboard|General|noun
+whom|General|pronoun
+whose|General|pronoun
+who|General|pronoun
+why|General|adverb
+widely|General|adverb
+wig|General|noun
+wilderness|General|noun
+willow|General|noun
+will|General|verb
+wilt|General|verb
+windbreaker|General|noun
+windmill|General|noun
+windowsill|General|noun
+wine|General|noun
+wink|General|verb
+wipe|General|verb
+wire|General|noun
+wisely|General|adverb
+wish|General|noun
+wisp|General|noun
+withered|General|adjective
+without|General|preposition
+with|General|preposition
+wobble|General|verb
+wobbly|General|adjective
+women|General|noun
+wooden|General|adjective
+woodpecker|General|noun
+wood|General|noun
+wool|General|noun
+wore|General|verb
+world|General|noun
+worm|General|noun
+worn|General|adjective
+would|General|noun
+wrap|General|verb
+wren|General|noun
+wristband|General|noun
+wrist|General|noun
+writ|General|noun
+xylophone|General|noun
+yacht|General|noun
+yak|General|noun
+yam|General|noun
+yard|General|noun
+yarn|General|noun
+yawn|General|verb
+yell|General|verb
+yoghurt|General|noun
+yolk|General|noun
+yourself|General|pronoun
+your|General|pronoun
+you|General|pronoun
+zeal|General|noun
+zebra|General|noun
+zesty|General|adjective
+zinc|General|noun
+zone|General|noun
+zoo|General|noun
+
+# Greetings
+bless you|Greetings|phrase
+bye|Greetings|interjection
+cheers|Greetings|interjection
+congratulations|Greetings|interjection
+excuse me|Greetings|phrase
+good afternoon|Greetings|phrase
+good evening|Greetings|phrase
+good morning|Greetings|phrase
+good night|Greetings|phrase
+goodbye|Greetings|interjection
+happy birthday|Greetings|phrase
+have a nice day|Greetings|phrase
+hello|Greetings|interjection
+hi|Greetings|interjection
+no|Greetings|adverb
+please|Greetings|interjection
+sorry|Greetings|interjection
+thank you|Greetings|phrase
+thanks|Greetings|noun
+welcome|Greetings|interjection
+yes|Greetings|adverb
+you are welcome|Greetings|phrase
+
+# Health
+ache|Health|noun
+allergy|Health|noun
+altitude sickness|Health|noun
+ambulance|Health|noun
+anxiety disorder|Health|noun
+appointment|Health|noun
+backache|Health|noun
+bandage|Health|noun
+bee sting|Health|noun
+bleed|Health|verb
+bruise|Health|noun
+calorie|Health|noun
+checkup|Health|noun
+chest pain|Health|noun
+clinic|Health|noun
+concussion|Health|noun
+cool down|Health|noun
+cough|Health|noun
+counseling|Health|noun
+cramp|Health|noun
+cure|Health|noun
+cure|Health|verb
+dehydration|Health|noun
+depression|Health|noun
+diagnose|Health|verb
+diet|Health|noun
+dislocation|Health|noun
+dose|Health|noun
+dry skin|Health|noun
+earache|Health|noun
+emergency|Health|noun
+exercise|Health|noun
+fever|Health|noun
+fiber|Health|noun
+fitness|Health|noun
+food poisoning|Health|noun
+frostbite|Health|noun
+green tea|Health|noun
+headache|Health|noun
+healing|Health|noun
+heal|Health|verb
+heatstroke|Health|noun
+herbal tea|Health|noun
+hurt|Health|verb
+hydration|Health|noun
+hygiene|Health|noun
+ill|Health|adjective
+inject|Health|verb
+insect bite|Health|noun
+itching|Health|noun
+jet lag|Health|noun
+joint pain|Health|noun
+knee pad|Health|noun
+lice|Health|noun
+lotion|Health|noun
+medicine|Health|noun
+meditation|Health|noun
+mental health|Health|noun
+migraine|Health|noun
+mineral water|Health|noun
+motion sickness|Health|noun
+muscle pain|Health|noun
+numbness|Health|noun
+nutrition|Health|noun
+occupational therapy|Health|noun
+oily skin|Health|noun
+painkiller|Health|noun
+panic attack|Health|noun
+physical therapy|Health|noun
+pill|Health|noun
+pneumonia|Health|noun
+prescribe|Health|verb
+protein|Health|noun
+recovery|Health|noun
+rest|Health|noun
+runny nose|Health|noun
+scan|Health|noun
+scar|Health|noun
+shortness of breath|Health|noun
+side effect|Health|noun
+snake bite|Health|noun
+sneezing|Health|noun
+sore muscle|Health|noun
+sore throat|Health|noun
+specialist|Health|noun
+speech therapy|Health|noun
+splinter|Health|noun
+stiffness|Health|noun
+stomach ache|Health|noun
+stomachache|Health|noun
+stretcher|Health|noun
+stretching|Health|noun
+stuffy nose|Health|noun
+sunburn|Health|noun
+sunscreen|Health|noun
+surgeon|Health|noun
+syringe|Health|noun
+therapist|Health|noun
+throat|Health|noun
+toothache|Health|noun
+torn ligament|Health|noun
+vaccinate|Health|verb
+vaccine|Health|noun
+vitamin|Health|noun
+vomit|Health|verb
+ward|Health|noun
+warm up|Health|noun
+wart|Health|noun
+watery eyes|Health|noun
+wellness|Health|noun
+wheelchair|Health|noun
+wheezing|Health|noun
+wound|Health|noun
+x-ray|Health|noun
+yoga|Health|noun
+
+# Home
+apartment|Home|noun
+balcony|Home|noun
+bathroom|Home|noun
+bedroom|Home|noun
+bed|Home|noun
+bell|Home|noun
+bin|Home|noun
+blanket|Home|noun
+broom|Home|noun
+bucket|Home|noun
+building|Home|noun
+carpet|Home|noun
+ceiling|Home|noun
+chair|Home|noun
+clock|Home|noun
+closet|Home|noun
+curtain|Home|noun
+doorbell|Home|noun
+door|Home|noun
+drawer|Home|noun
+fence|Home|noun
+floor|Home|noun
+furniture|Home|noun
+garage|Home|noun
+garden|Home|noun
+gate|Home|noun
+home|Home|noun
+house|Home|noun
+key|Home|noun
+kitchen|Home|noun
+lamp|Home|noun
+lock|Home|noun
+mailbox|Home|noun
+mirror|Home|noun
+oven|Home|noun
+pillow|Home|noun
+pipe|Home|noun
+plug|Home|noun
+refrigerator|Home|noun
+roof|Home|noun
+room|Home|noun
+shelf|Home|noun
+shower|Home|noun
+sink|Home|noun
+soap|Home|noun
+sofa|Home|noun
+stairs|Home|noun
+stove|Home|noun
+switch|Home|noun
+table|Home|noun
+tap|Home|noun
+telephone|Home|noun
+toilet|Home|noun
+towel|Home|noun
+trash|Home|noun
+vacuum cleaner|Home|noun
+wall|Home|noun
+washing machine|Home|noun
+window|Home|noun
+
+# IT & Development
+algorithm|IT & Development|noun
+alignment|IT & Development|noun
+api|IT & Development|noun
+app|IT & Development|noun
+array|IT & Development|noun
+attachment|IT & Development|noun
+authenticate|IT & Development|verb
+authorize|IT & Development|verb
+boolean|IT & Development|noun
+branch|IT & Development|noun
+bullet point|IT & Development|noun
+class|IT & Development|noun
+click|IT & Development|verb
+commit|IT & Development|noun
+compiler|IT & Development|noun
+condition|IT & Development|noun
+constant|IT & Development|noun
+copy|IT & Development|verb
+cursor|IT & Development|noun
+decrypt|IT & Development|verb
+delete|IT & Development|verb
+deploy|IT & Development|verb
+download|IT & Development|verb
+drag and drop|IT & Development|verb
+encrypt|IT & Development|verb
+extension|IT & Development|noun
+file|IT & Development|noun
+folder|IT & Development|noun
+font|IT & Development|noun
+footer|IT & Development|noun
+format|IT & Development|noun
+framework|IT & Development|noun
+function|IT & Development|noun
+graph|IT & Development|noun
+header|IT & Development|noun
+highlight|IT & Development|noun
+homepage|IT & Development|noun
+icon|IT & Development|noun
+inbox|IT & Development|noun
+indent|IT & Development|noun
+integer|IT & Development|noun
+interpreter|IT & Development|noun
+italic|IT & Development|adjective
+iterate|IT & Development|verb
+laptop|IT & Development|noun
+library|IT & Development|noun
+loop|IT & Development|noun
+merge|IT & Development|noun
+method|IT & Development|noun
+module|IT & Development|noun
+object|IT & Development|noun
+paste|IT & Development|verb
+pop-up|IT & Development|noun
+print|IT & Development|verb
+pull request|IT & Development|noun
+redo|IT & Development|verb
+refactor|IT & Development|verb
+refresh|IT & Development|verb
+repository|IT & Development|noun
+row|IT & Development|noun
+runtime|IT & Development|noun
+spam|IT & Development|noun
+spreadsheet|IT & Development|noun
+string|IT & Development|noun
+syntax|IT & Development|noun
+tablet|IT & Development|noun
+template|IT & Development|noun
+test|IT & Development|verb
+toolbar|IT & Development|noun
+underline|IT & Development|noun
+undo|IT & Development|verb
+upload|IT & Development|verb
+url|IT & Development|noun
+variable|IT & Development|noun
+wifi|IT & Development|noun
+zoom in|IT & Development|verb
+zoom out|IT & Development|verb
+
+# Nature
+air|Nature|noun
+beach|Nature|noun
+branch|Nature|noun
+bush|Nature|noun
+cave|Nature|noun
+cliff|Nature|noun
+cloud|Nature|noun
+coast|Nature|noun
+desert|Nature|noun
+dew|Nature|noun
+dust|Nature|noun
+earthquake|Nature|noun
+earth|Nature|noun
+feather|Nature|noun
+field|Nature|noun
+fire|Nature|noun
+flood|Nature|noun
+flower|Nature|noun
+fog|Nature|noun
+forest|Nature|noun
+frost|Nature|noun
+fur|Nature|noun
+grass|Nature|noun
+ground|Nature|noun
+hail|Nature|noun
+hill|Nature|noun
+horn|Nature|noun
+ice|Nature|noun
+island|Nature|noun
+jungle|Nature|noun
+lake|Nature|noun
+land|Nature|noun
+leaf|Nature|noun
+lightning|Nature|noun
+moon|Nature|noun
+mountain|Nature|noun
+mud|Nature|noun
+nest|Nature|noun
+ocean|Nature|noun
+park|Nature|noun
+paw|Nature|noun
+petal|Nature|noun
+plant|Nature|noun
+pond|Nature|noun
+rainbow|Nature|noun
+rain|Nature|noun
+river|Nature|noun
+rock|Nature|noun
+root|Nature|noun
+rose|Nature|noun
+sand|Nature|noun
+sea|Nature|noun
+seed|Nature|noun
+shadow|Nature|noun
+shore|Nature|noun
+sky|Nature|noun
+smoke|Nature|noun
+snow|Nature|noun
+soil|Nature|noun
+star|Nature|noun
+stone|Nature|noun
+storm|Nature|noun
+stream|Nature|noun
+sunrise|Nature|noun
+sunset|Nature|noun
+sun|Nature|noun
+swamp|Nature|noun
+tail|Nature|noun
+temperature|Nature|noun
+thorn|Nature|noun
+thunder|Nature|noun
+tree|Nature|noun
+valley|Nature|noun
+volcano|Nature|noun
+waterfall|Nature|noun
+wave|Nature|noun
+weather|Nature|noun
+weed|Nature|noun
+wind|Nature|noun
+wing|Nature|noun
+
+# Numbers
+double|Numbers|adjective
+eighteen|Numbers|noun
+eighty|Numbers|noun
+eight|Numbers|noun
+eleven|Numbers|noun
+fifteen|Numbers|noun
+fifth|Numbers|adjective
+fifty|Numbers|noun
+first|Numbers|adjective
+five|Numbers|noun
+forty|Numbers|noun
+fourteen|Numbers|noun
+fourth|Numbers|adjective
+four|Numbers|noun
+half|Numbers|noun
+hundred|Numbers|noun
+last|Numbers|adjective
+nineteen|Numbers|noun
+ninety|Numbers|noun
+nine|Numbers|noun
+number|Numbers|noun
+one|Numbers|noun
+pair|Numbers|noun
+second|Numbers|adjective
+seventeen|Numbers|noun
+seventy|Numbers|noun
+seven|Numbers|noun
+sixteen|Numbers|noun
+sixty|Numbers|noun
+six|Numbers|noun
+ten|Numbers|noun
+third|Numbers|adjective
+thirteen|Numbers|noun
+thirty|Numbers|noun
+thousand|Numbers|noun
+three|Numbers|noun
+twelve|Numbers|noun
+twenty|Numbers|noun
+two|Numbers|noun
+zero|Numbers|noun
+
+# Project Management
+acceptance test|Project Management|noun
+accountability|Project Management|noun
+agile|Project Management|noun
+blocker|Project Management|noun
+bottleneck|Project Management|noun
+burndown|Project Management|noun
+change management|Project Management|noun
+closure|Project Management|noun
+communication plan|Project Management|noun
+contingency plan|Project Management|noun
+contributor|Project Management|noun
+coordinate|Project Management|verb
+cost variance|Project Management|noun
+critical path|Project Management|noun
+cycle time|Project Management|noun
+daily standup|Project Management|noun
+dashboard|Project Management|noun
+deadline|Project Management|noun
+definition of done|Project Management|noun
+earned value|Project Management|noun
+epic|Project Management|noun
+escalate|Project Management|verb
+estimation|Project Management|noun
+feature|Project Management|noun
+gantt chart|Project Management|noun
+go live|Project Management|noun
+handover|Project Management|noun
+hybrid|Project Management|noun
+lead time|Project Management|noun
+leader|Project Management|noun
+lean|Project Management|noun
+owner|Project Management|noun
+post mortem|Project Management|noun
+product backlog|Project Management|noun
+project charter|Project Management|noun
+project closure|Project Management|noun
+project|Project Management|noun
+resource allocation|Project Management|noun
+resource leveling|Project Management|noun
+responsibility matrix|Project Management|noun
+risk assessment|Project Management|noun
+risk mitigation|Project Management|noun
+risk register|Project Management|noun
+rollout|Project Management|noun
+schedule variance|Project Management|noun
+scope creep|Project Management|noun
+sign off|Project Management|noun
+six sigma|Project Management|noun
+sprint backlog|Project Management|noun
+sprint planning|Project Management|noun
+sprint review|Project Management|noun
+stakeholder map|Project Management|noun
+story point|Project Management|noun
+task|Project Management|noun
+throughput|Project Management|noun
+waterfall|Project Management|noun
+work breakdown structure|Project Management|noun
+
+# Science
+acid|Science|noun
+algae|Science|noun
+alloy|Science|noun
+antibiotic|Science|noun
+bacteria|Science|noun
+base|Science|noun
+biodiversity|Science|noun
+biomass|Science|noun
+catalyst|Science|noun
+cell|Science|noun
+chromosome|Science|noun
+circuit|Science|noun
+combustion|Science|noun
+condensation|Science|noun
+condense|Science|verb
+conservation|Science|noun
+corrosion|Science|noun
+dna|Science|noun
+electron|Science|noun
+epidemiology|Science|noun
+evaporate|Science|verb
+food chain|Science|noun
+food web|Science|noun
+fungus|Science|noun
+gas|Science|noun
+genetics|Science|noun
+gene|Science|noun
+genome|Science|noun
+geothermal|Science|noun
+helium|Science|noun
+hydroelectric|Science|noun
+hypothesize|Science|verb
+ion|Science|noun
+isotope|Science|noun
+kinetic energy|Science|noun
+lab|Science|noun
+liquid|Science|noun
+magnet|Science|noun
+mechanical energy|Science|noun
+microscope|Science|noun
+mixture|Science|noun
+momentum|Science|noun
+mutation|Science|noun
+neutron|Science|noun
+nuclear energy|Science|noun
+nucleus|Science|noun
+oxidation|Science|noun
+pandemic|Science|noun
+parasite|Science|noun
+periodic table|Science|noun
+ph scale|Science|noun
+plankton|Science|noun
+potential energy|Science|noun
+predator|Science|noun
+prey|Science|noun
+proton|Science|noun
+recycle|Science|verb
+renewable energy|Science|noun
+rocket|Science|noun
+solar energy|Science|noun
+solar|Science|adjective
+solute|Science|noun
+solution|Science|noun
+solvent|Science|noun
+spaceship|Science|noun
+specimen|Science|noun
+sublimation|Science|noun
+sustainability|Science|noun
+symbiosis|Science|noun
+telescope|Science|noun
+thermal energy|Science|noun
+vaccine|Science|noun
+vapor|Science|noun
+vapour|Science|noun
+virus|Science|noun
+volt|Science|noun
+wetland|Science|noun
+wind energy|Science|noun
+
+# Shopping
+basket|Shopping|noun
+bill|Shopping|noun
+card|Shopping|noun
+cash|Shopping|noun
+coin|Shopping|noun
+customer|Shopping|noun
+discount|Shopping|noun
+gift|Shopping|noun
+receipt|Shopping|noun
+sale|Shopping|noun
+shop|Shopping|noun
+size|Shopping|noun
+supermarket|Shopping|noun
+
+# Sports
+ball|Sports|noun
+basketball|Sports|noun
+boxing|Sports|noun
+champion|Sports|noun
+coach|Sports|noun
+competition|Sports|noun
+football|Sports|noun
+game|Sports|noun
+goal|Sports|noun
+gym|Sports|noun
+match|Sports|noun
+medal|Sports|noun
+player|Sports|noun
+race|Sports|noun
+referee|Sports|noun
+running|Sports|noun
+score|Sports|noun
+stadium|Sports|noun
+swimming|Sports|noun
+team|Sports|noun
+tennis|Sports|noun
+training|Sports|noun
+winner|Sports|noun
+
+# Technology
+air fryer|Technology|noun
+air purifier|Technology|noun
+antenna|Technology|noun
+artificial intelligence|Technology|noun
+augmented reality|Technology|noun
+battery|Technology|noun
+blender|Technology|noun
+bread maker|Technology|noun
+brightness|Technology|noun
+browse|Technology|verb
+camera|Technology|noun
+carbon monoxide detector|Technology|noun
+ceiling fan|Technology|noun
+charger|Technology|noun
+charge|Technology|verb
+code|Technology|noun
+coffee maker|Technology|noun
+controller|Technology|noun
+dash cam|Technology|noun
+dehumidifier|Technology|noun
+desktop|Technology|noun
+dimmer|Technology|noun
+disk|Technology|noun
+doorbell camera|Technology|noun
+download speed|Technology|noun
+earbuds|Technology|noun
+electric blanket|Technology|noun
+electric kettle|Technology|noun
+electricity|Technology|noun
+email|Technology|noun
+extension cord|Technology|noun
+fitness tracker|Technology|noun
+flash drive|Technology|noun
+food processor|Technology|noun
+gaming console|Technology|noun
+gps tracker|Technology|noun
+hard drive|Technology|noun
+hashtag|Technology|noun
+hdmi cable|Technology|noun
+headset|Technology|noun
+humidifier|Technology|noun
+ice maker|Technology|noun
+inbox|Technology|noun
+joystick|Technology|noun
+juicer|Technology|noun
+machine|Technology|noun
+memory card|Technology|noun
+memory stick|Technology|noun
+message|Technology|noun
+motion sensor|Technology|noun
+movie|Technology|noun
+password|Technology|noun
+photo|Technology|noun
+plug in|Technology|verb
+portable fan|Technology|noun
+post|Technology|verb
+power bank|Technology|noun
+power strip|Technology|noun
+pressure cooker|Technology|noun
+printer|Technology|noun
+radio|Technology|noun
+reboot|Technology|verb
+remote|Technology|noun
+rice cooker|Technology|noun
+ringtone|Technology|noun
+robot|Technology|noun
+screenshot|Technology|noun
+sd card|Technology|noun
+security camera|Technology|noun
+selfie|Technology|noun
+signal|Technology|noun
+sim card|Technology|noun
+slow cooker|Technology|noun
+smart lock|Technology|noun
+smart speaker|Technology|noun
+smart tv|Technology|noun
+smartwatch|Technology|noun
+smoke detector|Technology|noun
+space heater|Technology|noun
+subscribe|Technology|verb
+surge protector|Technology|noun
+swipe|Technology|verb
+sync|Technology|verb
+television|Technology|noun
+thermostat|Technology|noun
+timer|Technology|noun
+toaster|Technology|noun
+touchscreen|Technology|noun
+uninstall|Technology|verb
+unmute|Technology|verb
+unsubscribe|Technology|verb
+upload speed|Technology|noun
+usb cable|Technology|noun
+user|Technology|noun
+video|Technology|noun
+virtual reality|Technology|noun
+voice assistant|Technology|noun
+water filter|Technology|noun
+webcam|Technology|noun
+website|Technology|noun
+wireless charger|Technology|noun
+zoom|Technology|verb
+
+# Time
+April|Time|noun
+August|Time|noun
+December|Time|noun
+February|Time|noun
+Friday|Time|noun
+January|Time|noun
+July|Time|noun
+June|Time|noun
+March|Time|noun
+May|Time|noun
+Monday|Time|noun
+November|Time|noun
+October|Time|noun
+Saturday|Time|noun
+September|Time|noun
+Sunday|Time|noun
+Thursday|Time|noun
+Tuesday|Time|noun
+Wednesday|Time|noun
+afternoon|Time|noun
+after|Time|preposition
+ago|Time|adverb
+already|Time|adverb
+always|Time|adverb
+autumn|Time|noun
+before|Time|preposition
+birthday|Time|noun
+calendar|Time|noun
+date|Time|noun
+day|Time|noun
+during|Time|preposition
+early|Time|adverb
+evening|Time|noun
+holiday|Time|noun
+hour|Time|noun
+later|Time|adverb
+late|Time|adverb
+minute|Time|noun
+month|Time|noun
+morning|Time|noun
+never|Time|adverb
+night|Time|noun
+now|Time|adverb
+o'clock|Time|noun
+often|Time|adverb
+season|Time|noun
+sometimes|Time|adverb
+soon|Time|adverb
+spring|Time|noun
+still|Time|adverb
+summer|Time|noun
+time|Time|noun
+today|Time|adverb
+tomorrow|Time|adverb
+weekend|Time|noun
+week|Time|noun
+winter|Time|noun
+year|Time|noun
+yesterday|Time|adverb
+yet|Time|adverb
+
+# Travel
+abroad|Travel|adverb
+adapter plug|Travel|noun
+adventure|Travel|noun
+airfield|Travel|noun
+airport terminal|Travel|noun
+airport|Travel|noun
+aisle seat|Travel|noun
+aisle|Travel|noun
+all inclusive|Travel|noun
+alley|Travel|noun
+altitude|Travel|noun
+amenity|Travel|noun
+amusement park|Travel|noun
+anchor|Travel|noun
+aquarium|Travel|noun
+audio guide|Travel|noun
+avenue|Travel|noun
+backpack|Travel|noun
+baggage claim|Travel|noun
+balcony room|Travel|noun
+bank|Travel|noun
+beach resort|Travel|noun
+bed and breakfast|Travel|noun
+bellboy|Travel|noun
+bellhop|Travel|noun
+bicycle|Travel|noun
+bike|Travel|noun
+boarding|Travel|noun
+board|Travel|verb
+boat|Travel|noun
+botanical garden|Travel|noun
+boulevard|Travel|noun
+bridge|Travel|noun
+bureau|Travel|noun
+business class|Travel|noun
+bus|Travel|noun
+camping|Travel|noun
+campsite|Travel|noun
+camp|Travel|noun
+carry-on|Travel|noun
+car|Travel|noun
+castle|Travel|noun
+cathedral|Travel|noun
+center|Travel|noun
+chapel|Travel|noun
+check in|Travel|verb
+check out|Travel|verb
+checked bag|Travel|noun
+church|Travel|noun
+city|Travel|noun
+cockpit|Travel|noun
+compass|Travel|noun
+concierge|Travel|noun
+corner|Travel|noun
+country|Travel|noun
+crew|Travel|noun
+crosswalk|Travel|noun
+currency exchange|Travel|noun
+day trip|Travel|noun
+depart|Travel|verb
+disembark|Travel|verb
+dock|Travel|noun
+doorman|Travel|noun
+double room|Travel|noun
+duty free|Travel|noun
+east|Travel|noun
+economy class|Travel|noun
+excursion|Travel|noun
+fare|Travel|noun
+ferry|Travel|noun
+first class|Travel|noun
+flight|Travel|noun
+fountain|Travel|noun
+full board|Travel|noun
+gallery|Travel|noun
+gas station|Travel|noun
+guest|Travel|noun
+guidebook|Travel|noun
+guided tour|Travel|noun
+half board|Travel|noun
+harbor|Travel|noun
+helicopter|Travel|noun
+here|Travel|adverb
+highway|Travel|noun
+hike|Travel|verb
+hitchhike|Travel|verb
+horseback|Travel|noun
+hospital|Travel|noun
+hostel|Travel|noun
+hotel|Travel|noun
+housekeeper|Travel|noun
+housekeeping|Travel|noun
+immigration|Travel|noun
+information desk|Travel|noun
+inn|Travel|noun
+jet lag|Travel|noun
+junction|Travel|noun
+key card|Travel|noun
+king size bed|Travel|noun
+landing|Travel|noun
+landmark|Travel|noun
+lane|Travel|noun
+layover|Travel|noun
+left|Travel|adverb
+library|Travel|noun
+lobby|Travel|noun
+lodge|Travel|noun
+lost and found|Travel|noun
+lounge|Travel|noun
+luggage tag|Travel|noun
+luggage|Travel|noun
+map|Travel|noun
+market|Travel|noun
+minibar|Travel|noun
+mosque|Travel|noun
+motel|Travel|noun
+motorcycle|Travel|noun
+museum|Travel|noun
+north|Travel|noun
+office|Travel|noun
+one way|Travel|noun
+overhead bin|Travel|noun
+overseas|Travel|adverb
+package tour|Travel|noun
+palace|Travel|noun
+parking|Travel|noun
+passenger|Travel|noun
+passport|Travel|noun
+penthouse|Travel|noun
+pharmacy|Travel|noun
+phrase book|Travel|noun
+pier|Travel|noun
+plane|Travel|noun
+police|Travel|noun
+porter|Travel|noun
+post office|Travel|noun
+postcard|Travel|noun
+power converter|Travel|noun
+restaurant|Travel|noun
+return ticket|Travel|noun
+road|Travel|noun
+roaming|Travel|noun
+roam|Travel|verb
+room service|Travel|noun
+roundtrip|Travel|noun
+route|Travel|noun
+rowboat|Travel|noun
+sail|Travel|verb
+school|Travel|noun
+sea view|Travel|noun
+seaside|Travel|noun
+seat belt|Travel|noun
+seatbelt|Travel|noun
+self-guided tour|Travel|noun
+ship|Travel|noun
+sidewalk|Travel|noun
+sightseeing|Travel|noun
+sightsee|Travel|verb
+single room|Travel|noun
+ski resort|Travel|noun
+ski slope|Travel|noun
+sled|Travel|noun
+south|Travel|noun
+station|Travel|noun
+statue|Travel|noun
+store|Travel|noun
+street|Travel|noun
+suitcase|Travel|noun
+suite|Travel|noun
+synagogue|Travel|noun
+takeoff|Travel|noun
+taxi|Travel|noun
+temple|Travel|noun
+tent|Travel|noun
+theme park|Travel|noun
+there|Travel|adverb
+ticket|Travel|noun
+tour|Travel|noun
+town|Travel|noun
+traffic|Travel|noun
+trail|Travel|noun
+train|Travel|noun
+tram|Travel|noun
+transit|Travel|noun
+travel agent|Travel|noun
+travel insurance|Travel|noun
+travel|Travel|noun
+tray table|Travel|noun
+trip|Travel|noun
+truck|Travel|noun
+tunnel|Travel|noun
+turbulence|Travel|noun
+twin bed|Travel|noun
+vacancy|Travel|noun
+vacation|Travel|noun
+valet|Travel|noun
+village|Travel|noun
+water park|Travel|noun
+west|Travel|noun
+where|Travel|adverb
+window seat|Travel|noun
+yacht|Travel|noun
+zoo|Travel|noun
+
+# Work
+accountant|Work|noun
+actor|Work|noun
+artist|Work|noun
+boss|Work|noun
+builder|Work|noun
+business|Work|noun
+cleaner|Work|noun
+company|Work|noun
+dentist|Work|noun
+doctor|Work|noun
+driver|Work|noun
+engineer|Work|noun
+farmer|Work|noun
+firefighter|Work|noun
+job|Work|noun
+journalist|Work|noun
+lawyer|Work|noun
+manager|Work|noun
+mechanic|Work|noun
+meeting|Work|noun
+money|Work|noun
+nurse|Work|noun
+pilot|Work|noun
+police officer|Work|noun
+price|Work|noun
+salary|Work|noun
+secretary|Work|noun
+shop assistant|Work|noun
+singer|Work|noun
+soldier|Work|noun
+waiter|Work|noun
+worker|Work|noun
+writer|Work|noun
+
+# Work & Career
+annual leave|Work & Career|noun
+applicant|Work & Career|noun
+apprentice|Work & Career|noun
+architect|Work & Career|noun
+baker|Work & Career|noun
+barista|Work & Career|noun
+bartender|Work & Career|noun
+break room|Work & Career|noun
+bulletin board|Work & Career|noun
+busboy|Work & Career|noun
+candidate|Work & Career|noun
+carpenter|Work & Career|noun
+cashier|Work & Career|noun
+chef|Work & Career|noun
+concierge|Work & Career|noun
+conference|Work & Career|noun
+consultant|Work & Career|noun
+contractor|Work & Career|noun
+courier|Work & Career|noun
+cover letter|Work & Career|noun
+coworker|Work & Career|noun
+crane operator|Work & Career|noun
+crew|Work & Career|noun
+cubicle|Work & Career|noun
+delegate|Work & Career|verb
+delivery driver|Work & Career|noun
+direct deposit|Work & Career|noun
+dispatcher|Work & Career|noun
+dockworker|Work & Career|noun
+doorman|Work & Career|noun
+downsizing|Work & Career|noun
+duty|Work & Career|noun
+electrician|Work & Career|noun
+fireman|Work & Career|noun
+fisherman|Work & Career|noun
+flight attendant|Work & Career|noun
+florist|Work & Career|noun
+freelancer|Work & Career|noun
+full-time|Work & Career|noun
+groundskeeper|Work & Career|noun
+hairdresser|Work & Career|noun
+hire|Work & Career|verb
+hourly wage|Work & Career|noun
+id badge|Work & Career|noun
+intern|Work & Career|noun
+janitor|Work & Career|noun
+job fair|Work & Career|noun
+job listing|Work & Career|noun
+layoff|Work & Career|noun
+lifeguard|Work & Career|noun
+locksmith|Work & Career|noun
+lumberjack|Work & Career|noun
+maid|Work & Career|noun
+mailman|Work & Career|noun
+maternity leave|Work & Career|noun
+midwife|Work & Career|noun
+miner|Work & Career|noun
+minimum wage|Work & Career|noun
+name tag|Work & Career|noun
+nanny|Work & Career|noun
+occupation|Work & Career|noun
+optician|Work & Career|noun
+painter|Work & Career|noun
+paramedic|Work & Career|noun
+part-time|Work & Career|noun
+pay stub|Work & Career|noun
+paycheck|Work & Career|noun
+pest control|Work & Career|noun
+pet groomer|Work & Career|noun
+pharmacist|Work & Career|noun
+photographer|Work & Career|noun
+plumber|Work & Career|noun
+postal worker|Work & Career|noun
+postman|Work & Career|noun
+punch clock|Work & Career|noun
+rancher|Work & Career|noun
+real estate agent|Work & Career|noun
+receptionist|Work & Career|noun
+roofer|Work & Career|noun
+sailor|Work & Career|noun
+sanitation worker|Work & Career|noun
+seamstress|Work & Career|noun
+security guard|Work & Career|noun
+severance|Work & Career|noun
+shoemaker|Work & Career|noun
+sick leave|Work & Career|noun
+supervise|Work & Career|verb
+supervisor|Work & Career|noun
+tailor|Work & Career|noun
+tattoo artist|Work & Career|noun
+taxi driver|Work & Career|noun
+time sheet|Work & Career|noun
+tour guide|Work & Career|noun
+translator|Work & Career|noun
+truck driver|Work & Career|noun
+tutor|Work & Career|noun
+veterinarian|Work & Career|noun
+wage|Work & Career|noun
+water cooler|Work & Career|noun
+welder|Work & Career|noun
+work permit|Work & Career|noun
+workshop|Work & Career|noun
+zookeeper|Work & Career|noun
