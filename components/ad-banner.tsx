@@ -8,6 +8,9 @@ const RAIL_MIN_WIDTH = 1400;
 let adScript: Promise<void> | undefined;
 function loadAds() {
   return adScript ??= new Promise<void>((resolve, reject) => {
+    // The document head already carries the account's loader for site
+    // verification; queued slots are processed once it finishes loading.
+    if (document.querySelector('script[src*="adsbygoogle.js"]')) return resolve();
     const script = document.createElement('script');
     script.async = true;
     script.crossOrigin = 'anonymous';

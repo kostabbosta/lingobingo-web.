@@ -5,7 +5,7 @@ export const ADSENSE = {
   // Serves Google's test creatives instead of real ones, so verifying the
   // deployed placements cannot generate invalid impressions. Turn off to earn.
   testMode: false,
-  publisherId: '',
+  publisherId: 'ca-pub-4643950745944411',
   slots: { top: '', bottom: '', left: '', right: '' },
 };
 
