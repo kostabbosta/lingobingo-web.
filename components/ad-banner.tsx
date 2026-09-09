@@ -32,13 +32,12 @@ function useRailRoom() {
   return room;
 }
 
-// Google serves nothing on localhost, so `?adpreview=1` draws the reserved space
-// during development instead. A production build ignores the parameter.
+// Ads render nothing until AdSense IDs exist, so `?adpreview=1` draws the space
+// each placement will occupy. Opt-in per visit; ordinary visitors never see it.
 function useLayoutPreview() {
   const [preview, setPreview] = useState(false);
   useEffect(() => {
-    if (process.env.NODE_ENV !== 'production')
-      setPreview(new URLSearchParams(location.search).has('adpreview'));
+    setPreview(new URLSearchParams(location.search).has('adpreview'));
   }, []);
   return preview;
 }
