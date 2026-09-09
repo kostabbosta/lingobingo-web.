@@ -391,6 +391,7 @@ function Classroom() {
         </div>
         <footer>
           <span>LingoBingo English · Vocabulary, grammar & daily practice</span>
+          <a href="/privacy">Privacy Policy</a>
           <a href={PLAY_STORE_URL} target="_blank" rel="noopener noreferrer">Download on Google Play ↗</a>
         </footer>
       </div>
