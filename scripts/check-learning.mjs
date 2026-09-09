@@ -30,7 +30,8 @@ test('older database settings cannot overwrite a confirmed save, but newer setti
  assert.equal(reconcilePreferences({lang_code:'ka',updated_at:100},local,'other@example.com').lang_code,'ka');
 });
 const configURL=moduleURL('export const SUPABASE_URL="https://mock.invalid";export const SUPABASE_ANON_KEY="test-anon";');
-const routeSource=fs.readFileSync('app/api/app/route.ts','utf8').replace('../../../lib/progress',progressURL).replace('../../../lib/supabase-config',configURL);
+const listsURL=moduleURL(fs.readFileSync('lib/word-lists.ts','utf8'));
+const routeSource=fs.readFileSync('app/api/app/route.ts','utf8').replace(/import \{ getCatalog \}[^;]+;/, 'const getCatalog=async()=>'+JSON.stringify(JSON.parse(fs.readFileSync('public/data/words.json','utf8')))+';').replace('../../../lib/word-lists',listsURL).replace('../../../lib/progress',progressURL).replace('../../../lib/supabase-config',configURL);
 const route=await import(moduleURL(routeSource));
 const json=(data,status=200)=>new Response(JSON.stringify(data),{status,headers:{'Content-Type':'application/json'}});
 const request=(body,origin='http://localhost:3000',cookie='lb_access=test-access; lb_refresh=test-refresh')=>new Request('http://localhost:3000/api/app',{method:body?'POST':'GET',headers:{...(origin?{Origin:origin}:{}),'Content-Type':'application/json',Cookie:cookie},body:body?JSON.stringify(body):undefined});
@@ -210,4 +211,17 @@ test('daily statistics use local calendar boundaries and count words, not lifeti
  const now=new Date(2026,8,9,12).getTime(),today=new Date(2026,8,9).getTime();
  assert.deepEqual(dailyStats([{last_reviewed_at:today,created_at:today-1,next_review_at:now+1,times_viewed:30},{last_reviewed_at:today-1,created_at:today-86400000,next_review_at:now},{last_reviewed_at:now,created_at:today,next_review_at:now+1}],now),{practiced:2,newWords:1,due:1});
  assert.deepEqual(dailyStats([],now),{practiced:0,newWords:0,due:0});
+});
+
+test('Android statistics exclude orphaned progress and retain legacy repeat entries',async()=>{
+ const {catalogProgress,resolveRepeats}=await import(listsURL);
+ const rows=[{word_id:17,english_word:'apple',proficiency:100},{word_id:18,english_word:'Word #18',proficiency:100}];
+ assert.equal(catalogProgress([{english:'apple'}],rows).length,1);
+ assert.deepEqual(resolveRepeats([{word_id:17,english_word:null},{word_id:19,english_word:''},{word_id:20,english_word:'APPLE'}],rows),[{word_id:20,english_word:'APPLE'},{word_id:19,english_word:''}]);
+});
+const catalogSource=fs.readFileSync('lib/catalog.ts','utf8').replace(/import base[^;]+;/,"const base=[];").replace(/import snapshot[^;]+;/,"const snapshot={additions:[],deletions:[]};");
+const {mergeCatalog}=await import(moduleURL(catalogSource));
+test('catalog applies Android deletions then additions and preserves existing word IDs',()=>{
+ const rows=mergeCatalog([{id:1,english:'apple',level:'A1'},{id:2,english:'old',level:'A1'}],[{english:'apple',difficulty:5},{english:'new',difficulty:3}],['old']);
+ assert.deepEqual(rows.map(w=>[w.id,w.english,w.level]),[[1,'apple','A1'],[3,'new','B1']]);
 });

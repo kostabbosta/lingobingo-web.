@@ -5,7 +5,7 @@ export type AccountSnapshot = {
   progress: Progress[]; repeat: {word_id: number; english_word: string}[];
 };
 type Storage = Pick<globalThis.Storage, 'getItem' | 'setItem' | 'removeItem'>;
-const key = (email: string) => 'lingobingo:account:v1:' + email.trim().toLowerCase();
+const key = (email: string) => 'lingobingo:account:v2:' + email.trim().toLowerCase();
 export function readAccountCache(storage: Storage, email: string, now = Date.now()): AccountSnapshot | null {
   try {
     const raw = storage.getItem(key(email));

@@ -86,3 +86,31 @@ test('existing lesson examples survive a dictionary outage in any language',asyn
  assert.equal(row.examplesUnavailable,undefined);
  assert.ok(!lessonExamples.sour?.some(sentence => /resource/i.test(sentence) && !/\bsour\b/i.test(sentence)));
 });
+
+test('Georgian fallback handles provider failure, deduplicates requests and caches success',async()=>{
+ let calls=0;
+ globalThis.fetch=async(url)=>{if(String(url).includes('googleapis'))return json({},429);calls++;return json({choices:[{message:{content:JSON.stringify({translation:'პურის საცხობი აპარატი'})}}]});};
+ const values=await Promise.all([api.machineTranslation('bread machine','ka','key'),api.machineTranslation('bread machine','ka','key')]);
+ assert.deepEqual(values,['პურის საცხობი აპარატი','პურის საცხობი აპარატი']);assert.equal(calls,1);
+ assert.equal(await api.machineTranslation('bread machine','ka','key'),values[0]);assert.equal(calls,1);
+});
+test('failed or wrong-script fallback is not cached and can be retried',async()=>{
+ globalThis.fetch=async(url)=>String(url).includes('googleapis')?json({},503):json({choices:[{message:{content:JSON.stringify({translation:'English instead'})}}]});
+ assert.equal(await api.machineTranslation('translation-retry','ka','key'),null);
+ globalThis.fetch=async(url)=>String(url).includes('googleapis')?json({},503):json({choices:[{message:{content:JSON.stringify({translation:'თარგმანი'})}}]});
+ assert.equal(await api.machineTranslation('translation-retry','ka','key'),'თარგმანი');
+});
+test('incomplete shared examples are translated without losing their English text',async()=>{
+ globalThis.fetch=async(url)=>String(url).includes('mock.invalid')?json([{english_word:'test phrase',language:'ka',translation:'სიტყვა',examples:[{english:'This is a test phrase.',translation:null}],status:'reviewed'}]):String(url).includes('googleapis')?json({},403):json({choices:[{message:{content:JSON.stringify({translation:'ეს საცდელი ფრაზაა.'})}}]});
+ const row=await api.vocabularyContent('test phrase','ka','key');
+ assert.equal(row.examples[0].english,'This is a test phrase.');assert.equal(row.examples[0].translation,'ეს საცდელი ფრაზაა.');
+});
+
+test('bread maker and its Georgian example remain available when all providers are offline',async()=>{
+ globalThis.fetch=async()=>{throw Error('offline')};
+ const row=await api.vocabularyContent('bread maker','ka');
+ assert.equal(row.translation,'პურის საცხობი აპარატი');
+ assert.equal(await api.machineTranslation('bread maker','ka'),row.translation);
+ assert.equal(await api.machineTranslation(row.examples[0].english,'ka'),row.examples[0].translation);
+ assert.ok(row.examples[0].translation);
+});

@@ -1,5 +1,15 @@
 [
   {
+    "english_word": "bread maker",
+    "language": "ka",
+    "translation": "პურის საცხობი აპარატი",
+    "examples": [{
+      "english": "I bought a bread maker to bake fresh loaves at home.",
+      "translation": "პურის საცხობი აპარატი ვიყიდე, რომ სახლში ახალი პური გამოვაცხო."
+    }],
+    "status": "draft"
+  },
+  {
     "english_word": "pest control",
     "language": "ru",
     "translation": "борьба с вредителями",

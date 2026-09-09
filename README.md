@@ -53,3 +53,11 @@ Logout clears all browser `lingobingo:` caches, progress, selections, and prefer
 The daily toolbar counts distinct words last practiced today and words first created today using the browser's local calendar date. Due reviews include overdue words. These are word counts, not daily review-event totals (the shared progress table stores lifetime totals). Module accents and 13% tinted cards follow Android DashboardStatsScreens.kt.
 
 The app accepts `https://lingobingoenglish.com` and `https://www.lingobingoenglish.com` for OAuth. Before custom-domain Google sign-in, add each used domain's `/api/auth/callback` URL to the existing Supabase redirect allowlist. DNS and TLS activation must also complete.
+
+## Translation and Android statistics parity
+
+Both translation endpoints now share a provider fallback, cache successful fallback results, reject wrong-script Georgian/Hindi output, and retain retryable errors. The Georgian bread-maker sample is bundled so the reported word and sentence remain available offline.
+
+The catalog applies the same public GitHub additions and deletions as Android, with a bundled version-1451 fallback and five-minute refresh. This snapshot contains 17,898 canonical words; a phone with older/local additions can differ. Account statistics exclude progress that cannot resolve to a current vocabulary word, as Android does. Legacy repeat rows are resolved from that account's progress by ID; unresolved IDs stay counted with a sync notice. No cloud progress is deleted by these display changes. Account cache versions were bumped to replace older statistics.
+
+Personal cross-device parity still requires the same authenticated email and a completed Android cloud sync. The supplied Android display name was not present in cloud user_settings at diagnosis time; exact phone counts have not been independently verified against its signed-in identity.

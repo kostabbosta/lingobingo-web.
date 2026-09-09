@@ -96,6 +96,7 @@ export function WordBrowser({
     );
   return (
     <>
+      {repeatOnly && account?.repeat.some(r => !r.english_word) && <div className="notice" role="status">{account.repeat.filter(r => !r.english_word).length} saved Android entries still need their word text synced. Open Repeat Words in Android and sync your account to make them available here.</div>}
       <div className="filters">
         <label className="search-input">
           <Search size={18} />

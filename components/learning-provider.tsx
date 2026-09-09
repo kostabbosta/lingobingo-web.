@@ -158,7 +158,7 @@ function useLearningState() {
   useEffect(() => {
     const ac = new AbortController();
     Promise.all(
-      ['/data/words.json', '/data/content.json'].map(async (url) => {
+      ['/api/catalog', '/data/content.json'].map(async (url) => {
         const r = await fetch(url, { signal: ac.signal });
         if (!r.ok)
           throw Error(

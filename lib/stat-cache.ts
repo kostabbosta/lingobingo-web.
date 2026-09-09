@@ -1,4 +1,4 @@
-const prefix = 'lingobingo:mastered:v1:';
+const prefix = 'lingobingo:mastered:v2:';
 export function readMastered(storage: Pick<Storage, 'getItem'>, email: string): number | null {
   try {
     const value = JSON.parse(storage.getItem(prefix + email) || 'null');

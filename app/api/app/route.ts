@@ -1,4 +1,6 @@
 import { SUPABASE_URL, SUPABASE_ANON_KEY } from '../../../lib/supabase-config';
+import { getCatalog } from '../../../lib/catalog';
+import { catalogProgress, resolveRepeats } from '../../../lib/word-lists';
 import {
   nextProgress,
   latestByWord,
@@ -166,7 +168,7 @@ export async function GET(req: Request) {
     if (new URL(req.url).searchParams.get('identity') === '1') {
       return reply({ email }, req, refreshed);
     }
-    const [progress, settings, repeat] = await Promise.all([
+    const [progress, settings, repeat, catalog] = await Promise.all([
       readAllProgress(
         (q) => upstream('/rest/v1/user_progress?' + q, token),
         email,
@@ -177,6 +179,7 @@ export async function GET(req: Request) {
           filter(email, { select: 'word_id,english_word', limit: '10000' }),
         token,
       ),
+      getCatalog(),
     ]);
     return reply(
       {
@@ -188,9 +191,9 @@ export async function GET(req: Request) {
             s.user.user_metadata?.full_name ||
             email.split('@')[0],
         },
-        progress: latestByWord(progress),
+        progress: catalogProgress(catalog, latestByWord(progress)),
         settings: settings[0] || {},
-        repeat: repeat.filter((row: {english_word?: string}) => row.english_word?.trim()),
+        repeat: resolveRepeats(repeat, progress),
       },
       req,
       refreshed,

@@ -1,12 +1,11 @@
 import { vocabularyContent } from '../../../lib/vocabulary-content';
 import { LANGUAGES } from '../../../lib/learning';
-import words from '../../../public/data/words.json';
-const knownWords = new Set(words.map(word => word.english.toLowerCase()));
+import { getCatalog } from '../../../lib/catalog';
 export async function GET(req: Request) {
   const q = new URL(req.url).searchParams, word = q.get('word')?.trim() ?? '', language = q.get('lang') ?? 'hi';
   if (!word || word.length > 120 || !LANGUAGES.some(([code]) => code === language)) return Response.json({error:'Choose a vocabulary word and supported language.'},{status:400});
   let generationKey = '';
-  if (knownWords.has(word.toLowerCase())) {
+  if ((await getCatalog()).some(row => row.english.toLowerCase() === word.toLowerCase())) {
     try { const {env} = await import('cloudflare:workers'); generationKey = (env as unknown as {GROQ_API_KEY?: string}).GROQ_API_KEY ?? ''; } catch { /* Non-worker runtime. */ }
     generationKey ||= process.env.GROQ_API_KEY ?? '';
   }
