@@ -34,6 +34,7 @@ import {
 } from '../components/content-views';
 import { LEVELS, LANGUAGES } from '../lib/learning';
 import { DailyStats } from '../components/daily-stats';
+import { AdBanner } from '../components/ad-banner';
 import { PLAY_STORE_URL } from '../lib/site';
 const moduleColors: Record<string, string> = {
   'Learn Words': '#2196F3', Quiz: '#9C27B0', Grammar: '#4CAF50', Categories: '#FF9800',
@@ -92,10 +93,13 @@ function Classroom() {
     saves,
     retrySave,
     refresh,
+    selectedWord,
   } = useLearning();
   const progress = account?.progress || [],
     mastered = progress.filter((p) => p.proficiency >= 80).length,
-    reviews = progress.reduce((n, p) => n + p.times_viewed, 0);
+    reviews = progress.reduce((n, p) => n + p.times_viewed, 0),
+    // Sign In stays ad-free: AdSense treats a bare authentication screen as a page without content.
+    showAds = !loading && !dataError && !selectedWord && view !== 'Sign In';
   useEffect(() => {
     const registry = (
       document as unknown as {
@@ -235,6 +239,9 @@ function Classroom() {
             </button>
           </div>
         </header>
+        {showAds && <AdBanner placement="top" />}
+        <div className="classroom-row">
+        {showAds && <AdBanner placement="left" />}
         <main style={{ '--module-accent': moduleColors[view] || '#2196F3' } as React.CSSProperties}>
           <DailyStats />
           <div className="page-heading">
@@ -378,7 +385,10 @@ function Classroom() {
               {view === 'Achievements' && <ProgressView achievements />}
             </>
           )}
+          {showAds && <AdBanner placement="bottom" />}
         </main>
+        {showAds && <AdBanner placement="right" />}
+        </div>
         <footer>
           <span>LingoBingo English · Vocabulary, grammar & daily practice</span>
           <a href={PLAY_STORE_URL} target="_blank" rel="noopener noreferrer">Download on Google Play ↗</a>
