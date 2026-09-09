@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: { type: 'website', url: SITE_URL, siteName: 'LingoBingo English', title: SITE_TITLE, description: SITE_DESCRIPTION, locale: 'en_US' },
   twitter: { card: 'summary', title: SITE_TITLE, description: SITE_DESCRIPTION },
   robots: { index: true, follow: true },
-  icons: { icon: '/logo.png' },
+  icons: { icon: { url: '/favicon.svg?v=2', type: 'image/svg+xml' }, apple: '/logo.png' },
 };
 const structuredData = {
   '@context': 'https://schema.org',

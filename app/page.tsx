@@ -149,7 +149,7 @@ function Classroom() {
     <div className="app-shell">
       <aside className="sidebar">
         <a href="/" className="brand">
-          <img src="/logo.png" alt="" />
+          <img src="/brand-logo.svg" alt="" />
           <span>
             Lingo<b>Bingo</b>
             <small>ENGLISH</small>

@@ -72,12 +72,13 @@ p {
 .brand {
   display: flex;
   align-items: center;
-  gap: 9px;
-  margin: 0 7px 46px;
+  gap: 6px;
+  margin: 0 0 32px;
 }
 .brand img {
-  width: 44px;
-  height: 44px;
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
   object-fit: contain;
   border-radius: 12px;
 }
@@ -659,8 +660,8 @@ footer {
     margin: 0;
   }
   .brand img {
-    width: 32px;
-    height: 32px;
+    width: 48px;
+    height: 48px;
   }
   .brand > span {
     font-size: 20px;
