@@ -61,8 +61,11 @@ p {
 }
 .sidebar {
   width: 244px;
-  position: fixed;
-  inset: 0 auto 0 0;
+  flex: 0 0 244px;
+  /* Only as tall as one screen, so the panel scrolls away with the page
+     instead of stretching down a long article. */
+  align-self: flex-start;
+  min-height: 100vh;
   background: #fff;
   border-right: 1px solid #e7ebf2;
   display: flex;
@@ -178,8 +181,8 @@ p {
   margin-top: 5px;
 }
 .main-shell {
-  margin-left: 244px;
-  width: calc(100% - 244px);
+  flex: 1;
+  min-width: 0;
 }
 .topbar {
   height: 85px;
@@ -582,12 +585,9 @@ footer {
 @media (max-width: 1200px) {
   .sidebar {
     width: 210px;
+    flex-basis: 210px;
     padding-left: 13px;
     padding-right: 13px;
-  }
-  .main-shell {
-    margin-left: 210px;
-    width: calc(100% - 210px);
   }
   main {
     padding: 30px 25px;
@@ -651,6 +651,7 @@ footer {
     z-index: 10;
     width: 100%;
     height: auto;
+    min-height: 0;
     padding: 12px 16px;
     border-bottom: 1px solid #e7ebf2;
     border-right: 0;
