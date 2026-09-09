@@ -12,8 +12,10 @@ progress, and the active practice, quiz, reading and puzzle screens — shows al
 four. No timers refresh ads. The script loads once per page, and blocked ads do
 not interrupt learning. Nothing loads while unconfigured.
 
-Each placement is independent: a slot ID left empty in `lib/ads.ts` simply does
-not render, so the site can start with fewer units than four.
+Each placement is independent. A slot ID left empty in `lib/ads.ts` reserves its
+space with a labelled placeholder instead of an ad unit, so the layout is
+visible before the account is live; filling the ID in swaps the placeholder for
+the real unit with no other change.
 
 ## Activate
 

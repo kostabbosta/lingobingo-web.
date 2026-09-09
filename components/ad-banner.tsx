@@ -32,22 +32,14 @@ function useRailRoom() {
   return room;
 }
 
-// Ads render nothing until AdSense IDs exist, so `?adpreview=1` draws the space
-// each placement will occupy. Opt-in per visit; ordinary visitors never see it.
-function useLayoutPreview() {
-  const [preview, setPreview] = useState(false);
-  useEffect(() => {
-    setPreview(new URLSearchParams(location.search).has('adpreview'));
-  }, []);
-  return preview;
-}
+// AdSense serves nothing until the account IDs are filled in, so every
+// placement reserves its space in the meantime rather than collapsing.
 
 export function AdBanner({ placement = 'bottom' }: { placement?: AdPlacement }) {
   const slot = useRef<HTMLModElement>(null);
   const requested = useRef(false);
   const [failed, setFailed] = useState(false);
   const railRoom = useRailRoom();
-  const preview = useLayoutPreview();
   const vertical = placement === 'left' || placement === 'right';
   const live = adsConfigured(placement);
   const enabled = live && (!vertical || railRoom);
@@ -77,11 +69,11 @@ export function AdBanner({ placement = 'bottom' }: { placement?: AdPlacement }) 
   }, [enabled]);
 
   if (vertical && !railRoom) return null;
-  if (preview && !live)
+  if (!live)
     return (
       <aside className={`ad-banner ad-${placement}`} aria-label="Advertisement">
         <span className="ad-label">Advertisement</span>
-        <div className="ad-placeholder">{placement} · {vertical ? '160×600' : 'responsive'}</div>
+        <div className="ad-placeholder" />
       </aside>
     );
   if (!enabled || failed) return null;
