@@ -32,13 +32,26 @@ function useRailRoom() {
   return room;
 }
 
+// Google serves nothing on localhost, so `?adpreview=1` draws the reserved space
+// during development instead. A production build ignores the parameter.
+function useLayoutPreview() {
+  const [preview, setPreview] = useState(false);
+  useEffect(() => {
+    if (process.env.NODE_ENV !== 'production')
+      setPreview(new URLSearchParams(location.search).has('adpreview'));
+  }, []);
+  return preview;
+}
+
 export function AdBanner({ placement = 'bottom' }: { placement?: AdPlacement }) {
   const slot = useRef<HTMLModElement>(null);
   const requested = useRef(false);
   const [failed, setFailed] = useState(false);
   const railRoom = useRailRoom();
+  const preview = useLayoutPreview();
   const vertical = placement === 'left' || placement === 'right';
-  const enabled = adsConfigured(placement) && (!vertical || railRoom);
+  const live = adsConfigured(placement);
+  const enabled = live && (!vertical || railRoom);
 
   useEffect(() => {
     if (!enabled) return;
@@ -64,13 +77,22 @@ export function AdBanner({ placement = 'bottom' }: { placement?: AdPlacement }) 
     return () => { cancelled = true; observer?.disconnect(); };
   }, [enabled]);
 
+  if (vertical && !railRoom) return null;
+  if (preview && !live)
+    return (
+      <aside className={`ad-banner ad-${placement}`} aria-label="Advertisement">
+        <span className="ad-label">Advertisement</span>
+        <div className="ad-placeholder">{placement} · {vertical ? '160×600' : 'responsive'}</div>
+      </aside>
+    );
   if (!enabled || failed) return null;
   return (
     <aside className={`ad-banner ad-${placement}`} aria-label="Advertisement">
       <span className="ad-label">Advertisement</span>
       <ins ref={slot} className="adsbygoogle" style={{ display: 'block' }}
         data-ad-client={ADSENSE.publisherId} data-ad-slot={ADSENSE.slots[placement]}
-        data-ad-format={vertical ? 'vertical' : 'horizontal'} data-full-width-responsive="false" />
+        data-ad-format={vertical ? 'vertical' : 'horizontal'} data-full-width-responsive="false"
+        data-adtest={ADSENSE.testMode ? 'on' : undefined} />
     </aside>
   );
 }

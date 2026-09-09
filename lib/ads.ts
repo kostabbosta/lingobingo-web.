@@ -2,6 +2,9 @@
 // Enable only after site approval and the account's consent message are ready.
 export const ADSENSE = {
   enabled: false,
+  // Serves Google's test creatives instead of real ones, so verifying the
+  // deployed placements cannot generate invalid impressions. Turn off to earn.
+  testMode: false,
   publisherId: '',
   slots: { top: '', bottom: '', left: '', right: '' },
 };
