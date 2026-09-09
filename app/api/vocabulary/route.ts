@@ -5,11 +5,12 @@ export async function GET(req: Request) {
   const q = new URL(req.url).searchParams, word = q.get('word')?.trim() ?? '', language = q.get('lang') ?? 'hi';
   if (!word || word.length > 120 || !LANGUAGES.some(([code]) => code === language)) return Response.json({error:'Choose a vocabulary word and supported language.'},{status:400});
   let generationKey = '';
-  if ((await getCatalog()).some(row => row.english.toLowerCase() === word.toLowerCase())) {
+  const entry = (await getCatalog()).find(row => row.english.toLowerCase() === word.toLowerCase());
+  if (entry) {
     try { const {env} = await import('cloudflare:workers'); generationKey = (env as unknown as {GROQ_API_KEY?: string}).GROQ_API_KEY ?? ''; } catch { /* Non-worker runtime. */ }
     generationKey ||= process.env.GROQ_API_KEY ?? '';
   }
-  const content = await vocabularyContent(word,language,generationKey);
+  const content = await vocabularyContent(word,language,generationKey,entry && {pos:entry.pos,category:entry.category,level:entry.level});
   const complete = !!content.translation && content.examples.length > 0 && content.examples.every(e => e.translation);
   return Response.json(content,{headers:{'Cache-Control': complete ? 'public, max-age=3600' : 'no-store'}});
 }
