@@ -34,6 +34,7 @@ import {
 } from '../components/content-views';
 import { LEVELS, LANGUAGES } from '../lib/learning';
 import { DailyStats } from '../components/daily-stats';
+import { PLAY_STORE_URL } from '../lib/site';
 const moduleColors: Record<string, string> = {
   'Learn Words': '#2196F3', Quiz: '#9C27B0', Grammar: '#4CAF50', Categories: '#FF9800',
   Sentences: '#3F51B5', 'Write Practice': '#FF5722', 'Word Games': '#FFA000', Reading: '#009688',
@@ -201,6 +202,10 @@ function Classroom() {
             Your classroom <span>/</span> <strong>{view}</strong>
           </span>
           <div className="top-actions">
+            <a className="android-download" href={PLAY_STORE_URL} target="_blank" rel="noopener noreferrer" aria-label="Download LingoBingo for Android on Google Play (opens in a new tab)">
+              <img src="/android.svg" width="24" height="24" alt="" />
+              <span>Get the Android app</span>
+            </a>
             <button
               className="search-button"
               onClick={() => navigate('Categories')}
@@ -236,11 +241,11 @@ function Classroom() {
             <div>
               <div className="eyebrow">LET’S KEEP LEARNING</div>
               <h1>
-                {view === 'Dashboard' ? 'Your next word starts here.' : view}
+                {view === 'Dashboard' ? 'Learn English, one word at a time.' : view}
               </h1>
               <p>
                 {view === 'Dashboard'
-                  ? 'Small steps today. More confident English tomorrow.'
+                  ? 'Build your English vocabulary with flashcards, grammar lessons, quizzes, and daily practice from A1 to C2.'
                   : view === 'Sign In'
                     ? 'One account. Your progress, wherever you learn.'
                     : `${level} · ${LEVELS.find((l) => l[0] === level)?.[1] || 'English learning'}`}
@@ -375,7 +380,8 @@ function Classroom() {
           )}
         </main>
         <footer>
-          LingoBingo English <span>One word at a time.</span>
+          <span>LingoBingo English · Vocabulary, grammar & daily practice</span>
+          <a href={PLAY_STORE_URL} target="_blank" rel="noopener noreferrer">Download on Google Play ↗</a>
         </footer>
       </div>
     </div>

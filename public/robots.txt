@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /signin-with-chatgpt
+
+Sitemap: https://lingobingoenglish.com/sitemap.xml

@@ -1,0 +1,4 @@
+Android icon from Simple Icons (CC0):
+https://github.com/simple-icons/simple-icons/blob/develop/icons/android.svg
+https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+Android is a trademark of Google LLC.

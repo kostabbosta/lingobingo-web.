@@ -1409,3 +1409,11 @@ main > .page-heading { border-left: 4px solid var(--module-accent); padding-left
 .daily-stats-title span { color: #43516a; }
 .daily-stats > .text-button { margin-left: auto; }
 @media (max-width: 640px) { .daily-stats { gap: 16px; } .daily-stats-title { width: 100%; } .daily-stats > .text-button { margin-left: 0; } }
+.android-download { display: inline-flex; align-items: center; justify-content: center; gap: 8px; background: #12372a; color: #fff; padding: 10px 13px; border-radius: 8px; font-size: 14px; font-weight: 700; min-height: 44px; flex-shrink: 0; }
+.android-download img { filter: invert(85%) sepia(42%) saturate(845%) hue-rotate(77deg) brightness(96%) contrast(85%); }
+.android-download:hover { background: #205b43; }
+.topbar { height: auto; min-height: 76px; padding-top: 12px; padding-bottom: 12px; flex-wrap: wrap; gap: 12px; }
+.top-actions { flex-wrap: wrap; }
+footer { flex-wrap: wrap; gap: 12px; }
+footer a { color: #205b43; font-weight: 700; }
+@media (max-width: 700px) { .android-download { flex: 1 0 100%; } .top-actions { justify-content: space-between; } }
