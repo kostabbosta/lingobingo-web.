@@ -1,16 +1,39 @@
 import seed from '../public/data/vocabulary-hi.json';
 import phrases from '../public/data/vocabulary-phrases.json';
 import lessonExamples from '../public/data/vocabulary-examples.json';
-import { generateExample } from './example-generator';
+import { generateExample, generateDefinition } from './example-generator';
 import { SUPABASE_URL, SUPABASE_ANON_KEY } from './supabase-config';
 const bundledContent = [...seed, ...phrases];
+export type VocabularyDefinition = { partOfSpeech: string; definition: string; translation: string | null };
 export type VocabularyContent = {
   english_word: string; language: string; translation: string | null;
   examples: { english: string; translation: string | null }[];
+  definitions?: VocabularyDefinition[];
+  phonetic?: string;
+  generatedDefinition?: boolean;
   examplesUnavailable?: boolean;
   generatedExample?: boolean;
   status: 'reviewed' | 'draft' | 'machine' | 'missing';
 };
+type DictionaryEntry = { examples: string[]; definitions: { partOfSpeech: string; definition: string }[]; phonetic?: string; unavailable: boolean };
+// One request serves both the meaning panel and the example sentences, matching
+// the dictionary the Android app reads.
+async function dictionaryEntry(word: string): Promise<DictionaryEntry> {
+  try {
+    const r = await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(word), { signal: AbortSignal.timeout(7000) });
+    if (!r.ok) return { examples: [], definitions: [], unavailable: r.status !== 404 };
+    const entries = await r.json() as { phonetic?: string; meanings?: { partOfSpeech?: string; definitions?: { definition?: string; example?: string }[] }[] }[];
+    const flat = entries.flatMap(e => (e.meanings ?? []).flatMap(m => (m.definitions ?? []).map(d => ({
+      partOfSpeech: (m.partOfSpeech ?? '').trim(), definition: (d.definition ?? '').trim(), example: (d.example ?? '').trim(),
+    }))));
+    return {
+      examples: [...new Set(flat.map(d => d.example).filter(Boolean))].slice(0, 2),
+      definitions: flat.filter(d => d.definition).slice(0, 2).map(({ partOfSpeech, definition }) => ({ partOfSpeech, definition })),
+      phonetic: entries.map(e => e.phonetic?.trim()).find(Boolean),
+      unavailable: false,
+    };
+  } catch { return { examples: [], definitions: [], unavailable: true }; }
+}
 export function cleanTranslation(value: unknown, language: string): string | null {
   if (typeof value !== 'string' || !value.trim()) return null;
   if (language === 'hi' && !/[\u0900-\u097f]/u.test(value)) return null;
@@ -123,6 +146,8 @@ export async function vocabularyContent(word: string, language: string, generati
   } catch { /* Bundled content and machine translations remain available. */ }
   const bundled = normalizeContent(bundledContent.find(row => row.english_word === key && row.language === language),word,language);
   if (bundled) return bundled;
+  // Starts now so the lookup overlaps the translation rather than following it.
+  const dictionaryPromise = dictionaryEntry(key);
   // An example already held locally disambiguates the word at no extra latency.
   const localExample = shared?.examples[0]?.english ?? bundledContent.find(row => row.english_word === key)?.examples[0]?.english
     ?? (lessonExamples as Record<string, string[]>)[key]?.[0];
@@ -137,17 +162,27 @@ export async function vocabularyContent(word: string, language: string, generati
     const sentence = await generateExample(key, generationKey);
     if (sentence) { examples = [sentence]; generatedExample = true; }
   }
-  if (!examples.length) try {
-    const r = await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(key), {signal:AbortSignal.timeout(7000)});
-    if (r.ok) {
-      const entries = await r.json() as {meanings?:{definitions?:{example?:string}[]}[]}[];
-      examples = [...new Set(entries.flatMap(e => e.meanings ?? []).flatMap(m => m.definitions ?? []).map(d => d.example).filter((s): s is string => typeof s === 'string' && !!s.trim()))].slice(0,2);
-    } else if (r.status !== 404) { examplesUnavailable = true; }
-  } catch { examplesUnavailable = true; }
+  const entry = await dictionaryPromise;
+  if (!examples.length) { examples = entry.examples; examplesUnavailable = entry.unavailable && !examples.length; }
+  let definitions = entry.definitions;
+  let generatedDefinition = false;
+  if (!definitions.length && generationKey) {
+    const written = await generateDefinition(key, context?.pos ?? '', generationKey);
+    if (written) { definitions = [{ partOfSpeech: context?.pos ?? '', definition: written }]; generatedDefinition = true; }
+  }
   // Settle the headword first so its examples render it the same way, rather
   // than each sentence inventing its own wording for the word being learned.
   const translation = await translationPromise;
-  const translatedExamples = await Promise.all(examples.map(async english => ({english,translation:shared?.examples.find(e => e.english === english)?.translation
-    || await machineTranslation(english,language,generationKey,{ ...context, term: word, termTranslation: translation ?? undefined })})));
-  return {english_word:word,language,translation,examples:translatedExamples,status:translation ? 'machine' : 'missing', ...(examplesUnavailable ? {examplesUnavailable:true} : {}), ...(generatedExample ? {generatedExample:true} : {})};
+  const senseContext = { ...context, term: word, termTranslation: translation ?? undefined };
+  const [translatedExamples, translatedDefinitions] = await Promise.all([
+    Promise.all(examples.map(async english => ({english,translation:shared?.examples.find(e => e.english === english)?.translation
+      || await machineTranslation(english,language,generationKey,senseContext)}))),
+    // A definition explains the word rather than using it, so it is translated
+    // without the headword's rendering pinned into it.
+    Promise.all(definitions.map(async d => ({...d, translation: await machineTranslation(d.definition,language,generationKey,context)}))),
+  ]);
+  return {english_word:word,language,translation,examples:translatedExamples,status:translation ? 'machine' : 'missing',
+    ...(translatedDefinitions.length ? {definitions:translatedDefinitions} : {}), ...(entry.phonetic ? {phonetic:entry.phonetic} : {}),
+    ...(generatedDefinition ? {generatedDefinition:true} : {}),
+    ...(examplesUnavailable ? {examplesUnavailable:true} : {}), ...(generatedExample ? {generatedExample:true} : {})};
 }

@@ -30,6 +30,15 @@ export function ParallelVocabulary({ word }: { word: string }) {
       <label><input type="checkbox" checked={show} onChange={e=>{setShow(e.target.checked);try{localStorage.setItem('lingobingo:parallel-visible',String(e.target.checked));}catch{}}}/> Show {name} translations</label>
     </div>
     {pair(word,content?.translation)}
+    {content?.phonetic && <p className="word-phonetic">{content.phonetic}</p>}
+    <h3>Meaning</h3>
+    {content?.definitions?.length
+      ? content.definitions.map(entry => <div className="word-definition" key={entry.definition}>
+          <p lang="en">{entry.partOfSpeech ? <span className="definition-pos">{entry.partOfSpeech}</span> : null}{entry.definition}</p>
+          {show && <p lang={entry.translation ? language : 'en'} dir={language==='ar'?'rtl':'auto'} className="definition-translation">{entry.translation || 'Translation unavailable'}</p>}
+        </div>)
+      : <p role="status">{content ? 'No meaning is available for this word yet.' : 'Loading meaning…'}</p>}
+    {content?.generatedDefinition && <p className="small-note">AI-written definition.</p>}
     <h3>Example sentences</h3>
     {content?.examples.map(example=><div key={example.english}>{pair(example.english,example.translation)}</div>)}
     {content && !content.examples.length && <p>{content.examplesUnavailable ? 'The example service is temporarily unavailable. Please try again.' : 'No example sentence is available for this word yet.'} <button type="button" className="text-button" aria-label="Refresh example sentences" onClick={()=>setRetry(n=>n+1)}>Refresh</button></p>}

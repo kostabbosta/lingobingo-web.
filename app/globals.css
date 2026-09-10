@@ -9,6 +9,11 @@
 .parallel-pair { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 1rem; border-top: 1px solid #e5eaf1; padding: .75rem 0; }
 .parallel-pair p { margin: 0; overflow-wrap: anywhere; font-size: 1.125rem; line-height: 1.8; }
 .parallel-pair.english-only { grid-template-columns: minmax(0,1fr); }
+.word-phonetic { color: #7b8ba3; font-size: 1rem; margin: .25rem 0 0; }
+.word-definition { border-top: 1px solid #e5eaf1; padding: .75rem 0; }
+.word-definition p { margin: 0; font-size: 1.0625rem; line-height: 1.7; overflow-wrap: anywhere; }
+.definition-pos { display: inline-block; margin-right: .5rem; color: #2865c5; font-weight: 700; font-size: .8125rem; text-transform: uppercase; letter-spacing: .5px; }
+.definition-translation { color: #43516a; margin-top: .35rem !important; }
 @media(max-width: 640px) { .parallel-pair { grid-template-columns: minmax(0,1fr); gap: .35rem; } }
 :root {
   font-family: Arial, Helvetica, sans-serif;
