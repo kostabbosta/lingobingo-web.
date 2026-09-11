@@ -5,6 +5,8 @@ import {
   ArrowRight,
   Bookmark,
   Check,
+  Pause,
+  Play,
   RotateCcw,
   Search,
   Volume2,
@@ -233,6 +235,7 @@ export function WordPractice({
     [meaning, setMeaning] = useState(''),
     [error, setError] = useState(''),
     [revealed, setRevealed] = useState(false),
+    [autoplay, setAutoplay] = useState(false),
     [busy, setBusy] = useState(false),
     [feedback, setFeedback] = useState(''),
     [answer, setAnswer] = useState(''),
@@ -345,6 +348,32 @@ export function WordPractice({
     }
     setIndex((i) => i + 1);
   }
+  // Hands-free study: say the word, show what it means, move on. Stops the
+  // moment the tab is hidden, the way the Android session stops in background.
+  useEffect(() => {
+    if (!autoplay || quiz || write || done || !word) return;
+    let cancelled = false;
+    try { speak(word.english); } catch { setAutoplay(false); return; }
+    const reveal = window.setTimeout(() => { if (!cancelled) setRevealed(true); }, 1800);
+    const advance = window.setTimeout(() => { if (!cancelled) next(); }, 5400);
+    return () => { cancelled = true; window.clearTimeout(reveal); window.clearTimeout(advance); };
+  }, [autoplay, word, done, quiz, write]);
+  useEffect(() => {
+    if (!autoplay) return;
+    const stopWhenHidden = () => { if (document.hidden) setAutoplay(false); };
+    document.addEventListener('visibilitychange', stopWhenHidden);
+    // A learner listening across the room should not watch the screen sleep.
+    let sentinel: { release: () => Promise<void> } | null = null;
+    let done = false;
+    const lock = (navigator as Navigator & { wakeLock?: { request: (t: string) => Promise<{ release: () => Promise<void> }> } }).wakeLock;
+    lock?.request('screen').then(s => { if (done) void s.release().catch(() => {}); else sentinel = s; }).catch(() => {});
+    return () => {
+      done = true;
+      document.removeEventListener('visibilitychange', stopWhenHidden);
+      void sentinel?.release().catch(() => {});
+      try { window.speechSynthesis?.cancel(); } catch { /* Nothing was speaking. */ }
+    };
+  }, [autoplay]);
   if (!word) return <div className="panel empty">Preparing your words…</div>;
   if (done)
     return (
@@ -391,6 +420,17 @@ export function WordPractice({
         <span>
           {level} · {index + 1} / {queue.length}
         </span>
+        {!quiz && !write && (
+          <button
+            className={autoplay ? 'audio-button autoplay on' : 'audio-button autoplay'}
+            aria-pressed={autoplay}
+            aria-label={autoplay ? 'Stop hands-free playback' : 'Play words hands-free'}
+            title={autoplay ? 'Stop hands-free playback' : 'Play words hands-free'}
+            onClick={() => setAutoplay(on => !on)}
+          >
+            {autoplay ? <Pause size={18} /> : <Play size={18} />}
+          </button>
+        )}
         <button
           className="audio-button"
           disabled={busy || saves.some(save => save.key === word.english.toLowerCase())}
