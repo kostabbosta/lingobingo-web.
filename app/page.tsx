@@ -231,11 +231,14 @@ function Classroom() {
             </button>
             <button
               className="sync-button"
-              disabled={syncing}
+              disabled={syncing && authStatus !== 'signed-out'}
               onClick={() => (authStatus === 'signed-out' ? navigate('Sign In') : void refresh())}
             >
               {account ? <Cloud size={18} /> : null}
-              {syncing ? (account || cachedMastered !== null ? 'Updating progress…' : 'Loading progress…') : authStatus === 'signed-out' ? 'Sign in' : 'Sync'}
+              {/* Being signed out is settled news; a sync still in flight is not. */}
+              {authStatus === 'signed-out' ? 'Sign in'
+                : syncing ? (account || cachedMastered !== null ? 'Updating progress…' : 'Loading progress…')
+                : 'Sync'}
             </button>
           </div>
         </header>
@@ -509,8 +512,8 @@ function Dashboard() {
   );
 }
 function ProgressView({ achievements = false }: { achievements?: boolean }) {
-  const { account, words, navigate, refresh, syncing, setWordListLevel } = useLearning();
-  if (!account && syncing) return <section className="panel empty" role="status">Loading your progress…</section>;
+  const { account, words, navigate, refresh, syncing, setWordListLevel, authStatus } = useLearning();
+  if (!account && syncing && authStatus !== 'signed-out') return <section className="panel empty" role="status">Loading your progress…</section>;
   if (!account)
     return (
       <section className="panel empty">
