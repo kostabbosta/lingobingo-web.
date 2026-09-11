@@ -702,18 +702,25 @@ footer {
     display: none;
   }
   .sidebar nav {
-    display: flex;
-    justify-content: space-between;
+    /* Equal columns, so a long label cannot widen its own tab. */
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 2px;
     margin-top: 10px;
   }
   .nav-item {
-    font-size: 12px;
+    font-size: 11px;
     flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    line-height: 1.3;
     gap: 6px;
-    padding: 8px 3px;
+    padding: 8px 2px;
     margin: 0;
     width: auto;
-    flex: 1;
+    min-width: 0;
+    overflow-wrap: break-word;
   }
   .nav-item svg {
     width: 18px;
