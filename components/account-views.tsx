@@ -129,6 +129,71 @@ export function SignIn() {
     </section>
   );
 }
+function DeleteAccount({ email }: { email: string }) {
+  const { logout } = useLearning();
+  const [stage, setStage] = useState<'idle' | 'confirm' | 'code'>('idle'),
+    [code, setCode] = useState(''), [typed, setTyped] = useState(''),
+    [busy, setBusy] = useState(false), [note, setNote] = useState(''), [error, setError] = useState('');
+  async function sendCode() {
+    setBusy(true); setError(''); setNote('');
+    try {
+      const r = await api<{ message: string }>({ action: 'delete-code' });
+      setNote(r.message); setStage('code');
+    } catch (e) { setError((e as Error).message); } finally { setBusy(false); }
+  }
+  async function destroy(e: FormEvent) {
+    e.preventDefault();
+    setBusy(true); setError(''); setNote('');
+    try {
+      const r = await api<{ message: string }>({ action: 'delete-account', code, email: typed });
+      setNote(r.message);
+      setStage('idle');
+      await logout();
+    } catch (e) { setError((e as Error).message); } finally { setBusy(false); }
+  }
+  return (
+    <div className="danger-zone">
+      <h3>Delete your account</h3>
+      <p>
+        This permanently removes your LingoBingo account and everything stored with it: your saved
+        words and proficiency, your repeat list, and your study preferences. It affects the Android
+        app too, because both share one account. It cannot be undone.
+      </p>
+      {stage === 'idle' && (
+        <button type="button" className="danger-button" onClick={() => { setStage('confirm'); setError(''); setNote(''); }}>
+          Delete account
+        </button>
+      )}
+      {stage === 'confirm' && (
+        <div className="danger-confirm">
+          <p><strong>Are you sure?</strong> We will email a six digit code to {email} to confirm it is you.</p>
+          <button type="button" className="danger-button" disabled={busy} onClick={sendCode}>
+            {busy ? 'Sending code…' : 'Yes, email me a code'}
+          </button>
+          <button type="button" className="text-button" disabled={busy} onClick={() => setStage('idle')}>Cancel</button>
+        </div>
+      )}
+      {stage === 'code' && (
+        <form className="danger-confirm" onSubmit={destroy}>
+          <label>
+            Six digit code from your email
+            <input value={code} onChange={e => setCode(e.target.value)} inputMode="numeric" pattern="\d{6}" maxLength={6} autoComplete="one-time-code" required />
+          </label>
+          <label>
+            Type <strong>{email}</strong> to confirm
+            <input value={typed} onChange={e => setTyped(e.target.value)} autoComplete="off" spellCheck={false} required />
+          </label>
+          <button className="danger-button" disabled={busy || typed.trim().toLowerCase() !== email.toLowerCase() || !/^\d{6}$/.test(code.trim())}>
+            {busy ? 'Deleting…' : 'Delete my account permanently'}
+          </button>
+          <button type="button" className="text-button" disabled={busy} onClick={() => { setStage('idle'); setCode(''); setTyped(''); }}>Cancel</button>
+        </form>
+      )}
+      {note && <p className="notice" role="status">{note}</p>}
+      {error && <p className="notice error" role="alert">{error}</p>}
+    </div>
+  );
+}
 export function SettingsView() {
   const { account, authStatus, level: savedLevel, lang: savedLang, refresh, logout, navigate, applySavedPreferences } =
     useLearning();
@@ -219,6 +284,7 @@ export function SettingsView() {
           {feedback}
         </p>
       )}
+      {authStatus === 'signed-in' && <DeleteAccount email={account?.user.email || ''} />}
       {authStatus === 'signed-in' && (
         <div className="account-links">
           <button

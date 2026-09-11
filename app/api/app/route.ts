@@ -158,6 +158,23 @@ function fail(e: unknown, req: Request) {
 }
 const filter = (email: string, extra: Record<string, string> = {}) =>
   new URLSearchParams({ user_id: `eq.${email}`, ...extra });
+// Deleting an auth user and every row it owns needs more authority than the
+// signed-in learner has. The key is server-only and never reaches the browser.
+async function serviceRoleKey(): Promise<string> {
+  let key = '';
+  try { const { env } = await import('cloudflare:workers'); key = (env as unknown as { SUPABASE_SERVICE_ROLE_KEY?: string }).SUPABASE_SERVICE_ROLE_KEY ?? ''; } catch { /* Non-worker runtime. */ }
+  return key || process.env.SUPABASE_SERVICE_ROLE_KEY || '';
+}
+async function admin(path: string, key: string, method: string) {
+  const r = await fetch(SUPABASE_URL + path, {
+    method, headers: { apikey: key, Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
+    signal: AbortSignal.timeout(18000),
+  });
+  if (!r.ok) {
+    console.error('Account deletion failed', { resource: path.split('?')[0], method, status: r.status });
+    throw new ApiError('Your account could not be fully deleted. Nothing was removed; please try again.', 502);
+  }
+}
 export async function GET(req: Request) {
   let refreshed: Session | undefined;
   try {
@@ -440,6 +457,32 @@ export async function POST(req: Request) {
         'Your progress changed on another device. Please try this answer again.',
         409,
       );
+    }
+    if (b.action === 'delete-code') {
+      const { session: s, refreshed: r } = await session(req);
+      if (r) refreshed = s;
+      await upstream('/auth/v1/otp', undefined, 'POST', {
+        email: s.user.email.toLowerCase().trim(), create_user: false,
+      });
+      return reply({ ok: true, message: 'A confirmation code is on its way to your email address.' }, req, refreshed);
+    }
+    if (b.action === 'delete-account') {
+      const { session: s } = await session(req);
+      const email = s.user.email.toLowerCase().trim();
+      const code = typeof b.code === 'string' ? b.code.trim() : '';
+      const typed = typeof b.email === 'string' ? b.email.toLowerCase().trim() : '';
+      if (typed !== email) throw new ApiError('Type your account email exactly to confirm deletion.');
+      if (!/^\d{6}$/.test(code)) throw new ApiError('Enter the six digit code from your email.');
+      const adminKey = await serviceRoleKey();
+      if (!adminKey) throw new ApiError('Account deletion is not configured on this server yet.', 503);
+      // The code proves control of the mailbox; a stolen session alone is not
+      // enough to erase an account.
+      await upstream('/auth/v1/verify', undefined, 'POST', { type: 'email', email, token: code });
+      for (const table of ['user_progress', 'user_repeat_words', 'user_settings']) {
+        await admin(`/rest/v1/${table}?${filter(email)}`, adminKey, 'DELETE');
+      }
+      await admin(`/auth/v1/admin/users/${encodeURIComponent(s.user.id)}`, adminKey, 'DELETE');
+      return reply({ ok: true, message: 'Your account and its learning data have been deleted.' }, req, undefined, true);
     }
     throw new ApiError('Unknown action.');
   } catch (e) {
