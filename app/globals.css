@@ -1551,7 +1551,13 @@ main > .page-heading { border-left: 4px solid var(--module-accent); padding-left
 .ad-placeholder { display: grid; place-items: center; min-height: 90px; border: 1px dashed #b9c6d8; border-radius: 8px; background: #f2f6fb; color: #7b8ba3; font-size: 12px; }
 .ad-right .ad-placeholder { height: 600px; }
 @media (max-width: 1200px) { .ad-top { padding: 16px 25px 0; } }
-@media (max-width: 700px) { .ad-top { padding: 14px 18px 0; } }
+@media (max-width: 700px) {
+  .ad-top { padding: 14px 18px 0; }
+  /* Reserve what a phone-sized unit actually fills, so the space does not
+     read as an empty box while the account is unconfigured. */
+  .ad-placeholder { min-height: 50px; }
+  .ad-label { margin-bottom: 6px; font-size: 11px; }
+}
 .topbar { height: auto; min-height: 76px; padding-top: 12px; padding-bottom: 12px; flex-wrap: wrap; gap: 12px; }
 .top-actions { flex-wrap: wrap; }
 footer { flex-wrap: wrap; gap: 12px; }
