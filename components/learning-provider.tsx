@@ -8,7 +8,7 @@ import {
   useRef,
   type ReactNode,
 } from 'react';
-import { api, type Content, type Word } from '../lib/learning';
+import { api, REQUEST_TIMEOUT, type Content, type Word } from '../lib/learning';
 import { latestByWord, type Progress } from '../lib/progress';
 import { readMastered, writeMastered } from '../lib/stat-cache';
 import { requireLoadedAccount } from '../lib/account-readiness';
@@ -99,7 +99,12 @@ function useLearningState() {
       setSyncing(true);
       try {
         // Verify the session before displaying an account-specific cached count.
-        const identityResponse = await fetch('/api/app?identity=1', { cache: 'no-store' });
+        let identityResponse: Response;
+        try {
+          identityResponse = await fetch('/api/app?identity=1', { cache: 'no-store', signal: AbortSignal.timeout(REQUEST_TIMEOUT) });
+        } catch {
+          throw Error('Your account took too long to answer. Please try again.');
+        }
         const identity = await identityResponse.json() as { email?: string; error?: string };
         if (!identityResponse.ok) throw Object.assign(new Error(identity.error || 'Could not check your account.'), { status: identityResponse.status });
         if (typeof identity.email !== 'string') throw Error('Could not check your account.');

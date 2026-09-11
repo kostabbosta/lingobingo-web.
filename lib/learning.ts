@@ -88,12 +88,26 @@ export const LANGUAGES = [
   ['th', 'Thai'],
   ['id', 'Indonesian'],
 ];
+// The caller holds this promise as the live sync, so a request that never
+// settles leaves the account updating forever. Give up instead.
+export const REQUEST_TIMEOUT = 25000;
 export async function api<T = { ok?: boolean; message: string; signedIn?: boolean }>(body?: unknown): Promise<T> {
-  const r = await fetch('/api/app', {
-    method: body ? 'POST' : 'GET',
-    headers: body ? { 'Content-Type': 'application/json' } : undefined,
-    body: body ? JSON.stringify(body) : undefined,
-  });
+  let r: Response;
+  try {
+    r = await fetch('/api/app', {
+      method: body ? 'POST' : 'GET',
+      headers: body ? { 'Content-Type': 'application/json' } : undefined,
+      body: body ? JSON.stringify(body) : undefined,
+      signal: AbortSignal.timeout(REQUEST_TIMEOUT),
+    });
+  } catch (e) {
+    throw Object.assign(
+      Error((e as Error)?.name === 'TimeoutError'
+        ? 'Your account took too long to answer. Please try again.'
+        : 'The connection was interrupted. Please try again.'),
+      { status: 0 },
+    );
+  }
   const d = (await r.json()) as T & { error?: string };
   if (!r.ok)
     throw Object.assign(Error(d.error || 'Unable to connect.'), {
