@@ -133,12 +133,20 @@ function DeleteAccount({ email }: { email: string }) {
   const { logout } = useLearning();
   const [stage, setStage] = useState<'idle' | 'confirm' | 'code'>('idle'),
     [code, setCode] = useState(''), [typed, setTyped] = useState(''),
-    [busy, setBusy] = useState(false), [note, setNote] = useState(''), [error, setError] = useState('');
+    [busy, setBusy] = useState(false), [note, setNote] = useState(''), [error, setError] = useState(''),
+    [wait, setWait] = useState(0);
+  // The mail service allows only a few messages an hour, so a resend that can
+  // be pressed repeatedly would exhaust the quota before a code arrives.
+  useEffect(() => {
+    if (wait <= 0) return;
+    const timer = window.setTimeout(() => setWait(seconds => seconds - 1), 1000);
+    return () => window.clearTimeout(timer);
+  }, [wait]);
   async function sendCode() {
     setBusy(true); setError(''); setNote('');
     try {
       const r = await api<{ message: string }>({ action: 'delete-code' });
-      setNote(r.message); setStage('code');
+      setNote(r.message); setStage('code'); setWait(60);
     } catch (e) { setError((e as Error).message); } finally { setBusy(false); }
   }
   async function destroy(e: FormEvent) {
@@ -186,7 +194,12 @@ function DeleteAccount({ email }: { email: string }) {
           <button className="danger-button" disabled={busy || typed.trim().toLowerCase() !== email.toLowerCase() || !/^\d{6}$/.test(code.trim())}>
             {busy ? 'Deleting…' : 'Delete my account permanently'}
           </button>
-          <button type="button" className="text-button" disabled={busy} onClick={() => { setStage('idle'); setCode(''); setTyped(''); }}>Cancel</button>
+          <div className="danger-actions">
+            <button type="button" className="text-button" disabled={busy || wait > 0} onClick={sendCode}>
+              {wait > 0 ? `Resend code in ${wait}s` : 'Resend code'}
+            </button>
+            <button type="button" className="text-button" disabled={busy} onClick={() => { setStage('idle'); setCode(''); setTyped(''); setWait(0); }}>Cancel</button>
+          </div>
         </form>
       )}
       {note && <p className="notice" role="status">{note}</p>}

@@ -461,9 +461,17 @@ export async function POST(req: Request) {
     if (b.action === 'delete-code') {
       const { session: s, refreshed: r } = await session(req);
       if (r) refreshed = s;
-      await upstream('/auth/v1/otp', undefined, 'POST', {
-        email: s.user.email.toLowerCase().trim(), create_user: false,
-      });
+      try {
+        await upstream('/auth/v1/otp', undefined, 'POST', {
+          email: s.user.email.toLowerCase().trim(), create_user: false,
+        });
+      } catch (e) {
+        // The mail service answers with its own wording; say what a learner
+        // can do about it instead.
+        if (e instanceof ApiError && /rate limit/i.test(e.message))
+          throw new ApiError('Too many codes have been requested recently. Please wait a few minutes and try again.', 429);
+        throw e;
+      }
       return reply({ ok: true, message: 'A confirmation code is on its way to your email address.' }, req, refreshed);
     }
     if (b.action === 'delete-account') {
