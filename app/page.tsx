@@ -188,10 +188,11 @@ function Classroom() {
             onClick={() => navigate(authStatus === 'signed-out' ? 'Sign In' : 'Settings')}
           >
             <div className="avatar">
-              {account?.user.name[0]?.toUpperCase() || 'L'}
+              {(account?.user.name || account?.user.email)?.[0]?.toUpperCase() || 'L'}
             </div>
             <div>
-              <strong>{account?.user.name || 'Welcome, learner'}</strong>
+              {/* The name is the one chosen at registration, or kept in Settings. */}
+              <strong>{account ? `Welcome, ${account.user.name || account.user.email}` : 'Welcome, learner'}</strong>
               <small>
                 {authStatus === 'signed-in' ? 'Your LingoBingo account'
                   : authStatus === 'signed-out' ? 'Sign in to sync progress' : 'Checking your account…'}

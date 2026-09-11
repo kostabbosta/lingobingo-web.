@@ -183,10 +183,17 @@ p {
   font-size: 14px;
   font-weight: 700;
 }
+.profile > div:last-child {
+  min-width: 0;
+}
 .profile strong,
 .profile small {
   display: block;
   font-size: 14px;
+  /* A registered name or email can be far wider than the sidebar. */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .profile small {
   color: #8a95a6;
