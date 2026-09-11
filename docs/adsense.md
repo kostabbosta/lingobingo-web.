@@ -1,15 +1,15 @@
 # Google AdSense banner
 
-Every menu view carries four manual, in-page display ads: a horizontal
-leaderboard under the top bar, a horizontal banner below the content, and
-160x600 vertical rails left and right of the classroom. The rails only mount at
+Every menu view carries three manual, in-page display ads: a horizontal
+leaderboard under the top bar, a horizontal banner below the content, and a
+160x600 vertical rail to the right of the classroom. The rail only mounts at
 viewports of 1400px and wider, so narrow screens show the two horizontal units
 alone.
 
 Ads do not mount on the sign-in screen, on loading and error screens, or while a
 word detail is open. Everything else — dashboard, vocabulary lists, settings,
 progress, and the active practice, quiz, reading and puzzle screens — shows all
-four. No timers refresh ads. The script loads once per page, and blocked ads do
+three. No timers refresh ads. The script loads once per page, and blocked ads do
 not interrupt learning. Nothing loads while unconfigured.
 
 Each placement is independent. A slot ID left empty in `lib/ads.ts` reserves its
@@ -21,7 +21,7 @@ the real unit with no other change.
 
 1. Add and verify lingobingoenglish.com in the website owner's AdSense account.
 2. Create one Display ad unit per placement in use — horizontal units for `top`
-   and `bottom`, vertical units for `left` and `right`. Copy the account's
+   and `bottom`, a vertical unit for `right`. Copy the account's
    `ca-pub-…` publisher ID and each unit's numeric `data-ad-slot` into the
    matching key of `ADSENSE.slots` in `lib/ads.ts`.
 3. Publish the appropriate consent message in AdSense Privacy & messaging

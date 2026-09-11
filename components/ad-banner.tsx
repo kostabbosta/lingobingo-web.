@@ -43,7 +43,7 @@ export function AdBanner({ placement = 'bottom' }: { placement?: AdPlacement }) 
   const requested = useRef(false);
   const [failed, setFailed] = useState(false);
   const railRoom = useRailRoom();
-  const vertical = placement === 'left' || placement === 'right';
+  const vertical = placement === 'right';
   const live = adsConfigured(placement);
   const enabled = live && (!vertical || railRoom);
 

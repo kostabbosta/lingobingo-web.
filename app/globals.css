@@ -1537,8 +1537,8 @@ main > .page-heading { border-left: 4px solid var(--module-accent); padding-left
 .classroom-row { display: flex; align-items: flex-start; justify-content: center; gap: 24px; }
 .classroom-row > main { flex: 1 1 auto; min-width: 0; }
 .ad-top { max-width: 1450px; margin: 0 auto; padding: 20px 44px 0; border-top: 0; }
-.ad-left, .ad-right { flex: 0 0 160px; width: 160px; margin: 39px 16px 0; padding-top: 0; border-top: 0; }
-.ad-left .adsbygoogle, .ad-right .adsbygoogle { width: 160px; height: 600px; min-height: 0; }
+.ad-right { flex: 0 0 160px; width: 160px; margin: 39px 16px 0; padding-top: 0; border-top: 0; }
+.ad-right .adsbygoogle { width: 160px; height: 600px; min-height: 0; }
 .legal-page { max-width: 760px; margin: 0 auto; padding: 40px 24px 64px; background: #fff; min-height: 100vh; }
 .legal-brand { flex-direction: row; align-items: center; gap: 12px; margin-bottom: 32px; }
 .legal-brand > span { text-align: left; font-size: 20px; }
@@ -1549,7 +1549,7 @@ main > .page-heading { border-left: 4px solid var(--module-accent); padding-left
 .legal-updated { color: #8a95a6; font-size: 14px; margin-bottom: 24px; }
 .legal-back { margin-top: 36px; padding-top: 20px; border-top: 1px solid #e7ebf2; }
 .ad-placeholder { display: grid; place-items: center; min-height: 90px; border: 1px dashed #b9c6d8; border-radius: 8px; background: #f2f6fb; color: #7b8ba3; font-size: 12px; }
-.ad-left .ad-placeholder, .ad-right .ad-placeholder { height: 600px; }
+.ad-right .ad-placeholder { height: 600px; }
 @media (max-width: 1200px) { .ad-top { padding: 16px 25px 0; } }
 @media (max-width: 700px) { .ad-top { padding: 14px 18px 0; } }
 .topbar { height: auto; min-height: 76px; padding-top: 12px; padding-bottom: 12px; flex-wrap: wrap; gap: 12px; }

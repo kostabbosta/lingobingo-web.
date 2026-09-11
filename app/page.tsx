@@ -245,7 +245,6 @@ function Classroom() {
         </header>
         {showAds && <AdBanner placement="top" />}
         <div className="classroom-row">
-        {showAds && <AdBanner placement="left" />}
         <main style={{ '--module-accent': moduleColors[view] || '#2196F3' } as React.CSSProperties}>
           <DailyStats />
           <div className="page-heading">

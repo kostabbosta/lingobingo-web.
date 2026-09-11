@@ -6,7 +6,7 @@ export const ADSENSE = {
   // deployed placements cannot generate invalid impressions. Turn off to earn.
   testMode: false,
   publisherId: 'ca-pub-4643950745944411',
-  slots: { top: '', bottom: '', left: '', right: '' },
+  slots: { top: '', bottom: '', right: '' },
 };
 
 export type AdPlacement = keyof typeof ADSENSE.slots;
