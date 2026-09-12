@@ -37,11 +37,14 @@ const json=(data,status=200)=>new Response(JSON.stringify(data),{status,headers:
 const request=(body,origin='http://localhost:3000',cookie='lb_access=test-access; lb_refresh=test-refresh')=>new Request('http://localhost:3000/api/app',{method:body?'POST':'GET',headers:{...(origin?{Origin:origin}:{}),'Content-Type':'application/json',Cookie:cookie},body:body?JSON.stringify(body):undefined});
 const user={id:'synthetic-user',email:'Learner@Example.com',user_metadata:{username:'Learner'}};
 const auth=()=>json(user);
-test('preference saves use the verified account and retain the chosen native language',async()=>{
+test('preference saves use the verified account and never rename it',async()=>{
  let saved;
  globalThis.fetch=async(url,options)=>{if(new URL(url).pathname==='/auth/v1/user')return auth();assert.match(String(url),/user_settings\?on_conflict=user_id/);saved=JSON.parse(options.body);return json(null);};
  const r=await route.POST(request({action:'settings',user_id:'someone-else',level:'A1',lang:'ru',name:'Deltageo',levelTitle:'Starter',langName:'Russian'}));
- assert.equal(r.status,200);assert.equal(saved.user_id,'learner@example.com');assert.equal(saved.lang_code,'ru');assert.equal(saved.username,'Deltageo');
+ assert.equal(r.status,200);assert.equal(saved.user_id,'learner@example.com');assert.equal(saved.lang_code,'ru');
+ // The username is assigned at registration and identifies the account on both
+ // clients, so a submitted name must not reach the stored row.
+ assert.equal('username' in saved,false);
  const result=await r.json();assert.equal(result.email,saved.user_id);assert.equal(result.settings.updated_at,saved.updated_at);assert.equal(result.settings.lang_code,'ru');
 });
 

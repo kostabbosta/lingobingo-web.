@@ -184,11 +184,8 @@ export function SettingsView() {
   const [level, setLevel] = useState(savedLevel), [lang, setLang] = useState(savedLang),
     [preferencesEdited, setPreferencesEdited] = useState(false);
   useEffect(() => { if (!preferencesEdited) { setLevel(savedLevel); setLang(savedLang); } }, [savedLevel, savedLang, preferencesEdited]);
-  const [name, setName] = useState(account?.user.name || ''),
-    [nameEdited, setNameEdited] = useState(false),
-    [busy, setBusy] = useState(false),
+  const [busy, setBusy] = useState(false),
     [feedback, setFeedback] = useState('');
-  useEffect(() => { if (!nameEdited && account) setName(account.user.name); }, [account?.user.name, nameEdited]);
   async function save(e: FormEvent) {
     e.preventDefault();
     if (authStatus === 'signed-out') {
@@ -204,7 +201,6 @@ export function SettingsView() {
         levelTitle: LEVELS.find((l) => l[0] === level)?.[1],
         lang,
         langName: LANGUAGES.find((l) => l[0] === lang)?.[1],
-        name,
       });
       applySavedPreferences(saved.email, saved.settings);
       setFeedback('Your preferences are saved to your LingoBingo account.');
@@ -219,15 +215,12 @@ export function SettingsView() {
       <h2>Your classroom, your pace.</h2>
       <p>Select your study level and native language.</p>
       <form onSubmit={save}>
-        <label>
-          Display name
-          <input
-            value={name}
-            onChange={(e) => { setName(e.target.value); setNameEdited(true); }}
-            maxLength={60}
-            required
-          />
-        </label>
+        {/* Assigned when the account was created, and the same name the Android
+            app and the leaderboard use, so it is shown rather than edited. */}
+        <div className="readonly-field">
+          <span>Username</span>
+          <strong>{account?.user.name || '—'}</strong>
+        </div>
         <label>
           Native language
           <select value={lang} onChange={(e) => { setLang(e.target.value); setPreferencesEdited(true); }}>

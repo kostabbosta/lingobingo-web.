@@ -326,18 +326,18 @@ export async function POST(req: Request) {
       if (
         !levels.includes(b.level) ||
         typeof b.lang !== 'string' ||
-        !/^[a-z]{2,3}(?:-[A-Za-z]{2,4})?$/.test(b.lang) ||
-        typeof b.name !== 'string' ||
-        b.name.length > 60
+        !/^[a-z]{2,3}(?:-[A-Za-z]{2,4})?$/.test(b.lang)
       )
-        throw new ApiError('Choose a valid level, language, and name.');
+        throw new ApiError('Choose a valid level and language.');
+      // The username is assigned at registration and is the identity both clients
+      // and the leaderboard key on, so it is never rewritten from here. Leaving it
+      // out of the payload keeps the stored value untouched by the upsert.
       const settings = {
           user_id: email,
           level_code: b.level,
           level_title: b.levelTitle || b.level,
           lang_code: b.lang,
           lang_name: String(b.langName || b.lang).slice(0, 40),
-          username: b.name,
           updated_at: Date.now(),
         };
       await upstream(
