@@ -17,7 +17,7 @@ export default function Privacy() {
         <span>Lingo<b>Bingo</b><small>ENGLISH</small></span>
       </a>
       <h1>Privacy Policy</h1>
-      <p className="legal-updated">Last updated 10 September 2026</p>
+      <p className="legal-updated">Last updated 12 September 2026</p>
 
       <p>
         LingoBingo English is an English learning website operated by Online Pay LTD. This page explains what
@@ -74,8 +74,26 @@ export default function Privacy() {
       <h2>Retention and your choices</h2>
       <p>
         Account information and learning progress are kept while your account exists, so that your progress is
-        available across devices. You can sign out at any time, which clears the data held in your browser. To
-        request deletion of your account and its stored progress, contact us at the address below.
+        available across devices. You can sign out at any time, which clears the data held in your browser.
+      </p>
+
+      <h2>Deleting your account</h2>
+      <p>
+        You can delete your account yourself, at any time, without asking us. Sign in, open{' '}
+        <strong>Settings</strong>, and use <strong>Delete your account</strong> at the bottom of the page. You
+        will be asked to type your account email address to confirm, because the deletion cannot be undone.
+      </p>
+      <p>
+        Deleting removes your account and everything stored with it: the words you have practised and their
+        proficiency scores, your review schedule, your repeat list, your study level and language preferences,
+        and the account record itself. This happens immediately and permanently — we keep no copy, and there is
+        no recovery period.
+      </p>
+      <p>
+        The LingoBingo Android app and this website share one account, so deleting here also removes the
+        progress used by the app. You would need to create a new account to continue learning on either. If you
+        cannot reach the Settings page for any reason, write to us at the address below and we will delete the
+        account for you.
       </p>
 
       <h2>Children</h2>
