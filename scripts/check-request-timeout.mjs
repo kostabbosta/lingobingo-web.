@@ -18,7 +18,9 @@ test('every account request carries a deadline', async () => {
     () => learning.api());
   assert.ok(seen.signal, 'the request was sent without an abort signal and could hang forever');
   assert.equal(typeof learning.REQUEST_TIMEOUT, 'number');
-  assert.ok(learning.REQUEST_TIMEOUT > 0 && learning.REQUEST_TIMEOUT <= 60000);
+  // Long enough to outlast a real sync — session check plus paged progress, each
+  // upstream call budgeted 18s — but still bounded, so a dead request gives up.
+  assert.ok(learning.REQUEST_TIMEOUT >= 40000 && learning.REQUEST_TIMEOUT <= 90000);
 });
 
 test('a stalled request is reported, never left pending', async () => {

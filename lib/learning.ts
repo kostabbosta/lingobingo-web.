@@ -89,8 +89,10 @@ export const LANGUAGES = [
   ['id', 'Indonesian'],
 ];
 // The caller holds this promise as the live sync, so a request that never
-// settles leaves the account updating forever. Give up instead.
-export const REQUEST_TIMEOUT = 25000;
+// settles leaves the account updating forever. Give up instead — but only well
+// past what a real sync takes: the server validates the session and then pages
+// through progress, and each of those upstream calls may itself run to 18s.
+export const REQUEST_TIMEOUT = 45000;
 export async function api<T = { ok?: boolean; message: string; signedIn?: boolean }>(body?: unknown): Promise<T> {
   let r: Response;
   try {
