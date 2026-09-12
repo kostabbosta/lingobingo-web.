@@ -179,26 +179,6 @@ function Classroom() {
             <strong>A little every day.</strong>
             <p>Make room for your next new word.</p>
           </div>
-          <button className="nav-item" onClick={() => navigate('Settings')}>
-            <Settings size={20} />
-            Settings
-          </button>
-          <button
-            className="profile"
-            onClick={() => navigate(authStatus === 'signed-out' ? 'Sign In' : 'Settings')}
-          >
-            <div className="avatar">
-              {(account?.user.name || account?.user.email)?.[0]?.toUpperCase() || 'L'}
-            </div>
-            <div>
-              {/* The name is the one chosen at registration, or kept in Settings. */}
-              <strong>{account ? `Welcome, ${account.user.name || account.user.email}` : 'Welcome, learner'}</strong>
-              <small>
-                {authStatus === 'signed-in' ? 'Your LingoBingo account'
-                  : authStatus === 'signed-out' ? 'Sign in to sync progress' : 'Checking your account…'}
-              </small>
-            </div>
-          </button>
         </div>
       </aside>
       <div className="main-shell">
@@ -240,6 +220,24 @@ function Classroom() {
               {authStatus === 'signed-out' ? 'Sign in'
                 : syncing ? (account || cachedMastered !== null ? 'Updating progress…' : 'Loading progress…')
                 : 'Sync'}
+            </button>
+            <button
+              className="icon-button"
+              aria-label="Settings"
+              title="Settings"
+              onClick={() => navigate('Settings')}
+            >
+              <Settings size={19} />
+            </button>
+            <button
+              className="profile top-profile"
+              onClick={() => navigate(authStatus === 'signed-out' ? 'Sign In' : 'Settings')}
+            >
+              <div className="avatar">
+                {(account?.user.name || account?.user.email)?.[0]?.toUpperCase() || 'L'}
+              </div>
+              {/* The name is the one chosen at registration, or kept in Settings. */}
+              <span>{account ? account.user.name || account.user.email : 'Sign in'}</span>
             </button>
           </div>
         </header>
