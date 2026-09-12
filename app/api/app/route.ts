@@ -458,34 +458,15 @@ export async function POST(req: Request) {
         409,
       );
     }
-    if (b.action === 'delete-code') {
-      const { session: s, refreshed: r } = await session(req);
-      if (r) refreshed = s;
-      try {
-        await upstream('/auth/v1/otp', undefined, 'POST', {
-          email: s.user.email.toLowerCase().trim(), create_user: false,
-        });
-      } catch (e) {
-        // The mail service answers with its own wording; say what a learner
-        // can do about it instead.
-        if (e instanceof ApiError && /rate limit/i.test(e.message))
-          throw new ApiError('Too many codes have been requested recently. Please wait a few minutes and try again.', 429);
-        throw e;
-      }
-      return reply({ ok: true, message: 'A confirmation code is on its way to your email address.' }, req, refreshed);
-    }
     if (b.action === 'delete-account') {
       const { session: s } = await session(req);
       const email = s.user.email.toLowerCase().trim();
-      const code = typeof b.code === 'string' ? b.code.trim() : '';
       const typed = typeof b.email === 'string' ? b.email.toLowerCase().trim() : '';
+      // Typing the address is the whole confirmation: it guards against a
+      // mistaken click, not against someone holding a stolen session.
       if (typed !== email) throw new ApiError('Type your account email exactly to confirm deletion.');
-      if (!/^\d{6}$/.test(code)) throw new ApiError('Enter the six digit code from your email.');
       const adminKey = await serviceRoleKey();
       if (!adminKey) throw new ApiError('Account deletion is not configured on this server yet.', 503);
-      // The code proves control of the mailbox; a stolen session alone is not
-      // enough to erase an account.
-      await upstream('/auth/v1/verify', undefined, 'POST', { type: 'email', email, token: code });
       for (const table of ['user_progress', 'user_repeat_words', 'user_settings']) {
         await admin(`/rest/v1/${table}?${filter(email)}`, adminKey, 'DELETE');
       }

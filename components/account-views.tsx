@@ -131,31 +131,17 @@ export function SignIn() {
 }
 function DeleteAccount({ email }: { email: string }) {
   const { logout } = useLearning();
-  const [stage, setStage] = useState<'idle' | 'confirm' | 'code'>('idle'),
-    [code, setCode] = useState(''), [typed, setTyped] = useState(''),
-    [busy, setBusy] = useState(false), [note, setNote] = useState(''), [error, setError] = useState(''),
-    [wait, setWait] = useState(0);
-  // The mail service allows only a few messages an hour, so a resend that can
-  // be pressed repeatedly would exhaust the quota before a code arrives.
-  useEffect(() => {
-    if (wait <= 0) return;
-    const timer = window.setTimeout(() => setWait(seconds => seconds - 1), 1000);
-    return () => window.clearTimeout(timer);
-  }, [wait]);
-  async function sendCode() {
-    setBusy(true); setError(''); setNote('');
-    try {
-      const r = await api<{ message: string }>({ action: 'delete-code' });
-      setNote(r.message); setStage('code'); setWait(60);
-    } catch (e) { setError((e as Error).message); } finally { setBusy(false); }
-  }
+  const [confirming, setConfirming] = useState(false),
+    [typed, setTyped] = useState(''),
+    [busy, setBusy] = useState(false), [note, setNote] = useState(''), [error, setError] = useState('');
+  const matches = typed.trim().toLowerCase() === email.toLowerCase();
   async function destroy(e: FormEvent) {
     e.preventDefault();
     setBusy(true); setError(''); setNote('');
     try {
-      const r = await api<{ message: string }>({ action: 'delete-account', code, email: typed });
+      const r = await api<{ message: string }>({ action: 'delete-account', email: typed });
       setNote(r.message);
-      setStage('idle');
+      setConfirming(false);
       await logout();
     } catch (e) { setError((e as Error).message); } finally { setBusy(false); }
   }
@@ -167,38 +153,23 @@ function DeleteAccount({ email }: { email: string }) {
         words and proficiency, your repeat list, and your study preferences. It affects the Android
         app too, because both share one account. It cannot be undone.
       </p>
-      {stage === 'idle' && (
-        <button type="button" className="danger-button" onClick={() => { setStage('confirm'); setError(''); setNote(''); }}>
+      {!confirming && (
+        <button type="button" className="danger-button" onClick={() => { setConfirming(true); setError(''); setNote(''); }}>
           Delete account
         </button>
       )}
-      {stage === 'confirm' && (
-        <div className="danger-confirm">
-          <p><strong>Are you sure?</strong> We will email a six digit code to {email} to confirm it is you.</p>
-          <button type="button" className="danger-button" disabled={busy} onClick={sendCode}>
-            {busy ? 'Sending code…' : 'Yes, email me a code'}
-          </button>
-          <button type="button" className="text-button" disabled={busy} onClick={() => setStage('idle')}>Cancel</button>
-        </div>
-      )}
-      {stage === 'code' && (
+      {confirming && (
         <form className="danger-confirm" onSubmit={destroy}>
-          <label>
-            Six digit code from your email
-            <input value={code} onChange={e => setCode(e.target.value)} inputMode="numeric" pattern="\d{6}" maxLength={6} autoComplete="one-time-code" required />
-          </label>
+          <p><strong>This cannot be undone.</strong> Confirm by typing your account email below.</p>
           <label>
             Type <strong>{email}</strong> to confirm
-            <input value={typed} onChange={e => setTyped(e.target.value)} autoComplete="off" spellCheck={false} required />
+            <input value={typed} onChange={e => setTyped(e.target.value)} autoComplete="off" autoCapitalize="none" spellCheck={false} required aria-invalid={typed.length > 0 && !matches} />
           </label>
-          <button className="danger-button" disabled={busy || typed.trim().toLowerCase() !== email.toLowerCase() || !/^\d{6}$/.test(code.trim())}>
-            {busy ? 'Deleting…' : 'Delete my account permanently'}
-          </button>
           <div className="danger-actions">
-            <button type="button" className="text-button" disabled={busy || wait > 0} onClick={sendCode}>
-              {wait > 0 ? `Resend code in ${wait}s` : 'Resend code'}
+            <button className="danger-button" disabled={busy || !matches}>
+              {busy ? 'Deleting…' : 'Delete my account permanently'}
             </button>
-            <button type="button" className="text-button" disabled={busy} onClick={() => { setStage('idle'); setCode(''); setTyped(''); setWait(0); }}>Cancel</button>
+            <button type="button" className="text-button" disabled={busy} onClick={() => { setConfirming(false); setTyped(''); setError(''); }}>Cancel</button>
           </div>
         </form>
       )}
